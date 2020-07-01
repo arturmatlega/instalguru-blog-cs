@@ -4,28 +4,31 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: pagename
   label: pagename
+  hidden: false
 - type: text
   name: seo_title
-  label: seo_title
+  label: Tytuł (Mata)
 - type: text
   name: seo_description
-  label: seo_description
+  label: Opis (Meta)
 - type: boolean
   name: menu
-  label: menu
+  label: Wyświetlić w menu
+  hidden: false
+  default: true
 - type: text
   name: menu_title
-  label: menu_title
+  label: Nazwa w menu
 - type: text
   name: page_header
-  label: page_header
+  label: Tytuł strony
 - type: field_group_list
   name: hreflangs
-  label: hreflangs
+  label: Wersje językowe
   fields:
   - type: text
     name: lang
