@@ -8,6 +8,10 @@ sections:
   label: Pages
   create: all
   new_doc_ext: md
+  templates:
+  - page
+  - main-page
+  - post
 - type: jekyll-posts
   label: Posts
   create: all
