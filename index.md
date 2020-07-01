@@ -1,8 +1,10 @@
 ---
 layout: index
 pagename: home
-seo_title: SEO Strona główna
-seo_description: META Strona głowna
+seo_title: Instalguru - sklep internetowy | Instalacje, budowa, ogród
+seo_description: 'Sklep internetowy Instalguru - najwyższej jakości artykuły: systemy
+  instalacyjne, budowa domu, montaż, wykończenie wnętrz i ogród. Wszystko w jednym
+  miejscu.'
 menu: false
 menu_title: Strona główna
 page_header: Sklep internetowy instalguru
