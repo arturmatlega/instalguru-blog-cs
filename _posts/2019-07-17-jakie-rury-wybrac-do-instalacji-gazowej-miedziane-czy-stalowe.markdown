@@ -1,31 +1,39 @@
 ---
 layout: post
-seo_title: SEO Tytuł postu
-seo_description: META Opis postu
+seo_title: Jakie Rury do Gazu Wybrać? Które Przewody Będą Trwałe?
+seo_description: "Jak wykonać  poprawnie działającą instalację gazową? ✔️ Które rury
+  do gazu będą lepsze - przewody miedziane \U0001F19A rurki stalowe? Postaw na jakość
+  i trwałość."
 date: 2019-10-28T16:02:04.000+00:00
-update_date: 2020-02-28T16:02:04.000+00:00
+update_date: 2019-10-28 16:02:04 +0000
 title: |-
   Jakie rury do gazu wybrać - przewody miedziane czy stalowe? Instalacja gazowa
   bez tajemnic
-small-intro: |-
-  Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób
-  odprowadzić.
-intro: |-
-  Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić.
-  Kanalizacja to system rur służący do usuwania nieczystości poza teren budynku. Elementy
-  instalacji wodnej znajdują się zazwyczaj na terenie całej posesji, dlatego warto
-  dobrze ją zaplanować już na etapie projektowania budynku. W ten sposób zapewnisz
-  sobie sprawne i bezawaryjne działanie systemu.
-photo: "/uploads/eaa7dd4bd3dd431ca5de388a903d9b78.jpg"
-photo_desc: |-
-  Tutaj jest podpis do zdjęcia
+small-intro: 'Instalacja gazowa to w ostatnich latach podstawa niemal każdego nowego
+  budynku. '
+intro: Instalacja gazowa to w ostatnich latach podstawa niemal każdego nowego budynku.
+  Daje ona wiele korzyści. Jest to między innymi możliwość podłączenia sieci grzewczej
+  całego budynku. Nie każda instalacja gazowa jest jednak taka sama, co jest zależne
+  od wykorzystanych do jej stworzenia materiałów. W tym celu wykorzystywane są rurki
+  stalowe oraz przewody miedziane. Konieczne jest także ich uzupełnienie w dodatkowe
+  komponenty instalacyjne - między innymi zawory czy filtry. Zanim zdecydujesz się
+  na konkretne rozwiązanie, sprawdź, czym charakteryzuje się każde z nich. To powinno
+  zdecydowanie ułatwić Ci wybór.
+photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
+photo_desc: 'Nie każda instalacja gazowa jest jednak taka sama, co jest zależne od
+  wykorzystanych do jej stworzenia materiałów. '
 faq:
-- question: Tutaj mamy przykładowe pytanie?
-  answer: odpowiedz 1
-- question: pytanko 2
-  answer: odpowiedz 2
-- question: pytanko 3
-  answer: odpowiedz 3
+- question: Ile kosztuje instalacja gazowa?
+  answer: Koszt instalacji gazowej to wydatek rzędu 1700 - 3000 złotych w zależności
+    od wymagań, charakteru projektu i wykorzystanych materiałów. Wycena zależna jest
+    także od kosztu robocizny - ten może być różny w zależności np. od miejsca zamieszkania.
+- question: Instalacja gazowa w domu - jakie rury wybrać?
+  answer: Według niektórych osób przewody miedziane są idealnym wyborem do instalacji
+    gazowych. Zaletą tego rozwiązania jest fakt, że rury miedziane do gazu są plastyczne
+    od odporne na rozciąganie. Możliwe jest także wykorzystanie rurek stalowych w
+    instalacjach gazowych, których główną zaletą jest przede wszystkim sztywność.
+    Dzięki tej właściwości nie ma konieczności stosowania dodatkowych mocowań do powierzchni
+    ściany.
 author_name: Maksymilian Ignacyk
 author_desc: Specjalista ds. sprzedaży i marketingu w sklepie Instalguru
 author_photo: "/uploads/maks.jpg"
