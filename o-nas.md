@@ -1,10 +1,9 @@
 ---
 layout: page
 pagename: aboutus
-seo_title: InstalGuru - Najlepszy dystrybutor wyposażenia instalacyjnego
-seo_description: |-
-  Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? Sprawdź
-  ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
+seo_title: Instalguru | Stavební, rekonstrukční a zahradní potřeby
+seo_description: Zajímáte se o nejlepší řešení? Check our stock and select superior
+  products that fit your needs. Najít profesionální znalosti a zkušenosti.
 menu: true
 menu_title: O nás
 page_header: O nás
@@ -25,20 +24,16 @@ hreflangs:
   link: https://instalguru.cz/o-nas.html
 
 ---
-## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.
+Hledáte kvalitní stavební hardware za konkurenceschopnou cenu? Instalguru je internetový obchod nabízející stavební materiály, bytové doplňky a zahradní vybavení. Prodáváme produkty, které mohou zlepšit stav budovy a zvýšit její funkčnost.
 
-Są to pompy i zbiorniki, zawory, odpowietrzniki, syfony, spłuczki, akcesoria do zlewozmywaków i umywalek, systemy rynnowe czy narzędzia ręczne.
+## Široký výběr produktů
 
-Dzięki produktom dostępnym w naszej ofercie można w prosty sposób stworzyć sieć wodno-kanalizacyjną lub instalację grzewczą. Co więcej, można wyremontować swoją kuchnię lub łazienkę - a to wszystko w bardzo atrakcyjnych cenach.
+Nabízíme nejefektivnější řešení, která poskytují nejznámější světoví výrobci. Bohatý výběr produktů různých parametrů bude zajímat jak specialisty ve stavebnictví, tak i soukromé zákazníky.
 
-Bogate doświadczenie oraz specjalistyczna wiedza sprawiają, że **oferujemy najlepsze produkty na rynku** - wyróżniające się wysoką odpornością oraz precyzją wykonania. Nasza oferta skierowana jest do wszystkich tych osób, dla których jakość i zadowolenie są najważniejsze.
+## Dodávka v rámci Evropy
 
-## Co nas wyróżnia na tle konkurencji?
+Poskytujeme rychlé a profesionální zpracování objednávek, s různými formami platby a dodání - fit pro vaše potřeby. Zaručujeme přepravu do většiny evropských zemí. Objednávku si můžete vybrat sami.
 
-Szybka i profesjonalna obsługa - to słowa, które najbardziej charakteryzują naszą firmę. Zapewniamy elastyczne formy płatności, szybką realizację zamówień i dogodne formy transportu. Przesyłka dostępna jest zarówno na terenie Polski, jak i całej Europy. Klienci z okolic Krakowa mają także możliwość osobistego odbioru zamówionego towaru.
+## Odborná pomoc
 
-Wychodząc naprzeciw oczekiwaniom coraz szerszej grupy klientów, służymy pomocą w wyborze rozwiązań dopasowanych do indywidualnych potrzeb. Fachowe doradztwo jest jednym z głównych celów naszej firmy. Dążymy do ciągłego rozwoju - zarówno w kwestii wyboru asortymentu, jak i doskonalenia naszych specjalistów. Dokładamy wszelkich starań, aby rozwiązania dostępne w naszej ofercie były w pełni satysfakcjonujące - zarówno dla klientów indywidualnych, jak i specjalistycznych firm montażowych, z którymi współpracujemy.
-
-Jesteśmy dumni, że nasza praca przekłada się na zaufanie, którym obdarzają nas partnerzy, decydując się na ponowne skorzystanie z naszej oferty.
-
-**Wierzymy, że jest ono podstawą długoletniej, owocnej współpracy.**
+Potřebujete poradit, který produkt vybrat tak, že to je nejlepší pro práci, kterou musíte udělat? Naši odborníci se pokusí vyřešit váš problém a přizpůsobit vhodné produkty všem vašim potřebám. Můžete také použít návrhy ze článků, publikovaných na blogu. Jsou plné rozsáhlých specializovaných informací týkajících se stavby, renovací, domácí úpravy a zahradního vybavení.
