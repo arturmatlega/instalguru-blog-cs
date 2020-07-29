@@ -42,95 +42,96 @@ toc: true
 hreflangs: []
 
 ---
-## What is a drip irrigation system?
+## Co je kapkové zavlažování?
 
-Drip irrigation is one of the most **advanced method** of plant watering. It involves automatic water distribution, which saves a lot of time and energy. Compared to standard methods – a watering can or a garden hose, a drip irrigation system is much more efficient.
+Kapkové zavlažování je jednou z **moderních metod zavlažování rostlin**. Distribuce probíhá automaticky, což šetří značné množství času a energie. Ve srovnání s tradičními způsoby zavlažování-s zaléváním nebo zahradní hadicí je kapkový zavlažovací systém mnohem efektivnější.
 
-**In times when droughts are becoming increasingly regular, keeping the right moisture level is the most important part of plant care.** The standard methods of watering, however, are not only ineffective but also very wasteful. Even the most experienced gardener is unable to water a plant with 100% precision, providing enough moisture without any waste. It would simply take too much time. A watering system with a drip line is a perfect solution to this problem. It uses a set of tubes to transport the exact amount of water needed.
+**V době stále častějších sucha je udržování správné úrovně hydratace rostlin nejdůležitější činností, pokud jde o jejich péči**. Konvenční zavlažování je však nejen neúčinné, ale také vede ke zbytečnému plýtvání vodou. Dokonce i nejzkušenější zahradník není schopen zalévat rostlinu stoprocentně přesně-aby poskytl dostatek vody, ale nezpůsobil žádné ztráty. Bude to trvat příliš dlouho. Takže odkapávací linka, kterou kapkové zavlažování používá, je ideálním řešením. Jedná se o systém, který pomocí vodičů automaticky přenáší přesně tolik vody, kolik je potřeba.
 
-## How does a drip line work?
+## Jak funguje kapkové zavlažování?
 
-A drip irrigation system is a very simple installation. The **core component here is a drip line** – or, in some cases, a **drip tape**. Either of those is connected with a water source. The water flows through a system of pipes arranged on the ground. It drips out of tiny holes and moisturizes the plants – hence the name of the method. **Thanks to this solution, the roots system always has access to water – across the whole area covered by the system.** The moisture level can be easily adjusted by turning the tap.
+Kapkový zavlažovací systém je velmi snadná instalace. Jeho **hlavní součástí je kapací hadice** – a v některých případech **kapací páska**. Jeden z těchto prvků je připojen ke zdroji vody, který prochází potrubním systémem umístěným na úrovni země. Rostliny jsou napojeny kapkami vody, které pravidelně protékají malými otvory – odtud název tohoto roztoku. **Při tomto řešení je kořenový systém rostlin vždy správně hydratován po celém povrchu, který systém pokrývá**. Intenzita zvlhčování je snadno nastavitelná odšroubováním nebo utažením kohoutku.
 
-## What are the advantages of drip irrigation?
+## Jaké výhody přináší kapkové zavlažování?
 
-A drip line is a unique solution and it has many advantages. It can save a lot of time, money and resources. Why should one consider a drip irrigation system in the garden?
+Odkapávací linka je jedinečné řešení, které má mnoho výhod. Důvodem je především úspora času, peněz a zdrojů. Proč byste měli zvážit instalaci odkapávacího systému ve vaší zahradě?
 
 {:.list.list-positive}
 
-* **Drip irrigation means saving water.** With the traditional sprinkling method, water is distributed to relatively random spots. The plants are moisturized, however some of the water doesn't get where it's supposed to. This leads, as it has been already mentioned, to waste. Drip watering system provides water precisely where the plant's root system is.
-* **It's a system that requires minimal attention.** After a drip line is installed, all one needs to do is turn on the water and adjust the pressure level. There is also another option – make the process completely automatic. To do this, a special controlling device is required. It can automatically turn on the water at a particular part of the day, for a given amount of time. The most advanced controllers can even react to changes in weather.
-* **The water distributed to plants is of the highest quality.** A drip irrigation system should be equipped with an appropriate filter. It protects the installation, and the user doesn't have to worry about the plants being damaged by contaminated water.
-* **A micro-irrigation system makes gardening much easier.** It means not only easier watering, but also comfortable plants feeding. A drip line is perfect for distributing a fertiliser. To do this, one only needs to equip it with a special fertiliser injector.
-* **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents a spread of fungi and mould, which occurs quite often when plants are sprinkled with water from above. A drip line also eliminates the problem of sunburnt leaves.
-* **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system supports a better plant care and independence from the weather conditions. There is no need to worry that a drought will destroy the crops.
+* **Kapkové zalévání je úspora vody.** Při zavlažování postřikem je voda distribuována na poměrně náhodných místech. Rostliny jsou sice napojeny, ale část vody nejde tam, kde je potřeba, což, jak už bylo řečeno, vede k jejímu plýtvání. Kapkové zavlažování zalévá rostliny přesně v místě, kde je kořenový systém rostliny.
+* **Takový systém vyžaduje minimální pozornost od uživatele.** Po instalaci odkapávací linky stačí pouze odšroubovat vodu nastavením úrovně tlaku v instalaci. K dispozici je také možnost plně automatizovat systém pomocí speciálního regulátoru. Takové zařízení automaticky spustí tok vody v určitou denní dobu, po určitou dobu. Pokročilejší zařízení mohou dokonce reagovat na změnu počasí.
+* **Rostliny jsou napojeny kvalitní vodou.** Kapkové zavlažování by mělo být vybaveno příslušným filtrem. Tím je zajištěno, že instalace je řádně chráněna a uživatel se nemusí obávat, že rostliny zemřou pod vlivem nečistot z vody.
+* **Kapkové zavlažování usnadňuje péči o zahradu.** To je způsobeno především lehkým zaléváním, ale také výživou rostlin. Odkapávací linka je ideální pro šíření hnojiv – k tomu stačí použít speciální vstřikovač hnojiv.
+* **Kapkový zavlažovací systém snižuje riziko onemocnění rostlin.** Voda vstupuje přímo do půdy bez kontaktu s nadzemními částmi rostlin. To zabraňuje růstu plísní a hub, které se mohou vyskytnout při tradičním zalévání. Použití odkapávací linky také řeší problém s popáleninami listů.
+* **Takový systém může zvýšit výnosy zeleniny, ovoce a bylin.** Kapkové zavlažování znamená více dobře udržovaných rostlin a nezávislost na počasí, takže neexistují žádné obavy, že by sucho zničilo sklizeň.
 
-![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
+![Jaké výhody přináší kapkové zavlažování?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Jaké výhody přináší kapkové zavlažování?")
 
-## Where can one use a drip irrigation system?
+## Kde stojí za to používat kapkový zavlažovací systém?
 
-Because drip lines can cover quite large areas, it's a **recommended system for croplands**. It's perfect for watering plants like strawberries, blueberries and fruit trees. The installation gives you full control over the amount of water transported to a plant. Thanks to this there is no threat of overwatering, which could cause decay of the plants. It's an important aspect that impacts the quality of harvest.
+Vzhledem k tomu, že odkapávací linky mohou pokrývat i velmi velké plochy, je takový **systém doporučován a ochotně používán pro zemědělskou půdu**. Je to dobrý způsob zalévání rostlin, jako jsou jahody, borůvky nebo ovocné stromy. Instalace umožňuje úplnou kontrolu nad množstvím vody, která vstupuje do rostliny, takže neexistují žádné obavy z jejího rozlití, což může vést k hnilobě. To je důležitý aspekt, který může ovlivnit kvalitu sklizně.
 
-Drip irrigation is also an ideal system for private gardens. **A drip line can easily water flowerbeds, rock gardens and hedges.** It's also a good solution for potted plants. Interestingly, drip systems are becoming quite popular among balconies and patios.
+Kapkové zalévání je také ideální pro zahrady. **Odkapávací hadice dokonale zalévala květiny a živé ploty.** Tento systém je vhodný pro rostliny zasazené do kontejnerů. Zajímavé je, že řešení je stále častější i na balkonech a terasách.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-A drip irrigation system is unrecommended for lawns. In this case it is rather advised to use a standard garden hose or sprinklers.
+Kapkový zavlažovací systém se nedoporučuje pro zalévání trávníků. V tomto případě je lepší vsadit na tradiční zalévání pomocí zahradní hadice nebo postřikovačů.
 
-## Are there any disadvantages of drip irrigation?
+## Má kapkové zavlažování nějaké nevýhody?
 
-Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used mainly for perennial plants. A drip line, like every water installation, is susceptible to dirt. It might cause clogging. **Each element of the system should be maintained regularly.** Another problem is the difficulty to adjust the intensity of watering for certain plants. It can be solved by using a splitter to create several independent drip lines.
+Navzdory mnoha výhodám, které kapkové zavlažování přináší, stojí za to vzít v úvahu i nevýhody takového řešení. Jedná se o systém, který se často nemůže pohybovat, takže je nejlépe používán pro vytrvalé rostliny. Odkapávací potrubí, stejně jako každá vodní instalace, jsou také náchylné k znečištění, které může vést k obstrukci systému. **Každá položka by měla být pravidelně kontrolována**. Může být také nepohodlné regulovat intenzitu zavlažování podle typu rostlin, ačkoli to lze snadno vyřešit pomocí rozvaděče a vytvořením několika kapek.
 
-![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
+![Má kapkové zavlažování nějaké nevýhody?](/uploads/linia-kroplujaca-nawadnianie.jpg "Má kapkové zavlažování nějaké nevýhody?")
 
-## Drip watering system – what elements are needed to create an installation?
+## Kapkové zavlažování – jaké prvky jsou nezbytné pro vytvoření instalace?
 
-Drip irrigation is not a complicated system, and it's not difficult to install. Before doing that, one should equip themselves with all crucial components:
-
-{:.list.list-positive}
-
-* **Drip line** – a tube or a special tape used for watering. It's an element that can be placed directly on the ground, or it can be covered with soil.
-* **Emitters** – they are attached to the drip line and placed right by the plant.
-* **Water filter** – an essential part of a micro-irrigation system. It removes any water contamination and prevents the system failures.
-* **Additional components** – depending on the particular type of a drip irrigation system, one can use stakes for holding the drip lines and emitters as well as band clips, connectors and splitters.
-* **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
-
-### A drip line – which is better: tubes or tapes?
-
-Construction of a drip irrigation system involves making the decision on what to use for water distribution. There are several options available on the market. **The most popular ones are a drip hose and a drip tape.** Which is the better one? It mostly depends on what plants you are going to water and on your possibilities.
-
-{:.distinction.distinction-info.distinction-positive}
-
-A drip tape is typically used for small vegetable and fruit crops, flower beds and potted plants. A drip irrigation that uses a system of tubes is perfect for watering hedges, smaller trees and orchards. For the last one, it is advised to combine the drip irrigation with additional water distribution points – sprinklers.
-
-## Drip irrigation system installation – how to do it yourself?
-
-There are many companies offering the installation of drip lines. It's useful if a drip irrigation system is going to cover a widespread area, such as a large cropland. **However, if you want to install a small, uncomplicated micro-irrigation system in your garden, consider doing it yourself.** It's not very difficult.
-
-Depending on the line you choose, place a hose or a tape on the ground. Usually, it is held by a set of special stakes. **Some systems can be buried underground**. Arrange the lines so that they lay right by the plants. The next step involves installing the emitters (if they are included in the system). Lastly, connect the drip line with a water source. If needed, you can also split the main line using several tubes.
-
-The simplest drip irrigation systems are controlled by simply turning the tap on or off. **Manufacturers also offer special irrigation controllers.** Using them, one can plan watering for a particular day and hour. Thanks to this solution, a drip irrigation can run by itself, not requiring any special attention.
-
-## Drip irrigation system – estimated costs
-
-Are you wondering how expensive a drip irrigation system is? As most installations of this type, the price depends on individual factors. One should estimate the area that is going to be covered by the system. This aspect dictates the number of drip lines that should be installed. **The price obviously depends also on the manufacturer, therefore it is advised to compare the quality and value of available brands.**
-
-{:.distinction.distinction-info.distinction-positive}
-
-The less complicated the installation is, the less it costs. For this reason one should review all solutions that could be used. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
-
-![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
-
-## What else should one remember when installing drip irrigation?
-
-Because all gardens are different, one should keep every detail in mind when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
+Systém kapkového zavlažování není složitý a jeho montáž není náročná. Než se k tomu pustíte, musíte se zásobit všemi potřebnými předměty:
 
 {:.list.list-positive}
 
-* Is your garden situated on a hill or an uneven terrain? It doesn't mean that drip irrigation is not for you. Just use a **pressure regulator** – a device that will allow the water to flow upwards.
-* Remember **the emitters arrangement** depends mostly on the type of soil your plants grow in. The more loose the ground is, the more emitters you need. If the soil is quite dense, place them more sparsely to prevent water retention.
-* What hose colour to choose? **The most popular drip lines are available in neutral tones: green, black or brown.** This way one can easily mask the tube, increasing the aesthetics of the garden. You could also choose stronger colours and expose the hose for decorative purposes.
-* What do to with the drip lines after the season? **The equipment should be put away for winter** to avoid damage from the weather conditions.
-* You have expanded the crops area and now the drip irrigation system covers it only partially? **You can always extend the drip lines**. To do this, use special connectors.
+* **Odkapávací linka** – je hadice nebo speciální odkapávací páska. Tento prvek může být položen na zemském povrchu nebo pokryt vrstvou zeminy.
+* **Kapkovače** – jsou prvky namontované na odkapávací lince, které se nacházejí v blízkosti rostlin.
+* **Vodní filtr** – je nezbytnou součástí odkapávacího systému. Odstraňuje nečistoty a zabraňuje poruchám instalace.
+* **Další prvky** – v závislosti na konkrétním typu instalace se používají všechny druhy čepů západky hadice a koncovky, svorky, armatury a kolektory.
+* **Regulátor zavlažování** – je volitelným prvkem, ale stojí za to investovat. To vám umožní plně automatizovat proces.
 
-**A drip irrigation system is a perfect solution for every garden.** Thanks to it you can easily and effortlessly take care of your plants. A drip line means not only time and money saved, but also a beautiful and healthy garden. It's a universal system that can be used both for professional farming as well as for private gardens, balconies and patios.
+### Odkapávací linka – co si vybrat pro jeho vytvoření: páska nebo hada?
+
+Při výběru kapkového zavlažování stojí za zvážení, jak se k rostlinám dostane voda. Existuje několik možností v tomto ohledu. **Nejoblíbenější jsou odkapávací hadice a páska.** Jak zjistit, který z nich bude nejlepší volbou? Hodně záleží, co hydratujete, jaké jsou vaše požadavky a jaké jsou vaše možnosti.
+
+{:.distinction.distinction-info.distinction-positive}
+
+Odkapávací páska se obvykle používá k zavlažování malých zeleninových a ovocných plodin nebo pokojových rostlin. Mezitím bude kapkové zavlažování, které používá hadici, vhodné pro zalévání živého plotu, malých stromů nebo zahrad. V druhém případě by mělo být kapkové zavlažování srovnáno s dalšími distribučními body vody ve formě postřikovačů.
+
+## Vlastní montáž, nebo jak udělat kapkové zavlažování
+
+Mnoho společností nabízí možnost placeného připojení kapaček. To je užitečné, pokud by kapkový zavlažovací systém měl pokrývat větší plochu, jako jsou velké zemědělské půdy. **Chcete-li nainstalovat menší, nekomplikovanou instalaci do vaší zahrady, můžete to udělat sami.** Není to těžký úkol.
+
+V závislosti na zvolené lince na substrátu je třeba rozložit hadici nebo pásku. Obvykle jsou připevněny k zemi speciálními kolíky. Některé systémy mohou být také pohřbeny v zemi. Hadice by měly být umístěny tak, aby byly v blízkosti rostlin. Pak se instalují kapkovače (pokud je konkrétní sada používá). Odkapávací potrubí musí být připojeno ke zdroji vody pomocí speciální armatury. V případě potřeby může být také rozdělena do několika hadic.
+
+Nejjednodušší kapkové zavlažovací systémy jsou zpracovány odšroubováním nebo šroubováním kohoutku. **Na trhu jsou regulátory zavlažování různých stupňů obtížnosti**. Umožňují plánovat zavlažování na určitý den a čas. Díky tomu kapkové zavlažování nevyžaduje téměř žádné pozornost.
+
+## Kapkové zavlažování – orientační cena
+
+Zajímalo by mě, kolik stojí kapkový zavlažovací systém? Stejně jako u většiny takových instalací závisí cena na individuálních faktorech. Je třeba vzít v úvahu především oblast, která musí být pokryta systémem. To závisí na počtu kapaček, které je třeba namontovat. **Cenu samozřejmě určuje i výrobce, takže stojí za to porovnat kvalitu a hodnotu jednotlivých značek dostupných na trhu.**
+
+{:.distinction.distinction-info.distinction-positive}
+
+Čím méně náročná je instalace, tím nižší je cena. Z tohoto důvodu byste měli zvážit, jaká řešení budou fungovat ve vašem konkrétním případě. S malými projekty se určitě můžete vzdát elektronických ovladačů, pokud pohodlí není prioritou. Náklady lze také snížit sázením na výše uvedenou samostatnou montáž.
+
+![Kapkové zavlažování – orientační cena](/uploads/podlewanie-kropelkowe.jpg "Kapkové zavlažování – orientační cena")
+
+## Co jiného je třeba mít na paměti při výběru kapkového zavlažování?
+
+Vzhledem k tomu, že každá zahrada je odlišná, při výběru zavlažovacího systému je třeba vzít v úvahu každou maličkost, od terénu až po barvu hadic. Tímto způsobem **můžete vytvořit systém, který bude sloužit roky a splnit všechna očekávání.**
+
+{:.list.list-positive}
+
+* Je vaše zahrada na svahu nebo svahu? To neznamená, že kapkové zavlažování není pro vás. Stačí zásoba **tlakovým vyrovnávačem**, aby voda mohla proudit do kopce.
+* Nezapomeňte, že umístění kapkovací závisí především na typu substrátu, na kterém jsou rostliny umístěny. Čím je půda volná, tím hustší by měly být emitory umístěny. U těžkých půd by měly být umístěny méně často, aby se zabránilo stagnaci vody.
+* Vzdálenost emitorů je také vybrána pro typ rostlin. Trvalky, stromy, keře a živé ploty by měly být opatřeny několika kapkami. U jednoletých rostlin stačí jednotlivé emitory.
+* Jakou barvu hadice zvolit? **Nejoblíbenější odkapávací linky, které jsou k dispozici na trhu, se prodávají v neutrálních barvách: zelená, černá nebo hnědá**. To usnadňuje maskování hadice a zvyšuje estetiku zahrady. Můžete také zvolit výraznější odstíny a dekorativní expozici hada.
+* Co se děje s linkami po sezoně? **V zimě je třeba složit linky,** aby nedošlo k poškození povětrnostními podmínkami.
+* Rozšiřujete plochu plodin a kapkové zavlažování pokrývá příliš málo? **Odkapávací linky mohou být vždy prodlouženy**. K tomu stačí použít odpovídající kování.
+
+**Kapkové zavlažování je ideálním řešením pro každou zahradu**. S jeho pomocí můžete snadno, bez námahy pečovat o rostliny. Odkapávací linka znamená nejen úsporu času a peněz, ale především krásnou a zdravou zahradu. Jedná se o univerzální systém, který lze použít jak pro velké rostlinné plodiny, tak pro zahrady, stejně jako na balkonech a terasách.
