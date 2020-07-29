@@ -1,40 +1,44 @@
 ---
 layout: post
-seo_title: What is drip irrigation system and where to install it?
-seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
-  is a modern plant watering system. \U0001F449 Check if you can use it and how to
-  install it."
-date: 2020-07-26T22:00:00.000+00:00
-update_date: 2020-07-26T22:00:00.000+00:00
-title: How does drip irrigation system work? Where can it be used?
-small-intro: How to make your garden look stunning? Drip irrigation system might be
-  aa tremendous help.
-intro: How to make your garden look stunning? It's a problem of many gardeners. The
-  secret of beautiful plants lies in taking a proper care of them. One should start
-  from the basics, like everyday watering. It can be done the standard way, namely,
-  using a watering can, however nowadays it's difficult to find enough time for such
-  mundane tasks. Why not use modern technology? Watering systems such as drip irrigation
-  are the best way to go. What exactly is this method and where can you use drip system?
+seo_title: Co je kapací zavlažovací systém a kde ho instalovat?
+seo_description: "Zajímá vás, jak se postarat o svou zahradu? \U0001F333 Kapková závlaha
+  je moderní zavlažovací systém rostlin. \U0001F449 Zkontrolujte, jak jej nainstalovat."
+date: 2020-07-28 22:00:00 +0000
+update_date: 2020-07-28 22:00:00 +0000
+title: Ako funguje kvapkovej závlahy systém? Kde sa dá použiť?
+small-intro: Ako urobiť vašu záhradu vyzerať úžasne? Kvapkovej závlahy systém môže
+  byť aobrovská pomoc.
+intro: Co je třeba udělat, aby zahrada vždy vypadala okouzlující? Tuto otázku si kladou
+  mnozí. Tajemství krásných rostlin je správná péče o ně. Musíte začít se základy,
+  to znamená s každodenním zaléváním. Samozřejmě, že to může být provedeno tradičně
+  s konvičkou, ale v současné době je jen málo lidí, kteří mají čas a touhu. Tak proč
+  nevyužít moderní řešení? Zavlažovací systémy, jako je kapkové zavlažování, přicházejí
+  na pomoc. Co je tato metoda a kde lze použít kapkové zavlažování?
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
-photo_desc: Drip irrigation system – an innovative watering method
+photo_desc: Kapkové zavlažování – moderní zavlažovací systém
 faq:
-- question: What is drip irrigation?
-  answer: Drip irrigation is one of the modern methods of plants watering. It's much
-    more efficient than traditional watering and it can save a lot of time, money
-    and resources.
-- question: How a drip irrigation system works?
-  answer: A drip irrigation system consists of a drip line – a hose or tape and a
-    water source. The water flows through the line and drips out of small holes. It's
-    a solution that provides the plants a perfect amount of water.
-- question: How to make a cheap drip irrigation system?
-  answer: All you need to make a cheap drip irrigation system is a drip line and a
-    source of water. Put the drip hose or tape right by the plants so that the water
-    can flow directly to their roots. Then connect the line with water source and
-    adjust the pressure.
+- question: Kapkové zavlažování – jak to udělat sami?
+  answer: Provádění kapkového zavlažování samo o sobě není obtížné nebo obtížné –
+    zejména v malých oblastech. V závislosti na vašich vlastních potřebách budete
+    muset vybrat pásku nebo odkapávací hadici a připojit je k základně vedle rostlin.
+    K vodnímu zdroji by pak měla být připojena taková kapátka. Na velkých plochách
+    stojí za to dodatečně vybavit kapkové zavlažování speciálním regulátorem, který
+    plně automatizuje systém.
+- question: Jak dlouho trvá napojení odkapávací linky?
+  answer: Doba zalévání rostlin pomocí odkapávací linky závisí především na jejich
+    typu a potřebě. Můžete jej nastavit ručně – odšroubovat pokaždé přívod vody. Mnohem
+    pohodlnější variantou je však použití automatické aparatury. Nejnovější verze
+    dokonce přizpůsobují zavlažování změnám počasí.
+- question: Jak uspořádat kapkové zalévání?
+  answer: Odkapávací zalévání může být instalováno vedle rostlin pomocí speciálních
+    kolíků – takže efektivně připevníte odkapávací linky k zemi. Používáte – li kapkové
+    zavlažování pomocí kapaček, ujistěte se, že otvory vyzařující vodu jsou v boční,
+    nikoliv spodní části, což může vést k trvalému ucpání. Některé odkapávací hadice
+    jsou také vhodné pro umístění pod zemí.
 author_name: Maksymilian Ignacyk
-author_desc: Sales and Marketing Specialist at Instalguru
+author_desc: Specialista na prodej a marketing v obchodě Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
+toc: true
 hreflangs: []
 
 ---
