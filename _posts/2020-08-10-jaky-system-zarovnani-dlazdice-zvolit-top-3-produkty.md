@@ -3,8 +3,8 @@ layout: post
 seo_title: Jaký Systém Zarovnání Dlaždice Zvolit? Top 3 produkty
 seo_description: "Přemýšlíte, jak položit dlaždice? Neplýtvej svým drahocenným časem.
   \U0001F449 Zvolte systém vyrovnávání dlaždic. Podívejte se na top 3 \U0001F3C6 produkty."
-date: 2020-08-09 22:00:00 +0000
-update_date: 2020-08-09 22:00:00 +0000
+date: 2020-08-10 21:00:00 +0000
+update_date: 2020-08-10 21:00:00 +0000
 title: Který systém vyrovnávání dlaždic je nejlepší? Top 3 produkty
 small-intro: Plánujete renovaci a chcete ležet dlaždice v kuchyni? Potřebuješ dlaždici
   na záchod? Můžeš mi to ulehčit!
@@ -41,9 +41,9 @@ hreflangs:
 - lang: it
   link: ''
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/welches-fliesen-nivelliersystem-ist-das-beste-top-3-produkte.html
 - lang: pl
-  link: ''
+  link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
 - lang: fr
   link: ''
 - lang: en
