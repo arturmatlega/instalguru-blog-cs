@@ -1,35 +1,36 @@
 ---
 layout: post
-seo_title: Choose the Best Tile Leveling System - TOP 3 Products
-seo_description: "Wondering how to lay tiles? Don't waste your precious time. \U0001F449
-  Choose tile leveling system. Check the TOP 3 \U0001F3C6 best products."
+seo_title: Jaký Systém Zarovnání Dlaždice Zvolit? Top 3 produkty
+seo_description: "Přemýšlíte, jak položit dlaždice? Neplýtvej svým drahocenným časem.
+  \U0001F449 Zvolte systém vyrovnávání dlaždic. Podívejte se na top 3 \U0001F3C6 produkty."
 date: 2020-08-09 22:00:00 +0000
 update_date: 2020-08-09 22:00:00 +0000
-title: Which Tile Leveling System Is the Best? TOP 3 Products
-small-intro: Are you planning a renovation and you want to lay tiles in the kitchen?
-  Do you need to tile the bathroom? You can make it easier!
-intro: Are you planning to lay tiles in the kitchen? Do you want to tile the bathroom?
-  It doesn't matter where you are going to lay tiles - you should prepare yourself
-  for a lot of work which requires much attention and high precision. Using traditional
-  cross spacers is tedious and time consuming. It might also be quite problematic
-  if you don't have much experience. But, it doesn't necessarily mean you have to
-  give up the idea of DIY tile installation. Just use the right tile leveling system.
-photo: ''
-photo_desc: A tile leveling system makes tiling more efficient.
+title: Který systém vyrovnávání dlaždic je nejlepší? Top 3 produkty
+small-intro: Plánujete renovaci a chcete ležet dlaždice v kuchyni? Potřebuješ dlaždici
+  na záchod? Můžeš mi to ulehčit!
+intro: Plánujete položit dlaždice v kuchyni? Čeká vás koupelnová dlažba? Ať už se
+  chystáte položit dlaždice, musíte se připravit na velkou práci, která vyžaduje pozornost
+  a přesnost. Používání tradičních dálkových křížů je extrémně únavná činnost. To
+  může také způsobit problémy, pokud nemáte mnoho zkušeností s dlaždicemi. To však
+  neznamená, že se musíte vzdát vlastního glazování. Jediné, co musíte udělat, je
+  použít správný systém vyrovnání dlaždic.
+photo: "/uploads/system-poziomowania-plytek-ranking-top3.jpg"
+photo_desc: Systém vyrovnání dlaždic usnadňuje jejich pokládku.
 faq:
-- question: How many tile leveling clips do I need?
-  answer: For 40x40 tiles you need around 20 pairs of clips+wedges per one square
-    metre. For other sizes, those numbers differ. For 50x50 tiles you need 24 pairs
-    per 1 sq. metre, for 80x80 - 10 pairs per 1 sq. metre, and for tiles 100x50 -
-    16 pairs per 1 sq. metre. Typically, you can find the information on the manufacturer's
-    website or on the product's packaging.
-- question: Which tile leveling system is the best?
-  answer: The best tile leveling system is the one that fits particular needs like
-    type of the tiles or their thickness. Some users prefer single-use systems, others
-    choose reusable sets which are long-term investments. It's important that the
-    tile leveling system matches one's personal needs and skills.
+- question: Systém vyrovnání dlaždic - kolik na metr?
+  answer: Předpokládá se, že dlaždice 40x40 vyžadují 20 sad svorek+klín na metr čtvereční.
+    Adekvátně pro jiné veličiny to budou jiná čísla. Pro dlaždice 50x50-24 ks na metr
+    čtvereční, pro dlaždice 80x80-10 ks na metr čtvereční, a pro glazury 100x50-16
+    ks na metr čtvereční. Tyto informace jsou obvykle také na stránkách výrobce nebo
+    na obalu výrobku.
+- question: Který systém vyrovnání dlaždic je lepší?
+  answer: Nejlepší systém vyrovnání dlaždic je ten, který vyhovuje vašim specifickým
+    potřebám - typu dlaždice nebo jejich tloušťce. Pro některé budou jednorázové systémy
+    lepší, jiné se rozhodnou pro opakovaně použitelné systémy, které jsou dlouhodobou
+    investicí. Je důležité nastavit systém vyrovnání dlaždic tak, aby vyhovoval vašim
+    očekáváním a dovednostem.
 author_name: Magdalena Data-Urban
-author_desc: Content Manager at Instalguru
+author_desc: Správce obsahu na Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
 hreflangs:
