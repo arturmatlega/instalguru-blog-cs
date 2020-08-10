@@ -50,93 +50,93 @@ hreflangs:
   link: ''
 
 ---
-## What is a tile leveling system?
+## Jaký je systém vyrovnání dlaždic?
 
-A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or the wall. They should be placed between adjacent tiles.
+Systém vyrovnání dlaždic je **sada prvků, které usnadňují jejich lepení a injektáž**. Obsahuje plastové prosklené **svorky a klíny**, jejichž použití vyrovnává dlaždice na podlaze nebo stěně. Jsou umístěny mezi sousedními dlaždicemi.
 
-**Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
+**Zarovnání dlaždic pomocí moderních systémů je řešení určené jak pro profesionály, tak pro kutily.** Pomocí této metody je práce nejen výrazně jednodušší, ale především mnohem rychlejší. **Systém vyrovnávání dlaždic odhaduje, že ušetří až 50% času**, který obvykle musí být vynaložen na použití klasických dálkových křížů.
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+![Jaký je systém vyrovnání dlaždic?](/uploads/system-poziomowania-plytek-szczypce.jpg "Jaký je systém vyrovnání dlaždic?")
 
-## How does a tile leveling system work?
+## Jak funguje systém vyrovnání dlaždic?
 
-A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
+Standardní systém vyrovnání dlaždic se skládá ze **speciálně tvarovaných svorek a klínů s charakteristickými výčnělky**. Je velmi důležité používat oba tyto prvky, protože pouze společně přinášejí očekávané výsledky.
 
-The equipment should be used when setting the tiles on the surface. Before doing that, one needs putting a clip between two adjacent tiles. Then, a wedge should be stuck in the clip. It presses **the tile to the floor or the wall**, which results in leveling the surface.
+Zařízení se používá ve fázi lepení dlaždic. Před jejich umístěním je třeba umístit svorku mezi dvě přilehlé desky. Klín se pak vloží do svorky. Reaguje na správné **přitlačení dlaždice k podlaze** nebo stěně a tím i vyrovnání povrchu obou prvků.
 
-The bumps or carvings on the wedges are very important. They prevent the element from moving and stabilize the tiles. **It's definitely much more efficient solution than placing cross spacers which don't hold the tiles at all.** What's more, a tile leveling system is far easier to use. There is no need to use any additional equipment like a level - which might make the process much longer and more complicated.
+Důležitou roli hrají výčnělky nebo zářezy, které byly provedeny na klínech. Díky této konstrukci při vkládání svorek se prvek nepohybuje a drží desky stabilně, čímž zabraňuje jejich sklouznutí. **Je to rozhodně efektivnější řešení než křížky umístěné mezi dlaždicemi, které v žádném případě neimponují dlaždice.** Kromě toho je systém vyrovnání dlaždic také rozhodně jednodušší. Není třeba dalšího vybavení, jako je úroveň úrovně, která dále komplikuje a prodlužuje práci.
 
-## Where can you use a tile leveling system?
+## Kde lze použít systém vyrovnání dlaždic?
 
-Although many believe that a tile leveling system can be used only for floors, in reality **it is  a highly universal solution**. It means you can use it for tiling walls, or even stairs as well.
+Zatímco mnoho lidí je přesvědčeno, že systém vyrovnání dlaždic je určen pouze pro podlahové povrchy, je ve skutečnosti **extrémně všestranný**. To znamená, že jej můžete také použít při pokládání dlaždic na stěnách a dokonce i na schodech.
 
-Note that it doesn't matter what kind of tiles you use. They can be made of:
+Měli byste také zdůraznit, že nezáleží na tom, jaký typ dlaždice používáte. Mohou to být dlaždice:
 
 {:.list.list-positive}
 
-* ceramic,
+* keramický,
 * grés,
-* granite,
-* stone.
+* žula,
+* kámen.
 
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+![Kde lze použít systém vyrovnání dlaždic?](/uploads/system-poziomowania-plytek-top3.jpg "Kde lze použít systém vyrovnání dlaždic?")
 
-## Is a tile leveling system worth it? Advantages of the solution
+## Stojí za to investovat do systému vyrovnání dlaždic? Výhody řešení
 
-**A tile leveling system is a universal solution** - you can use it for various types of surfaces.  It can be used both inside, as well as on the areas located outside the building.
+**Systém vyrovnání dlaždic je univerzální řešení,** které budete používat k dokončení různých typů povrchů. Můžete jej použít jak v domácích prostorách, tak v prostorách umístěných kolem budovy.
 
-Using this type of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+S tímto zařízením **můžete položit dlaždice jakéhokoli typu** - bez ohledu na jejich velikost nebo tloušťku. V každém případě se můžete spolehnout na dokonale rovný povrch.
 
-Leveled tiles are only one of the advantages. Additionally, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles means exactly the same width between each of them. Thanks to this, the grouting looks exceptionally elegant.
+Vyrovnání dlaždic je však jen jednou z výhod. Kromě toho **získáte také možnost dokonale rovnoměrných svarů po celé základně**. Rovnoměrné uspořádání dlaždic činí mezery mezi nimi stejnou šířkou. Takto vytvořená Malta je extrémně estetická.
 
-## TOP 3 - the most popular tile leveling systems
+## TOP 3 - nejoblíbenější systémy vyrovnání dlaždic
 
-Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct. However, one can find various sets that slightly differ in terms of their usage - which results from the elements' different construction. There are also systems that have a completely different structure.
+Systém vyrovnání dlaždic většina lidí je spojena se sadou složenou ze svorek a klínů. Je to samozřejmě pravda, i když na trhu jsou různé stavebnice a jejich použití se od sebe trochu liší, což je důsledek nesourodé konstrukce jednotlivých prvků. Existují také systémy zcela odlišné konstrukce.
 
-**We present TOP 3 products which are most popular among specialists and rated as the best.**
+**Představujeme Top 3 produkty, které odborníci vybírají nejčastěji a jsou hodnoceny jako nejlepší.**
 
-### A tile leveling system with anchor-shaped clips
+### Systém vyrovnání dlaždic s kotevními svorkami
 
-It's the most popular tile leveling system - both among experts and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T."**
+Tento systém vyrovnání dlaždic je nejoblíbenější jak mezi profesionály, tak mezi řemeslníky, kteří dělají dlaždice sami. Pozoruhodná je specifická konstrukce svorky, **která svým vzhledem připomíná malou kotvu nebo obrácené písmeno T.**
 
-The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+Mírně zvýšené konce svorek na obou stranách jsou umístěny pod sousední desky. Klín se pak nasadí. Pro tento vyrovnávací systém vypadá jako překryv a je otevřen na jedné straně. Takže obklopuje nohu svorky. **Při plném tlaku je fixován vyčnívajícími výstupky.**
 
-It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+Velmi často je dalším prvkem této sady také speciální kleště, díky nimž se upevnění systému **a jeho prvků stává ještě rychlejší** a nevyžaduje téměř žádnou sílu.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+![Systém vyrovnání dlaždic s kotevními svorkami](/uploads/system_poziomowania_ranking.jpg "Systém vyrovnání dlaždic s kotevními svorkami")
 
-### A tile leveling system with standard clips and wedges
+### Systém vyrovnání dlaždic se standardními svorkami a klíny
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
+Jednou z možností výběru je sada pro pokládku dlaždic, která používá **klasické svorky a klíny**. V tomto případě klip připomíná okno se spodní polohou na obou stranách, které je vloženo mezi položené dlaždice. Toto okno slouží k upevnění klínu v něm. V tomto případě se na rozdíl od předchozího modelu dostává do středu klipu. Charakteristické jsou výčnělky, které umožňují maximálně zatlačit klín a dokonale sladit dlaždice.
 
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
+![Systém vyrovnání dlaždic se standardními svorkami a klíny](/uploads/system_poziomowania_ranking_2.jpg "Systém vyrovnání dlaždic se standardními svorkami a klíny")
 
-### A reusable tile leveling system
+### Opakovaně použitelný vyrovnávací systém
 
-Manufacturers also offer a reusable tile leveling system, which uses twisted elements. They are **quite different the classic ones**. The differences lie both is the construction and the usage.
+Výrobci také nabízejí opakovaně použitelný systém vyrovnání dlaždic, který se kroutí. **To je trochu jiné než u klasického modelu.** Rozdíly jsou patrné především v samotné konstrukci i jejím využití.
 
-This type of a tile leveling system uses two elements as well. The main part is a clip with a large thread and a metal element shaped like a "T". The other element is a cap, which secures a tile.
-
-{:.distinction.distinction-info.distinction-negative}
-
-It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
-
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
-
-## A tile leveling system - single-use or reusable?
-
-A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+Tento typ vyrovnávacího systému se také skládá ze dvou prvků. Základem je svorka s **dostatečně velkým závitem a kovovým t-dílem**. Druhým prvkem je na druhé straně matice, která je zodpovědná za upevnění desky.
 
 {:.distinction.distinction-info.distinction-negative}
 
-It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurrence - you might decide to buy new wedges.
+Takové řešení není bez nedostatků. V případě jeho použití je třeba dodatečně použít dlaždice, což trvá mnohem déle a navíc je někdy problematické pro ty, kteří nemají zkušenosti. Kromě toho, jakmile jsou dlaždice zarovnány po dobu několika hodin, je třeba odstranit svorku. Tímto způsobem můžete zkazit výslednou úroveň.
 
-**A great advantage of a reusable tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be quite problematic.
+![Opakovaně použitelný vyrovnávací systém](/uploads/system_poziomowania_ranking_3.jpg "Opakovaně použitelný vyrovnávací systém")
 
-## How to choose a tile leveling system?
+## Systém vyrovnání dlaždic - jednorázový nebo opakovaně použitelný?
 
-Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+Systém vyrovnání dlaždic, který se skládá ze svorek a klínů, může být částečně znovu použit. Svorky umístěné pod dlaždicemi jsou jednorázovým prvkem. Nic však nebrání **opětovnému použití klínů**. Toto řešení velmi často volí odborníci, kteří díky nákupu náborových klipů mohou hodně ušetřit.
 
-There is also another aspect of great significance for systems with clips and wedges - whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+{:.distinction.distinction-info.distinction-negative}
 
-The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
+Je velmi důležité sledovat stav klínů. Po několika aplikacích mohou být tyto prvky úhledně vyjmuty, dozvíte se to o změnách ve struktuře karet, kterými jsou drženy ve svorce. Pokud zjistíte, že taková situace existuje - je dobré se také rozhodnout o nákupu nových klínů.
+
+**Výhodou opakovaně použitelného vyrovnávacího systému je jistě ještě větší úspora způsobená tím, že jednorázový nákup poskytuje možnost používat produkt po mnoho let.** Poměrně málo lidí si však myslí, že samotné použití je rozhodně méně pohodlné. Poměrně velkou nevýhodou je také nutnost použití dalších komunikačních křížů, že pro odborníky trochu zvyšuje výdrž, nicméně pro člověka bez zkušeností a dovedností může být klíčovou překážkou.
+
+## Na co se zaměřit při výběru systému vyrovnání dlaždic?
+
+Nejdůležitějším bodem, který byste měli věnovat pozornost při výběru systému vyrovnání dlaždic , je především jeho kvalita. **Nezáleží v tomto případě na materiálu, ze kterého byly jednotlivé prvky vyrobeny.** Použití trvanlivých, poškozených surovin během jejich výroby zaručuje dostatečnou stabilizaci dlaždic, takže je to tak důležitá otázka.
+
+Druhým důležitým aspektem, který je velmi důležitý pro systémy, které se skládají ze svorek a klínů, je, **zda výrobce nabízí možnost koupit každý z těchto prvků Samostatně**. To je nejdůležitější, zejména pro profesionály, kteří velmi často používají stejné klíny několikrát.
+
+Nezáleží samozřejmě na **ceně soupravy**. V této souvislosti stojí za to věnovat pozornost na to, kolik položek je nabízeno v určité výši, nebo nabízí, zda výrobce sestavy s volitelným vybavením, například kleště na zamačkávací klíny. Tímto způsobem můžete zasáhnout opravdu dobré obchody, které stojí za to používat.
