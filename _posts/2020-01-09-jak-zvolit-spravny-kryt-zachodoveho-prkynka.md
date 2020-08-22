@@ -4,11 +4,14 @@ seo_title: Vybírám si záchodové prkýnko. Nejdůležitější věci
 seo_description: Výběr správného záchodového prkýnka nemusí být tak jednoduchý, jak
   se zdá. Existují různé parametry, které byste měli věnovat pozornost.
 main_keywords:
-  - Koupelnové doplňky
-  - sanitární
-  - koupelnový nábytek
-  - sanitární zařízení
-  - sanitární výrobky
+  - záchodové prkénko
+  - bidetové sedátko
+  - stoupačky toaletních sedadel
+  - zvednuté toaletní křeslo
+  - potahy toaletních sedadel
+  - velikosti toaletních sedadel
+  - nejlepší toaletní křeslo
+  - pomalé zavírání sedátka
 date: 2020-01-09T11:00:00.000+00:00
 update_date: 2020-01-09T11:00:00.000+00:00
 title: Jak zvolit správný kryt záchodového prkýnka?
