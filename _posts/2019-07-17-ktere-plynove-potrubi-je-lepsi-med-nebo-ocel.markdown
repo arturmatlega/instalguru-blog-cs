@@ -3,6 +3,10 @@ layout: post
 seo_title: Instalace plynového potrubí. Která trubka je lepší-měď nebo ocel?
 seo_description: "Plánujete instalovat plynové potrubí u vás doma? ✔️ Jaký typ potrubí
   je lepší použít ve vaší trubce - měděná  \U0001F19A ocel? "
+main_keywords:
+  - potrubí
+  - instalace plynového potrubí
+  - potrubní materiály
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: Které plynové potrubí je lepší-měď nebo ocel?

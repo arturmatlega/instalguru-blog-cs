@@ -3,6 +3,12 @@ layout: post
 seo_title: Koupelnové doplňky. Jak nainstalovat koupelnový nábytek?
 seo_description: Vana, sprchový kout, umyvadlo a WC jsou nejdůležitější prvky každé
   koupelny. Jak správně nainstalovat koupelnové doplňky?
+main_keywords:
+  - Koupelnové doplňky
+  - sanitární
+  - koupelnový nábytek
+  - sanitární zařízení
+  - sanitární výrobky
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Instalace příslušenství koupelny

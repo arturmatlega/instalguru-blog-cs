@@ -3,6 +3,9 @@ layout: post
 seo_title: Potrubní kryt, trubkový box? Jak skrýt exponované potrubí?
 seo_description: Pokud jsou vaše trubky odhaleny, možná je budete chtít skrýt. Zajímá
   tě, co je nejlepší potrubí? Podívejte, jak efektivně skrývat trubky.
+main_keywords:
+  - kryt potrubí
+  - trubkový box
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Potrubí-jak skrýt odhalené trubky?

@@ -3,6 +3,15 @@ layout: post
 seo_title: Perfektní kuchyňské kohoutky pro krásnou moderní kuchyň
 seo_description: Plánuješ renovaci kuchyně? Podívejte se na oblíbené produkty a najděte
   nejlepší faucet pro moderní kuchyni.
+main_keywords:
+  - kuchyňské baterie
+  - kuchyňský kohoutek
+  - dřez
+  - kuchyňské nápady
+  - dřezový faucet
+  - kuchyňské doplňky
+  - kuchyňský dřez faucet
+  - kuchyňská svítidla
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-01-07T11:00:00.000+00:00
 title: Perfektní kuchyňské kohoutky pro krásnou moderní kuchyň

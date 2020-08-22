@@ -3,6 +3,16 @@ layout: post
 seo_title: Ventilace - jaké jsou typy ventilačních systémů?
 seo_description: Ventilace je jedním z nejdůležitějších prvků každého bytu a kanceláře.
   Jak budovat dobrý ventilační systém, který bude dělat své domácí čerstvé?
+main_keywords:
+  - větrání
+  - doma čerstvé
+  - větrej
+  - větrané
+  - ventilační systém
+  - ventilátory
+  - co je větrání
+  - přirozené větrání
+  - domácí ventilátor
 date: 2019-12-23T11:00:00.000+00:00
 update_date: 2019-12-23T11:00:00.000+00:00
 title: Co je ventilace? Typy větracích systémů

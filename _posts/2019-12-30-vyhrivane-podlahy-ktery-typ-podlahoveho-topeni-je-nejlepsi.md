@@ -3,6 +3,15 @@ layout: post
 seo_title: Vyhřívané podlahy-který typ podlahového topení je nejlepší?
 seo_description: Podlahové vytápění může být docela výhodný systém. Je neviditelná,
   tichá a efektivní. Není divu, že vyhřívané podlahy jsou stále populárnější.
+main_keywords:
+  - vyhřívané podlahy
+  - podlahové vytápění
+  - podlahové vytápění
+  - podlahové vytápění
+  - elektrické podlahové topení
+  - vyhřívaná podlaha
+  - sálavé podlahové vytápění
+  - podlahové vytápění
 date: 2019-12-30T11:00:00.000+00:00
 update_date: 2019-12-30T11:00:00.000+00:00
 title: Vyhřívané podlahy-který typ podlahového topení je nejlepší?

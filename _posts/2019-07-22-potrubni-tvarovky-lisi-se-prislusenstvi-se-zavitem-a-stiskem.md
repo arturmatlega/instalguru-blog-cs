@@ -4,6 +4,13 @@ seo_title: 'Potrubní tvarovky: liší se příslušenství se závitem a stiske
 seo_description: "Plánujete rekonstrukci domu? \U0001F3E0 Možná vás zajímá, co tvarovky
   byste měli zvolit? \U0001F449 Zjistěte rozdíl mezi příslušenstvím se závitem a příslušenstvím
   pro tisk"
+main_keywords:
+  - pex kování
+  - potrubní tvarovky
+  - PVC tvarovky
+  - hydraulické armatury
+  - měděné kování
+  - pex potrubní tvarovky
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Potrubní tvarovky: liší se příslušenství se závitem a stiskem?'

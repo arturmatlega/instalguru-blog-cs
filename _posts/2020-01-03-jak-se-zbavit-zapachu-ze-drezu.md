@@ -3,6 +3,13 @@ layout: post
 seo_title: Jak odstranit zápach z koupelny nebo kuchyňského dřezu?
 seo_description: Jestli tě zajímá, co to smrdí z tvého dřezu v kuchyni, neboj se.
   To je běžný problém. Naštěstí existují metody, jak odstranit zápach.
+main_keywords:
+  - dřez
+  - umyvadlo
+  - dřez
+  - zápach
+  - vůně
+  - umyvadlo
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: Jak se zbavit zápachu ze dřezu?

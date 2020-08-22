@@ -3,6 +3,16 @@ layout: post
 seo_title: Co je kapací zavlažovací systém a kde ho instalovat?
 seo_description: "Zajímá vás, jak se postarat o svou zahradu? \U0001F333 Kapková závlaha
   je moderní zavlažovací systém rostlin. \U0001F449 Zkontrolujte, jak jej nainstalovat."
+main_keywords:
+  - kapkové zavlažování
+  - zavlažovací systém kapání
+  - kapací zavlažovací systém
+  - zavlažovací systém pro skleník
+  - mikro zavlažovací systém
+  - zavlažovací systémy zahrady
+  - snadné zavlažování zahrady
+  - odkapávač rostlin
+  - zavlažovací systém 
 date: 2020-07-28 22:00:00 +0000
 update_date: 2020-07-28 22:00:00 +0000
 title: Ako funguje kvapkovej závlahy systém? Kde sa dá použiť?
