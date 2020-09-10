@@ -12,7 +12,7 @@ small-intro: Stavba domu je složitý proces, který se skládá z několika fá
 intro: Stavba domu je složitý proces, který se skládá z několika fází. Jedním z nejdůležitějších
   prvků každé budovy je střecha. Jeho základem je střešní vazníky - na něm závisí
   konečná podoba a také bezpečnost střechy. Výběr správného typu farmy pro budovu
-  je velmi důležitým rozhodnutím. Co je střešní potěr a co bude fungovat ve vašem
+  je velmi důležitým rozhodnutím. Co je střešní vazníky a co bude fungovat ve vašem
   případě? Podívejte se na hlavní body na toto téma.
 photo: "/uploads/czym-jest-wiezba-dachowa-i-jak-ja-montowac.jpg"
 photo_desc: ''
@@ -30,7 +30,7 @@ hreflangs:
 ---
 ## Co je střešní vazníky?
 
-Střecha není nic jiného než vrchol budovy. Jedná se o **robustní dřevěnou konstrukci**, na kterou se střecha opírá. Jeho konstrukce ovlivňuje tvar střechy i celkovou funkčnost budovy. Střešní potěr se skládá z mnoha prvků. Nejdůležitější z nich jsou:
+Střecha není nic jiného než vrchol budovy. Jedná se o **robustní dřevěnou konstrukci**, na kterou se střecha opírá. Jeho konstrukce ovlivňuje tvar střechy i celkovou funkčnost budovy. Střešní vazníky se skládá z mnoha prvků. Nejdůležitější z nich jsou:
 
 {:.list.list-positive}
 
@@ -46,7 +46,7 @@ Střecha není nic jiného než vrchol budovy. Jedná se o **robustní dřevěno
 
 Který z těchto prvků bude ve střešním vazníku, rozhodne samotná konstrukce střechy. Existují různé typy střešních vazník a výběr konkrétního řešení závisí na samotném návrhu budovy. Je důležité určit, zda podkroví by mělo být užitečné nebo ne.
 
-## Typy střech-jaké typy střešních krovů jsou nejoblíbenější?
+## Typy střech-jaké typy střešních vazníků jsou nejoblíbenější?
 
 Pokud jde o dřevěné střešní konstrukce, existuje mnoho řešení na trhu. V**ýběr konkrétního typu střešního potěru je určen ještě ve fázi návrhu budovy**. Při výběru konkrétních typů střech je třeba vzít v úvahu faktory, jako jsou rozměry a tvar domu, finanční možnosti i estetické úvahy. U rodinných domů je nejčastěji používaným typem krokve, krokve a krokve.
 
@@ -58,15 +58,15 @@ Tato střešní konstrukce může být použita v případě, že průlet stěn 
 
 K dispozici je také systém, který zahrnuje pouze dva prvky. Krokve se pak opírají přímo o zdivo, bez příčných stropních nosníků.
 
-### Střešní potěr-jetkowa
+### Střešní vazníky - jetkowa
 
 Tmel je vybrán, když rozpětí stěn přesahuje 7 metrů. Je to mnohem univerzálnější řešení než vazební vazba. Z tohoto důvodu se používá mnohem častěji. T**ato střešní konstrukce používá krokve Spojené v bruslení, murlaty a yatagany, které to vše posilují.** V tomto případě je třeba pamatovat na umístění jętek ve správné výšce - prostor by měl být rozdělen na dvě části - od brusle do ne více než 2,5 m a od поденки k murłaty ne více než 4,5 m.
 
 ### Střecha-běhy-klíšťata
 
-Takové střešní konstrukce jsou jistě některé z nejoblíbenějších díky své všestrannosti. Může být použit v jednokřídlých a štítových střechách, stejně jako ve velmi strmých konstrukcích. **Maximální rozpětí stěn, které může pokrýt takový střešní potěr, je 16 metrů**. V tomto případě se obvykle používají dva typy farem. Jeden se skládá z krokví podporovaných běhy, sloupky a klíšťaty. Meziprodukty jsou krokve na bázi mušelátu.
+Takové střešní konstrukce jsou jistě některé z nejoblíbenějších díky své všestrannosti. Může být použit v jednokřídlých a štítových střechách, stejně jako ve velmi strmých konstrukcích. **Maximální rozpětí stěn, které může pokrýt takový střešní vazníky, je 16 metrů**. V tomto případě se obvykle používají dva typy farem. Jeden se skládá z krokví podporovaných běhy, sloupky a klíšťaty. Meziprodukty jsou krokve na bázi mušelátu.
 
-## Tradiční a tovární střešní potěr
+## Tradiční a tovární střešní vazníky
 
 Na trhu jsou různé typy střech, z nichž si můžete vybrat. Samozřejmě, že konečné rozhodnutí o jeho typu závisí především na rozpětí budovy a dalších individuálních faktorech. Zbývá však ještě jedna otázka-zda bude zastřešení postaveno tradičním způsobem, nebo snad lépe pořídit **prefabrikovanou konstrukci**.
 
@@ -83,7 +83,7 @@ Třída dřeva je označena číslicí a písmenem, například **C20, D30**. P�
 
 Jaký typ dřeva bude fungovat nejlépe? Střešní farmy obvykle používají **jehličnany, jako je smrk nebo borovice, méně často modřín nebo jedle**. Vlhkost dřeva je také důležitým aspektem. Materiál by měl být dobře vysušen-suché dřevo je o 50% silnější než vlhké. Vlhké desky se mohou deformovat. Nejlepší je, aby vlhkost dřeva na střešních nosnících nepřesáhla 15%. Nejlepší možností je tedy koupit sušené dřevo z osvědčeného místa.
 
-Vzhledem k tomu, že dřevo je obzvláště náchylné k poškození materiálu, je důležité ho chránit. Teprve pak si můžete být jisti, že střešní potěr bude trvat mnoho let. **Dřevo určené pro střešní konstrukce musí být impregnováno,** což ho ochrání před biologickou korozí, škůdci i ohněm. K tomu jsou střešní nosníky impregnovány vhodným přípravkem.
+Vzhledem k tomu, že dřevo je obzvláště náchylné k poškození materiálu, je důležité ho chránit. Teprve pak si můžete být jisti, že střešní vazníky bude trvat mnoho let. **Dřevo určené pro střešní konstrukce musí být impregnováno,** což ho ochrání před biologickou korozí, škůdci i ohněm. K tomu jsou střešní nosníky impregnovány vhodným přípravkem.
 
 ## Konstrukce střechy-krok za krokem
 
@@ -93,7 +93,7 @@ Konstrukce prvku, který je potěrem střechy, spočívá ve správném spojení
 
 Prefabrikované střešní krokve se vzájemně propojují s ostnatými dlaždicemi. Střešní konstrukci tohoto typu obvykle provádí brigáda od firmy, která farmu koupila. V tomto případě se často používá kohoutek. **Proces montáže obvykle netrvá déle než 3 dny.**
 
-## Cena střešního krovu
+## Cena střešního vazníku
 
 Střešní potěr je položka, jejíž cena závisí na několika faktorech. Důležitá je především **velikost budovy**, ale také samotná konstrukce střechy a rozsah její složitosti.
 
