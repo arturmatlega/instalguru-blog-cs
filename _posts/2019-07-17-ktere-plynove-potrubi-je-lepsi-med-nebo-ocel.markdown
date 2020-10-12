@@ -1,25 +1,25 @@
 ---
 layout: post
-seo_title: Instalace plynového potrubí. Která trubka je lepší-měď nebo ocel?
+seo_title: Jaké Plynové Potrubí Vybrat? Které Dráty Budou Trvalé?
 seo_description: "Plánujete instalovat plynové potrubí u vás doma? ✔️ Jaký typ potrubí
   je lepší použít ve vaší trubce - měděná  \U0001F19A ocel? "
 main_keywords:
-  - potrubí
-  - instalace plynového potrubí
-  - potrubní materiály
+- potrubí
+- instalace plynového potrubí
+- potrubní materiály
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Které plynové potrubí je lepší-měď nebo ocel?
-small-intro: Instalace plynového potrubí je základním prvkem pravděpodobně pro každou
-  novou budovu.
-intro: Instalace plynového potrubí je základním prvkem pravděpodobně pro každou novou
-  budovu. Umožňuje připojit celou budovu k topnému systému. Plynová instalace se může
-  skládat z ocelových trubek, i když se používají měděné trubky. Před výběrem konkrétního
-  řešení, je třeba se naučit výhody a nevýhody obou. Díky těmto znalostem je rozhodnutí
-  snazší.
+title: Jaké plynové potrubí zvolit - měděné nebo ocelové? Plynová instalace bez tajemství
+small-intro: Plynová instalace je v posledních letech základem prakticky každé nové
+  budovy.
+intro: Plynová instalace je v posledních letech základem prakticky každé nové budovy.
+  To dává mnoho výhod. Jde mimo jiné o možnost připojení topné sítě celé budovy. Ne
+  každá plynová instalace je však stejná, což závisí na použitých materiálech. K tomu
+  se používají ocelové trubky a měděné dráty. Je také nutné je doplnit dalšími montážními
+  součástmi - včetně ventilů nebo filtrů. Než se rozhodnete pro konkrétní řešení,
+  podívejte se, co charakterizuje každý z nich. Určitě by vám to mělo usnadnit výběr.
 photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
-photo_desc: Plynová instalace se může skládat z ocelových trubek, i když se používají
-  měděné trubky.
+photo_desc: Ne každá plynová instalace je však stejná, což závisí na použitých materiálech.
 faq:
 - question: Jak pájet měděné trubky?
   answer: Pokud nejste profesionál, nepokoušejte se pájet plynové potrubí. Nejlepší
@@ -54,34 +54,40 @@ hreflangs:
   link: https://instalguru.cz/blog/ktere-plynove-potrubi-je-lepsi-med-nebo-ocel.html
 
 ---
-## Měděná trubka-proč se používá při instalaci plynového potrubí?
+## Měděné trubky pro plyn? Jaké výhody má taková plynová instalace?
 
-Pro instalaci plynového potrubí se obvykle doporučuje potrubí z mědi. Proč? Hlavním důvodem je skutečnost, že měď je tvárný kov, který se může protáhnout bez poškození. Je to velmi důležitá otázka pro systémy pracující při vysokých teplotách. Vyžaduje přípravu dostatečného prostoru pro instalaci, protože může zvětšit svou velikost. Měděná trubka je rozhodně menší než trubky z jiných materiálů - její stěny jsou tenčí, protože pro jejich výrobu se používá méně materiálu.
+Měděné trubky pro plyn jsou volbou doporučenou mnoha odborníky. **Co ovlivňuje tuto skutečnost?** Především měděné dráty jsou plastové, ale odolné proti roztažení. To je velmi důležitá otázka, kterou je třeba vzít v úvahu při práci při vysokých teplotách dosažených plynem.
 
-{:.distinction.distinction-info.distinction-positive}
+Co je třeba poznamenat při výběru měděných trubek pro plyn, je, že máte dostatek prostoru pro instalaci, což může jemně zvýšit vaši velikost. Na druhé straně, nicméně, **měděné dráty pro plynové instalace** je menší, protože více tenkých stěn a použití menšího množství materiálu pro jejich výrobu ve srovnání s nimi, i když by se ocelové trubky.
 
-Měděné plynové instalace jsou těsné a odolné vůči různým faktorům, jako je UV osvětlení. Největší výhodou měděné trubky je vysoká odolnost proti korozi.
+{:.distinction.distinction-quotation.distinction-positive}
 
-## Měděné trubky-jak připojit prvky?
+Měděné dráty činí plynový systém domu vzduchotěsný a odolný vůči různým faktorům, například vysokému UV záření. Největší výhodou je však skutečnost, že měděné trubky pro plyn jsou charakterizovány vysokou odolností proti korozi.
 
-Měděné trubky používané v instalaci domácího plynového potrubí jsou poměrně tvrdé. Jejich stěny obvykle přesahují 1 mm. díky tomu lze trubky velmi efektivně připojit pomocí tvrdého pájení. Neměl by ses pokoušet pájet plynovod sám - nech to na profesionálovi. Another method is using compression fitting. Montáž takových trubek je velmi snadná a pro specialistu by to neměl být problém. Tato skutečnost výrazně přispívá k nižším nákladům na montáž zařízení.
+### Jak připojit měděné dráty dohromady?
+
+Plynová instalace, která používá měděné dráty, poskytuje mnoho příležitostí k jejich připojení. Měděné trubky pro plyn jsou tuhé, jejichž tloušťka přesahuje 1 mm. v důsledku těchto vlastností je nejčastější metodou pájení. Před spojením se doporučuje povrch vyčistit speciálním měděným kartáčem, aby byl odolnější. Odborníci také doporučují použití pájecí pasty, která je určena pro měděné trubky a armatury.
+
+Dalším způsobem je také použití lisovaných armatur. V tomto případě je vhodná obvyklá montáž PEX. Pokud však chcete změnit směr jízdy plynového zařízení-tím odpovídají konstrukci budovy, použijte odpaliště PEX nebo krimpovací lokty. Samotná montáž těchto prvků je však v současné době jedním z nejjednodušších, takže ji může zvládnout každý odborník. To také vede k výrazně nižším nákladům na plynovou instalaci.
 
 ![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
-## Jaké jsou výhody ocelových trubek?
+## Ocelové trubky - plynová instalace je více vystavena škodlivým faktorům?
 
-Ocelové trubky používané pro instalaci plynového potrubí mají větší průměr než měděné protějšky. Stěny ocelové trubky jsou silnější, proto jsou tuhé a nemusí být připevněny ke zdi s dalšími prvky. Bohužel tento typ instalace je velmi těžký.
+Ocelové trubky, které plynové zařízení používá, mají průměry větší než protějšky vyrobené z mědi. Je to proto, že jejich stěny jsou silnější. Díky tomu jsou tuhé a není třeba používat další upevňovací prvky ke stěně. **Bohužel, tímto způsobem je plynová instalace v domě také rozhodně těžší.** Ocelové trubky, stejně jako měděné dráty, mají vlastnost nazývanou tepelné roztažení. Takže jsou skvělé pro vysoké teploty.
 
-Podobně jako měděné potrubí, ocelové trubky pro instalaci plynového potrubí procházejí tepelnou expanzí. This feature makes them suitable for working in high temperatures. Ocelové trubky lze smontovat specialistou pomocí pájení nebo pomocí fitinků se závitem.
+{:.distinction.distinction-quotation.distinction-negative}
 
-{:.distinction.distinction-info.distinction-negative}
+_Montáž těchto prvků je možná svařováním nebo spojením na závit. Ve srovnání s instalací mědi je však doba jeho výroby mnohem větší. Nevýhodou může být také mnohem nižší odolnost proti korozi a tvorba vodního kamene v potrubí. Z tohoto důvodu jsou ocelové trubky vybrány méně často než měděné dráty._
 
-V porovnání s měděnými trubkami trvá proces spojování ocelových trubek mnohem déle. Jsou také méně odolné vůči korozi a více pravděpodobné vybudovat stupnici uvnitř (pokud se používá pro vodní instalaci).
+## Která plynová instalace bude lepší - pomocí měděných nebo ocelových trubek?
 
-### Délka životnosti potrubí
+Jak ocelové trubky, tak měděné dráty mají své výhody a nevýhody. Ve prospěch mědi kromě funkčnosti hovoří i estetika provedení. Tento typ plynové instalace lze použít jako prvek interiérového designu. Není však určen pro skrytý systém. Stejně odolné jsou ocelové trubky, které jsou ideální pro stavbu. Neměly by být instalovány v místech, kde je velká vlhkost.
 
-Měděné i ocelové trubky mohou trvat velmi dlouho, od 20 do 50 let a v některých případech i déle. Tyto materiály se často nahrazují trubkami z PVC (polyvinylchloridu), avšak jejich životnost je diskutabilní. Nepoužívají se však pro Plynová zařízení.
+Plynová instalace v domě tak musí splňovat podmínky, které v konkrétní budově převládají.
 
-## Instalace plynového potrubí - měděné nebo ocelové trubky?
+## Plynová instalace v domě - další zařízení, které stojí za to investovat
 
-Obě řešení mají své silné a slabé stránky. Instalace mědi je nejen funkční, ale také vypadá dobře. Trubky tohoto typu mohou sloužit jako dekorace. Nicméně nejsou vhodné pro zapuštěné systémy. Ocelové trubky jsou na druhé straně stejně silné jako měď a mohou být umístěny uvnitř zdi. Nemohou však být instalovány v místech s vysokou vlhkostí kvůli jejich žíravosti.
+Pokud zvolíte vhodné plynové potrubí, ujistěte se, že shromáždíte veškeré ostatní zařízení, které bude zodpovědné za správné fungování celého systému v budově. Samotné **plynové potrubí** jsou samozřejmě základem, ale neměly by být používány bez dalších částí.
+
+Mezi nejdůležitější prvky patří především kulové kohouty. Použití této součásti je velmi důležité - zejména v situaci, kdy musí být přívod plynu rychle uzavřen. Dokonalým příkladem je selhání, které se může stát vždy. Použitím kulového ventilu pro plyn jste si jisti, že vždy, když je to potřeba, budete moci uzavřít přívod do domu sami. Je to obrovský komfort, když není nutné volat odborníka na takovou drobnou práci.
