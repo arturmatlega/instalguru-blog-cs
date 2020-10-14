@@ -11,7 +11,7 @@ main_keywords:
 - měděné kování
 - pex potrubní tvarovky
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2020-10-13 22:00:00 +0000
+update_date: 2020-10-14 20:09:00 +0000
 title: Topný systém - jaké prvky vytvoří vhodný topný systém?
 small-intro: Každý topný systém může být založen na různých typech připojení jednotlivých
   součástí.
