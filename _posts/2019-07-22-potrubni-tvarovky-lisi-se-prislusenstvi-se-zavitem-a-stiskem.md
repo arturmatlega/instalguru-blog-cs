@@ -1,32 +1,28 @@
 ---
 layout: post
-seo_title: 'Potrubní tvarovky: liší se příslušenství se závitem a stiskem?'
-seo_description: "Plánujete rekonstrukci domu? \U0001F3E0 Možná vás zajímá, co tvarovky
-  byste měli zvolit? \U0001F449 Zjistěte rozdíl mezi příslušenstvím se závitem a příslušenstvím
-  pro tisk"
+seo_title: Topný Systém - Jaké Prvky Vytvoří Vhodný Topný Systém?
+seo_description: "Stavíš dům? \U0001F3E0 Zajímalo by mě, jaké komponenty PEX zvolit
+  pro instalaci potrubí co? \U0001F449 Zkontrolujte, které armatury budou lepší."
 main_keywords:
-  - pex kování
-  - potrubní tvarovky
-  - PVC tvarovky
-  - hydraulické armatury
-  - měděné kování
-  - pex potrubní tvarovky
+- pex kování
+- potrubní tvarovky
+- PVC tvarovky
+- hydraulické armatury
+- měděné kování
+- pex potrubní tvarovky
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Potrubní tvarovky: liší se příslušenství se závitem a stiskem?'
-small-intro: Zařízení pro vodu a ústřední vytápění používá různé typy potrubních tvarovek
-intro: Zařízení na vodu a ústřední vytápění používá různé typy potrubních tvarovek.
-  Dva z nejoblíbenějších prvků jsou tvarovky se závitem a lisovací prvky. Jaký je
-  rozdíl mezi nimi a jaké jsou jejich největší výhody? Potrubní tvarovky patří mezi
-  nejdůležitější prvky každé vodní instalace. PVC fitinky a PEX fitinky jsou stále
-  populárnější a vybírají se častěji než měděné fitinky. Lze použít jak při vytápění
-  (95° C max), tak při instalaci vody. Jednou z největších výhod řešení tohoto typu
-  je možnost přenosu pitné vody bez rizika jejího znečištění. Bez ohledu na typ lze
-  oba výrobky použít k připojení PEX potrubí s dalšími prvky v instalaci vody. Různé
-  typy, jako jsou tečky a lokty, jsou užitečné pro vybudování větších a složitějších
-  instalací.
+update_date: 2020-10-13 22:00:00 +0000
+title: Topný systém - jaké prvky vytvoří vhodný topný systém?
+small-intro: Každý topný systém může být založen na různých typech připojení jednotlivých
+  součástí.
+intro: Každý topný systém může být založen na různých typech připojení jednotlivých
+  součástí. Je to dáno především jejich výkonem založeným na různých materiálech.
+  Nejoblíbenější po mnoho let jsou systémy PEX ve zkroucené a lisované verzi. Nicméně,
+  v závislosti na potřebách - vytápění budovy může použít montážní dráty vyrobené
+  z mosazi, niklu nebo litiny. Podívejte se, co charakterizuje každý topný systém
+  a jak přesně vypadá otázka jeho výstavby.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: Dva z nejoblíbenějších prvků jsou tvarovky se závitem a lisovací prvky.
+photo_desc: Nejoblíbenější po mnoho let jsou systémy PEX ve zkroucené a lisované verzi.
 faq:
 - question: PEX kování - jak je nainstalovat?
   answer: Způsob instalace potrubních tvarovek PEX závisí na jejich konstrukci. Před
@@ -63,47 +59,83 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
-## Potrubní tvarovky-konstrukce a instalace
+## Vytápění založené na systémech PEX
 
-Ať už jde o PVC fitinky, PEX fitinky, měděné fitinky nebo jakýkoli jiný typ, jejich konstrukce není příliš komplikovaná. Prvky se liší jen mírně. The main distinction is in the method of installation. Viz komplexní popis fitinek se závitem a stiskem níže.
+Topný systém, který je již řadu let velmi žádaný, je založen především na systémech PEX. Vzhledem k jejich výrobním materiálům a vlastnostem mohou být trubky typu PEX / AL / PEX a armatury PEX použity jak pro topné a vodní instalace. **Limitem v tomto případě je teplota, která může být až 95°C.**
 
-### Příslušenství se závitem
+Další výhodou tohoto řešení je schopnost dodávat pitnou vodu bez obav z jejího znečištění, ať už se rozhodnete pro krimpovací armatury nebo zkroucené armatury. Při připojení potrubí PEX se zbývajícími prvky vodovodu lze použít různé typy prvků. Jde především o loket PEX nebo odpaliště PEX. Jejich použití umožňuje vytvářet větší a složitější sítě-odpovídající struktuře budovy. Díky tomu se schéma topného systému vytváří velmi hladce a pak je možná jeho implementace.
+
+Rozdíl, který vykazují topné jednotky, kde se používají systémy PEX, je použití různých typů armatur. **Co charakterizují jednotlivé prvky?**
+
+### Topné jednotky pomocí zkroucených armatur
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-Zařízení se závitem se skládá z následujících prvků:
+Základem, který každý topný systém používá, jsou **vodiče PEX / AL / PEX**. Jejich anastomóza se však provádí pomocí příslušných armatur. Ve zkroucené armatuře můžeme zvýraznit následující prvky:
 
-{:.list.list-positive}
+1. Závitová matice.
+2. Upínací kroužek.
+3. Šroubovací kolík (s dalšími O-kroužky).
+4. Dielektrické těsnění.
+5. Trup.
 
-* Matice se závitem.
-* Utahovací prsten.
-* Trubice (s těsnícími o-kroužky).
-* Dielektrický spacer.
-* Vhodné tělo.
+Ve zkroucených armaturách je matice odšroubována z dielektrického distančního kování. Poté je nutné na trubku položit matici a upínací kroužek. Stöck upevnění je třeba vložit dovnitř trubky, velmi pečlivě kolébání jeho, pro eliminaci mezery mezi trubkou a stopkou (je důležité, aby potrubí bylo odříznout maximalizovat v pravém úhlu - to zajišťuje, že topný systém bude hustý). Když je dřík již v potrubí, otočte matici rukama až do dorazu a poté ji utáhněte na 3/4 otáčky trubky pomocí klíče.
 
-Potrubní tvarovky se závitem mají matici se závitem, kterou je třeba zkroutit z dielektrického spaceru. Pak je na trubku umístěn kroužek s maticí a utahovacím kroužkem. Trubka se vloží do potrubí a pevně stiskne, aby se odstranily mezery mezi oběma prvky (potrubí by se mělo řezat v úhlu 90 stupňů). Pokud je trubka uvnitř potrubí, matice by měla být zašroubována co nejtěsněji rukama a poté upevněna hasákem. Dávejte pozor, aby se matice příliš zapínání, protože by to mohlo poškodit jak montáž a trubka.
+{:.distinction.distinction-info.distinction-positive}
 
-### Potrubní tvarovky
+Měli byste být opatrní, abyste matici příliš neotočili, protože to může poškodit jak armaturu, tak trubku.
+
+## Topný systém pomocí lisovaných armatur
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-V potrubních tvarovkách je několik prvků:
+Velmi populární jsou také topné jednotky, kde se používají lisované armatury. V tomto případě lze rozlišit následující armatury:
 
-{:.list.list-positive}
+1. Kleštinové sklíčidlo.
+2. Šroubovací kolík (s dalšími O-kroužky).
+3. Dielektrické těsnění.
+4. Trup.
 
-* Utahovací rukáv.
-* Trubice (s těsnícími o-kroužky).
-* Dielektrický spacer.
-* Vhodné tělo.
+V lisovaných armaturách se klešťová objímka aplikuje přímo na trubku (bez jejího předběžného rozkladu). Je třeba se ujistit pomocí speciálních kontrolních otvorů umístěných v objímce armatury, že trubka byla dostatečně hluboká. V současné době existuje největší rozdíl v obou systémech, protože krimpování armatur vyžaduje **speciální lisovací stroj**. Aplikuje se na kleštinu a poté se zapne. Po několika sekundách je slyšet charakteristický prasknutí, což znamená, že pouzdro bylo správně připojeno k potrubí. Takto vytvořený systém vytápění je stejně odolný.
 
-Instalace potrubních tvarovek tohoto typu zahrnuje uvedení na utahování rukávu přímo na potrubí (bez demontáže). Speciální mezery umístěné v trubce se používají k tomu, aby potrubí bylo dostatečně hluboko. Pro opravu montáže se používá speciální mechanický stroj, který je hlavním rozdílem mezi oběma typy. Nástroj je nasazen na trubku a zapnut. Po několika sekundách můžete slyšet charakteristický hluk - to znamená, že montáž byla řádně spojena s trubkou.
+### Schéma topného systému - rozdíly v systémech PEX
 
-## Potrubní tvarovky-hlavní rozdíly
+Největší rozdíl, pokud jde o topné jednotky s použitím obou uvedených systémů , je způsob jejich instalace. **Zkroucené armatury jsou především mnohem jednodušší k montáži a nevyžadují použití specializovaných nástrojů**. Navíc po instalaci můžete tento formulář znovu rozebrat-díky tomu je topný systém modernizován bez větších problémů pomocí stejného příslušenství.
 
-Jak je uvedeno v popisech výše, hlavní rozdíl mezi oběma systémy spočívá v metodě instalace. Fitinky se závitem se snadněji instalují a nevyžadují žádné speciální nářadí. Potrubní tvarovky se závitem jsou také levnější než ostatní (i když rozdíl v cenách je relativně malý). Další výhodou je skutečnost, že montáž lze po instalaci snadno rozebrat.
+Může to být samozřejmě situace, kdy už po jednom nasazení a nasazení bude upínací kroužek vyměněn-to je otázka individuální, závislá na intenzitě provozu systému.
 
-Existují však určitá omezení. Může se stát, že po rozebrání montáže musí být utahovací kroužek vyměněn. Další nevýhodou je, že po instalaci nelze zařízení přesunout, protože by mohlo způsobit únik. Je to obzvláště problematické s lokty, protože musí být umístěny v určitém úhlu.
+{:.distinction.distinction-quotation.distinction-positive}
 
-Potrubní tvarovky jsou trochu dražší. Použití mechanického nářadí je bezpečnější způsob instalace (lze snadno připevnit závitovou montáž příliš těsně). Lisované potrubní tvarovky (zejména kolena a tečky)lze po instalaci pohybovat kolem. To znamená, že je lze snadno přizpůsobit dalšímu prvku bez rizika poškození. Kromě toho mohou být umístěny do betonu, protože jsou odolnější a stabilnější.
+_Instalace centrálního vytápění, která používá zkroucené armatury, je nižší náklady než při použití stlačených analogů._
 
-Oba systémy mají své silné a slabé stránky. Rozhodnutí mezi nimi závisí na individuálních potřebách.
+Lisované armatury jsou o něco dražší, zatímco mají svařovací stroj, samotná instalace je mnohem jednodušší a spolehlivější. Kromě toho se po instalaci mohou volně otáčet na potrubí, aby se vešly do další části, aniž by se obávaly poškození. Důležitá je také možnost instalace armatur lisovaných přímo do betonu, protože jsou odolnější a odolnější vůči jeho pohybu. **Proto je tento typ topného systému mnoha lidmi považován za odolnější.**
+
+## Instalace ústředního topení - mosazné armatury
+
+Každý topný systém by měl být především odolný. Je velmi důležité, aby vzduchotěsné a odolné vůči různým faktorům připojení. Právě z tohoto důvodu se stále častěji používají mosazné kování: kolena, bradavky a různé typy prodlužovacích kabelů.
+
+### Použití armatur na radiátorech
+
+Mosazné armatury kvůli jejich pevnosti a odolnosti proti velmi vysokým teplotám se používají k připojení instalací s radiátory. V tomto případě se používají šrouby. Kromě trvanlivosti se vyznačují také velmi snadnou obsluhou a funkčností.
+
+{:.distinction.distinction-quotation.distinction-negative}
+
+Díky použití těchto prvků, v případě, že topný systém selže - je možné rychlé demontáže chladiče.
+
+## Topení - systémy zásobování vodou a plynem
+
+Mosazné armatury jsou také základem plynových a vodních instalací. V tomto případě fungují všechny druhy armatur. Velkou výhodou je možnost použití mosazných převodovek nebo redukčních vsuvek. S těmito prvky není problém, pokud mají instalační prvky různé průměry. Konstrukce budovy také velmi často vede ke změnám, které by měly zohlednit schéma instalace CO. Změna směru potrubí však v tomto případě není velkým problémem. Je nutné použít pouze mosazné odpaliště nebo výše zmíněný loket.
+
+## Poniklované armatury v topném systému
+
+Poniklované prvky potažené ochrannou vrstvou se používají v instalacích, kde kromě vhodné pevnosti záleží i na estetice. Platí to tedy pro všechna místa, která jsou vystavena-nejčastěji na toaletách a koupelnách, ale nejenom.
+
+Díky použití prvků si můžete být jisti, že zavedený systém ústředního vytápění nebo vodovod - budou trvanlivé a odolné vůči všem možným škodlivým faktorům. Jaké armatury se v tomto případě používají nejčastěji? Jedná se především o poniklované spojky, poniklované prodlužovací šňůry nebo poniklované lokty.
+
+## Vytápění vytvořené na základě litinových systémů
+
+Kromě všech výše uvedených možností může být topný systém vyroben také z pozinkovaných litinových prvků. Ačkoli mnoho lidí toto rozhodnutí odmítá-hlavně kvůli estetice - neměli bychom však zapomínat na nejdůležitější vlastnosti. Litinové armatury jsou jedním z nejtrvalejších na trhu. Odborníci zdůrazňují, že je lze aplikovat všude tam, kde existuje riziko velkých tlakových změn. Litinové prvky proto používají nejen topný systém, ale také vodovodní, plynové, Hasicí a ventilační systémy.
+
+Stejně jako v každém předchozím případě - mezi produkty, které jsme dobrovolně vybrat, mimo jiné, litinový redukční tees, redukční ниппели z pozinkovaného železa nebo litiny šrouby, stejně jako mnoho dalších prvků, které mohou být individuálně přizpůsobeny k výsledné instalace.
+
+Bez ohledu na použité prvky zařízení z hlediska topného systému, hlavní věc-správně provést. To lze realizovat samostatně nebo předat věc do rukou odborníků. Hodně záleží na specifikách systému a prostředí, které se používá k vytápění budovy.
