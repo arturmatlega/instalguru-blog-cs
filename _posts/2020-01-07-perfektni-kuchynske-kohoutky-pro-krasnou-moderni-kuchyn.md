@@ -1,28 +1,29 @@
 ---
 layout: post
-seo_title: Perfektní kuchyňské kohoutky pro krásnou moderní kuchyň
-seo_description: Plánuješ renovaci kuchyně? Podívejte se na oblíbené produkty a najděte
-  nejlepší faucet pro moderní kuchyni.
+seo_title: Funkční A Moderní Kuchyně | Vyberte Perfektní Kování
+seo_description: "Líbí se vám moderní kuchyně? \U0001F3E1 Nevíte, jaké doplňky do
+  kuchyně zvolit, aby byly funkční? \U0001F449 Zjistěte, jak vyzdobit kuchyň vašich
+  snů."
 main_keywords:
-  - kuchyňské baterie
-  - kuchyňský kohoutek
-  - dřez
-  - kuchyňské nápady
-  - dřezový faucet
-  - kuchyňské doplňky
-  - kuchyňský dřez faucet
-  - kuchyňská svítidla
+- kuchyňské baterie
+- kuchyňský kohoutek
+- dřez
+- kuchyňské nápady
+- dřezový faucet
+- kuchyňské doplňky
+- kuchyňský dřez faucet
+- kuchyňská svítidla
 date: 2020-01-07T11:00:00.000+00:00
-update_date: 2020-01-07T11:00:00.000+00:00
-title: Perfektní kuchyňské kohoutky pro krásnou moderní kuchyň
-small-intro: Na trhu existuje mnoho různých typů kuchyňských baterií.
-intro: Na trhu existuje mnoho různých typů kuchyňských baterií. Liší se velikostí,
-  vlákny, funkcemi a hlavně - styly. Kromě jejich základní funkce, kohoutky také slouží
-  s jejich vzhledem, přispívá k interiérovému designu. Perfektní spotřebič tohoto
-  typu by měl odpovídat jak designu, tak individuálním potřebám. Před výběrem správného
-  kohoutku je dobré naučit se všechny typy a styly, které jsou k dispozici k nákupu.
+update_date: 2020-10-20 10:00:00 +0000
+title: Moderní kuchyně - která armatura bude pro ni ideální?
+small-intro: Plánujete dokončit svůj domov? Nemáte představu o uspořádání kuchyně?
+intro: Plánujete dokončit svůj domov? Nemáte představu o uspořádání kuchyně? V posledních
+  letech se stále více lidí sází na moderní kuchyně, které se na jedné straně vyznačují
+  minimalistickým stylem, a další - jsou bohaté na velmi zajímavé přírůstky. Uspořádání
+  kuchyně se může zcela lišit - i při použití podobných produktů. Co je nezbytnou
+  položkou, kterou používá každá moderní kuchyně? Především baterie.
 photo: "/uploads/tap-791172_960_720.webp"
-photo_desc: Kohoutek je jedním z nejdůležitějších prvků v každé kuchyni.
+photo_desc: Dnes na trhu najdete obrovský výběr různých kuchyňských kohoutků.
 faq: []
 author_name: Magdalena Data-Urban
 author_desc: Správce obsahu na Instalguru
@@ -45,73 +46,70 @@ hreflangs:
   link: https://instalguru.cz/blog/perfektni-kuchynske-kohoutky-pro-krasnou-moderni-kuchyn.html
 
 ---
-## Kohoutky podle instalační metody
+## Kuchyňské vybavení - na co dávat pozor při výběru?
 
-Způsob instalace je základní otázkou, kterou je třeba mít na paměti při výběru kohoutku. Existují dva typy: montáž na zeď a montáž na palubu. Oba tyto typy mohou zdobit a zdůraznit design interiéru. Vzhledem k jejich konstrukci, každý z těchto typů splňuje různé podmínky.
+Dnes na trhu najdete obrovský výběr různých kuchyňských kohoutků. Liší se od sebe velikostí, závitem, funkcemi, ale především vzhledem. Mějte na paměti, že kromě základních funkcí hraje kuchyňské vybavení také obrovskou roli v dekoraci místnosti. Moderní kuchyně jsou vybaveny bateriemi, které jsou ideální pro interiér a individuální potřeby uživatele. Při výběru kuchyňských doplňků stojí za to předem zjistit, které z nich jsou v současné době nejmódnější.
 
-## Klasický kohoutek pro montáž na zeď
+## Moderní kuchyňské vybavení - věnujte pozornost způsobu montáže
 
-Vodovodní kohoutky Wall-mount lze instalovat pouze v případě, že potrubí dodávající vodu jsou umístěny nad dřezem. Kohoutky tohoto typu mají obvykle dvě kliky. Kohoutky s rukojetí ve tvaru X jsou nedávno docela populární. Takový design znamená klasickou eleganci se stopou současného stylu. Vodovodní kohoutky na stěnu vypadají nejlépe v tradičních uspořádáních.
+Moderní kuchyně sází výhradně na neobvyklé druhy kohoutků? Ne nutně! Lze si všimnout, že klasické kuchyňské vybavení stále ochotně volí mnoho lidí. Najde uplatnění, zvláště pokud zvolíte určitý aranžérský styl-například retro. V tomto případě máte dvě možnosti. Jedním z nich je nástěnná kuchyňská baterie, druhým kuchyňská baterie. Co je typické pro takové kuchyňské vybavení a jak se používá moderní kuchyně?
 
-{:.distinction.distinction-quotation.distinction-negative}
+### Nástěnná kuchyňská baterie
 
-Pokud je kuchyně navržena ve stylu vintage, může být dobrý nápad vybrat „retro“ faucety, které vypadají jako ve třicátých letech.
+Nástěnné kohouty jsou navrženy tak, aby byly instalovány v vodovodním systému, kde byly nad umyvadlem vytaženy vodovodní potrubí. Tento typ baterie lze obvykle nalézt v tradiční verzi se dvěma rameny. V poslední době se velmi módní se staly jeřáby ze skupiny Symetric s rukojetí ve tvaru písmene X. u tohoto typu doplněk do kuchyně jsou vhodné pouze, jedná-li se o klasických interiérů? Nástěnný Model baterie umožňuje zachovat klasickou eleganci a přináší náznak modernosti. Nástěnné kování vypadá nejlépe v interiérech s tradičním dekorem. Moderní kuchyně, které jsou navrženy v retro stylu, ji však rádi používají, kde můžete použít baterie ve stylu 30. let.
 
-## Palubní kohoutky
+### Kuchyňská baterie
 
-Palubní kohoutky se obvykle montují přímo k přepážce kuchyňského dřezu. Mohou být instalovány, když potrubí běží pod úrovní sanitárních armatur. Jedním z nejpopulárnějších modelů tohoto typu je kohoutek s jednou rukojetí. Hodí se k mnoha současným designům, včetně kuchyňských ostrovů a umyvadel s okny.
+Stojaté baterie, nazývané také bouře, jsou navrženy tak, aby byly instalovány do vodovodního systému, který prochází pod úrovní hygieny. Klasickým modelem této skupiny jsou jednočlánkové baterie. Jak je mohou moderní kuchyně využít? Ideální pro uspořádání, například na kuchyňských ostrovech nebo v umyvadlech umístěných u okna.
 
-## Typy kuchyňských kohoutků
+## Jak vyzdobit kuchyň? Výběr výlevky pro kuchyňský mixér
 
-Spout je nejdůležitější součástí kuchyňského kohoutku. Kromě vizuálních vlastností hraje významnou roli ve fungování celého spotřebiče. Nejlepší je ten, který je navržen speciálně pro potřeby. Pečlivě zvolený výrobek by měl být pohodlný k použití, což usnadňuje každodenní aktivity.
+Moderní kuchyně by měla být především funkční. Tuto skutečnost lze vyřešit mimo jiné kuchyňským kohoutem, nebo spíše jeho hubicí. Standardní pevné prvky jsou po určitou dobu vybírány méně a méně často. Oproti tomu získávají nezvyklé dosavadní přírůstky do kuchyně.
 
-Výrobci nabízejí následující druhy sportů:
-
-{:.list.list-positive}
-
-* vytáhnout,
-* flexibilní,
-* rotace,
-* pevný.
+Na co se zaměřit při výběru kuchyňského vybavení v tomto ohledu? Výrobci zdůrazňují, že nejlepší hubice je ta, která je ideální pro individuální potřeby uživatele. Správně vybraný produkt učiní každodenní činnost mnohem jednodušší a pohodlnější. Mezi modely na trhu vynikají baterie s výsuvnou, ohebnou a otočnou hubicí.
 
 ![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
 
-## Odtahový kohoutek
+### Jeřáb s výsuvnou hubicí
 
-Nedávné trendy v kuchyňském designu zahrnují vytahovací kohoutky umístěné pod oknem. Takový spotřebič je velmi užitečný a funguje dobře v každé kuchyni. Kohoutek tohoto typu lze namontovat s jedním umyvadlem misky, stejně jako s dvojitými umyvadly misky. Díky odtahové trubce je náplň i největší hrnec velmi pohodlná. Je to také velká pomoc pro činnosti, jako je čištění dřezu, oplachování zeleniny, plnění kbelík s vodou bez nutnosti dát ji do dřezu. Většina kohoutků tohoto typu má dva vzorce proudu - vodu lze koncentrovat nebo postřikovat. Trysky mohou navíc mít funkce a provzdušňovače, které šetří vodu.
+Moderní kuchyně již několik sezón sází na zajímavý výběr kuchyňských kohoutků. Jedním z nich je skládací jeřáb pod oknem s výsuvnou hubicí. Jedná se o extrémně funkční kuchyňské vybavení. Tento model najde uplatnění jak u jednokomorových, tak u dvoukomorových umyvadel.
 
-## Ohebný kohoutek
+Velký výtok umožňuje naplnit vodou každý, dokonce i velmi hluboké pánve, dostat se na každé přestávce ve dřezu, například při jeho čištění, důkladné umytí produktů, plnění vodou kbelíky a kuchyňské nádobí, bez nutnosti jejich uvedením do dřezu. Většina kohoutků s výsuvnou hubicí je vybavena funkcí změny vodního paprsku. Může být soustředěný nebo rozptýlený. Navíc moderní kuchyňské vybavení tohoto typu může mít funkci úspory vody a namontované provzdušňovače.
 
-Dalším typem kohoutku rostoucí popularity je flexibilní kohoutek. Je podobný kohoutku, který umožňuje vodovodní proud v každém směru. Také to usnadňuje plnění velkých jídel. Kromě funkčnosti, která je nejdůležitější vlastností, mají flexibilní kohoutky také nádherný vzhled. They are available in a wide range of colours, which helps to fit the style of a contemporary kitchen. Modely v prostých, neutrálních barvách vypadají v tradičních kuchyních velmi elegantně. Největší výhodou tohoto typu kohoutků je skutečnost, že mohou být upraveny tak, aby odpovídaly chuti. Jejich flexibilita umožňuje volně je tvarovat.
+### Kuchyňská baterie s ohebnou hubicí
 
-## Rotační a pevné kohoutky
+Stejně jako výsuvná výlevka, Flex armatury umožňují pohodlné vedení toku kdekoli v umyvadle,stejně jako plnění vysokých nádob. Kromě funkčnosti, která je nejdůležitějším aspektem v kuchyni, však kohoutky s ohebnou hubicí překvapí svým neobvyklým vzhledem.
 
-Kohoutky, které jsou upevněny na jedno místo a ty, které mohou být rotovány jsou nejčastěji vybrané produkty. Jejich hlavní charakteristikou je klasický, neutrální design. Jsou rozhodně méně pohodlné než ohebné a vytahovací kohoutky. Jejich největší výhodou je cena-takové modely jsou nejméně nákladné.
+Flexibilní hubice se často provádějí v neobvyklých barvách. To je ideální nabídka, pokud jde o moderní kuchyně. K dispozici jsou také modely v klasických neutrálních barvách: černé a bílé, díky kterým kuchyně získá třídy a elegance. Největší výhodou těchto hubiček je však možnost dát jim tvar odpovídající individuální chuti. Zařízení jsou dostatečně flexibilní, abyste mohli vytvořit svůj vlastní jedinečný tvar.
 
-## Materiály používané pro kohoutky
+### Kuchyňská baterie - s pevnou nebo pohyblivou hubicí?
 
-Kuchyňský kohoutek je jedním z nejvíce viditelných prvků v každé kuchyni. S ohledem na to, že stojí za to zvolit výrobek, který je nejen funkční, ale také dobře vypadající-tak, aby odpovídal celý design.
+Kohouty s pevnou hubicí jsou nejzákladnějšími přírůstky do kuchyně. Mají klasický, jednoduchý vzhled. Jejich funkčnost je však mnohem nižší než u kohoutků s výsuvnou hubicí nebo ohebných jeřábů. Řešením "mezi" může být kuchyňská baterie s pohyblivou hubicí. Výhodou v tomto případě může být nízká pořizovací cena nejjednodušších modelů. Nicméně, pokud jde o moderní kuchyně-jsou používány poměrně zřídka.
 
-Na trhu je mnoho kohoutků z různých materiálů. Nejlepší materiál je mosaz. Je odolná vůči fyzikálnímu poškození, korozi, chemikáliím a zbytkům z měřítka. Trvanlivost není jedinou výhodou mosazi-také vypadá velmi dobře. A co víc, elegantní vzhled tohoto kovu je dlouhodobá kvalita. I když existují levnější náhrady pro kohoutkové modely, které jsou vyrobeny z plastu, nikdy nebudou tak silné a pevné jako mosaz.
+## Moderní kuchyně - správná kvalita sestavení a dokončení baterie je základem
 
-Většina mosazných kohoutků je pokryta vrstvou chromu, který vypadá velmi elegantně a navíc chrání povrch. Díky svému klasickému vzhledu tento typ kuchyňského kohoutku odpovídá jakémukoli interiérovému designu.
+Kuchyňská baterie je prvek armatury, který je ve většině případů na viditelném místě, takže stojí za to vybrat takovou baterii, která potěší oko a doplní výzdobu kuchyně.
 
-Kromě chromu jsou k dispozici i kuchyňské kohoutky v mnoha dalších barvách. Proto by mělo být velmi snadné najít spotřebič s barvami odpovídajícími nábytku, stěnám nebo jiným spotřebičům. Černá kuchyně kohoutky jsou v poslední době velmi populární volbou. Tato barva perfektně vyhovuje moderním nebo průmyslovým kuchyním. White tap, on the other hand, is a perfect choice for scandinavian or English style kitchens. Dalším typem, který se stává stále populárnější jsou mosazné kohoutky bez chromové vrstvy. Vejdou se do elegantního, elegantního stylu interiérů.
+Na trhu existuje mnoho baterií vyrobených z různých materiálů. Jednou z nejoblíbenějších, které moderní kuchyně používají, je mosaz. Tento materiál nepodléhá korozi, je odolný vůči mechanickému poškození, chemikáliím a usazeninám vodního kamene. Kromě vysokých imunitních vlastností mají mosazné kohouty elegantní a bezchybný vzhled pro nadcházející roky.
 
-![](/uploads/1c5d4ea983f142df887e5efbe1dae5a3.jpg)
+Na trhu jsou také velmi zajímavé náhrady vybavené díly z plastu. Nejsou vždy tak okouzlující jako mosazné sady. Vyznačují se poměrně dobrou pevností a každá moderní kuchyně bude s jejich použitím prezentována velmi zajímavě
 
-## Funkčnost kohoutků
+Ve většině případů byly kohouty pokryty vrstvou Chromu, což jim dává elegantní styl a poskytuje dodatečnou ochranu. Takto vyrobená baterie se hodí k jakémukoli dekoru místnosti. I když zjistíte, že moderní kuchyně vás nudí a změníte styl-vejde se do nového interiéru.
 
-Před výběrem správného kohoutku je důležité zvážit způsob, jakým se bude používat. Dostupné produkty zahrnují tradiční jednolůžkové a dvoulůžkové kohoutky, stejně jako inovativní a velmi praktické bezdrátové kuchyňské kohoutky. Ty jsou docela průkopnické vynálezy. Tyto kohoutky jsou spuštěny infračerveným senzorem, který detekuje pohyb.
+### Moderní kuchyně - co když ne chrom?
 
-{:.distinction.distinction-quotation.distinction-positive}
+Alternativou k blikajícím chromovým bateriím jsou kohouty různých barev. Díky nim si je můžete ještě lépe vybrat například k barvě nábytku, stěn nebo zbytku kování tohoto typu.
 
-Největšími výhodami těchto zařízení jsou hygiena, ekonomika, tepelná dezinfekce, snadná instalace a moderní design. Dotykové kohoutky jsou ideální pro jedince, kteří si cení funkčnosti a moderního vzhledu.
+V poslední době se velmi módní zařízení kuchyně černé barvy, která je ideální pro moderní kuchyně a industriální styl. Černé kuchyňské doplňky jsou velmi všestranné, takže mohou být použity ve většině místností. Na druhou stranu jemná bílá baterie je ideální v interiéru zařízeném ve skandinávském nebo anglickém stylu.
 
-## Další funkce
+## Kuchyňské vybavení - sázka na technologie
 
-Většina současných kohoutků používá speciálně navržené vodní filtry, které čistí vodu z bakterií a toxických látek. Klepněte na filtr je dobrá volba pro ty, kteří si váží bezpečnosti a hygieny.
+Při výběru baterie je třeba zvážit, jak bude použita. Na trhu jsou tradiční jednopodlažní, dvoukřídlé baterie, stejně jako inovativní a praktická řešení. Mezi poslední patří bezkontaktní baterie. Tento model je skutečným průlomem, pokud jde o kuchyňské vybavení. Spouští se infračerveným snímačem v okamžiku přiblížení ruky nebo nádoby. Hlavní výhodou tohoto jeřábu jsou vysoká úroveň hygieny, vysoká úspora vody, tepelná dezinfekce, jednoduchá a rychlá instalace a moderní design. Bezkontaktní armatura je ideální nabídkou pro ty, kteří oceňují kombinaci vynikající funkčnosti s moderním designem. Moderní kuchyně takové řešení využívají stále častěji.
 
-Dalším užitečným rysem pro kuchyňský kohoutek je ohřívač vody. Takový spotřebič zaručuje, že voda je vždy teplá.
+## Doplňky do kuchyně - funkčnost především
 
-Kohoutek je jedním z nejdůležitějších prvků v každé kuchyni. Je důležité pečlivě zvolit tento spotřebič, aby bylo zajištěno, že slouží všem vašim potřebám. Kuchyňský kohoutek by měl nejen správně fungovat, ale také být atraktivní dekorace.
+Většina moderních baterií je vybavena speciálními vodními filtry, které ji čistí od toxinů a bakterií. To je absolutní základ, který moderní kuchyně berou v úvahu. Baterie s filtrem se doporučuje pro ty, kteří ocení zejména bezpečnost a hygienu.
+
+Dalším velmi užitečným prvkem, který může mít kuchyňská baterie, je ohřívač vody. S tímto zařízením se již nemusíte starat o přítomnost horké vody v kohoutku.
+
+Moderní kuchyně kombinují funkčnost a estetiku provedení. Moderní technologie, které kuchyňské vybavení disponuje, ovlivňují úsporu spotřeby vody. Z tohoto důvodu stojí za to sledovat publikované odborníky inspirace-díky nim bude kuchyně ideální.
