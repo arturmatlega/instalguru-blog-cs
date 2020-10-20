@@ -1,30 +1,29 @@
 ---
 layout: post
-seo_title: Ventilace - jaké jsou typy ventilačních systémů?
-seo_description: Ventilace je jedním z nejdůležitějších prvků každého bytu a kanceláře.
-  Jak budovat dobrý ventilační systém, který bude dělat své domácí čerstvé?
+seo_title: Dobré Větrání Domu a Garáže | Vsaďte Na Své Zdraví
+seo_description: "Staráte se o zdraví svých a blízkých? \U0001F46A Zjistěte, proč
+  je dobré větrání domu a garáže velmi důležité. \U0001F449 Znáte hlavní body na toto
+  téma."
 main_keywords:
-  - větrání
-  - doma čerstvé
-  - větrej
-  - větrané
-  - ventilační systém
-  - ventilátory
-  - co je větrání
-  - přirozené větrání
-  - domácí ventilátor
+- větrání
+- doma čerstvé
+- větrej
+- větrané
+- ventilační systém
+- ventilátory
+- co je větrání
+- přirozené větrání
+- domácí ventilátor
 date: 2019-12-23T11:00:00.000+00:00
-update_date: 2019-12-23T11:00:00.000+00:00
-title: Co je ventilace? Typy větracích systémů
-small-intro: Domácí ventilační systém může být skrytý před zrakem, ale hraje jednu
-  z nejdůležitějších rolí v každém bytě.
-intro: Domácí ventilační systém může být skrytý před zrakem, ale hraje jednu z nejdůležitějších
-  rolí v každém bytě. Poskytuje pohodlí a dělá váš domov svěží. Je to jen funkce?
-  Ventilační systém je základní součástí každé budovy. Snižuje hladinu vlhkosti. Nadměrná
-  vlhkost vzduchu může vést k vývoji plísní a plísní, které jsou nebezpečné pro lidské
-  zdraví. Takový stav je riskantní zejména pro citlivé lidi, kteří trpí astmatem nebo
-  alergiemi. Větrání v budovách býval v minulosti luxus, ale nyní by mělo být jednou
-  z nejdůležitějších částí, bez ohledu na jeho použití.
+update_date: 2020-10-20 10:00:00 +0000
+title: Jak by mělo správné větrání v domě a garáži fungovat?
+small-intro: Větrání v domě, i když je obvykle neviditelné, je však jednou z nejdůležitějších
+  instalací.
+intro: Větrání v domě, i když je obvykle neviditelné, je však jednou z nejdůležitějších
+  instalací. Zodpovědný za pohodlí v místnosti. Ale nejen to! Větrání domu zabraňuje
+  tvorbě vlhkosti v budovách. To zase vede k nedostatku hub a plísní, které ohrožují
+  lidské zdraví. To je velmi důležitý aspekt-zejména pro velmi citlivé osoby trpící
+  alergiemi nebo astmatem.
 photo: "/uploads/wall-768765_960_720.webp"
 photo_desc: Vhodný systém umožňuje cirkulaci vzduchu v každé místnosti budovy.
 faq: []
@@ -49,70 +48,134 @@ hreflangs:
   link: https://instalguru.cz/blog/co-je-ventilace-typy-vetracich-systemu.html
 
 ---
-## Budování ventilačního systému-jak to funguje?
+## Jak funguje větrání v domě? Základní informace, které byste měli vědět!
 
-Větrání není příliš složitý problém. Vhodný systém umožňuje cirkulaci vzduchu v každé místnosti budovy. Použitý" starý " vzduch je nahrazen čistým a čerstvým. Je mnohem zdravější, protože neobsahuje žádné škodlivé látky nebo znečišťující látky. V závislosti na jeho hnací síle, existují dva typy větrání:
+Větrání v domě funguje na velmi jednoduchém principu. Díky správně postavenému systému je možná výměna vzduchu ve všech prostorách budovy. **Odstraní se takzvaný odpadní vzduch a přivede se čerstvý** - rozhodně zdravější, bez škodlivých látek a nečistot. V závislosti na hnací síle je možné větrání domu:
 
-{:.list}
+{:.list.list-positive}
 
-* gravitace, také nazývaná přirozené větrání,
-* nucené, vyžadující použití ventilátorů.
+* přírodní - také nazývané gravitační,
+* mechanická - na základě práce ventilátorů.
 
-To není jediná divize. Odborníci tvrdí, že je možné dokonale zapadnout ventilační systém do jakékoliv budovy. Kromě výše uvedených typů existují také typy, jako jsou:
+Je to však jen jedna z divizí. Odborníci upozorňují, že v současné době může být větrání v domě **dokonale přizpůsobeno potřebám konkrétní budovy**. Kromě výše uvedených typů systému jsou také velmi populární:
 
-{:.list}
+{:.list.list-positive}
 
-* ventilace rekuperace tepla,
-* ventilace smíšeného režimu,
-* ventilace dodávky,
-* hybridní ventilace.
+* mechanická s rekuperací tepla,
+* míchání,
+* výtlak,
+* hybridní.
 
-## Přirozené větrání budovy
+## Co je gravitační větrání v domě?
 
-Dobře navržený systém větracích otvorů v budově umožňuje přirozený průtok vzduchu. Tento typ větrání může vyžadovat použití dalšího vybavení, vytvořeného speciálně pro domácí nebo kancelářské účely.
+Přirozená cirkulace vzduchu je možná díky dobře navrženému **systému potrubí v budov**ě. Důležité v tomto případě může být použití konkrétních materiálů přizpůsobených potřebám domu.
 
-Důležité! Jednou z největších výhod tohoto typu větrání je skutečnost, že jí není třeba pomáhat s jakýmkoli druhem energie. Proto existuje jen malé riziko poškození takového systému. Navzdory skutečnosti, že zařízení poskytuje nerovné množství proudění vzduchu v každé místnosti, stále funguje správně.
+**Gravitační větrání v domě má mnoho výhod**. Největší z nich je skutečnost, že by se neměla živit žádnou dodatečnou energií. To znamená, že riziko jeho poškození je rozhodně nižší. I když takové větrání domu funguje nerovnoměrně, přesto přináší předpokládané výsledky. Odborníci ji považují za spolehlivou.
 
-Odborníci považují tento typ ventilace za jeden z nejspolehlivějších. Je třeba poznamenat, že v některých případech je přirozené větrání povinné - je regulováno zákonem. Vyžaduje se například v budovách s kotelnou s otevřenými spalovacími komorami.
+{:.distinction.distinction-info.distinction-negative}
 
-Přirozené větrání je nejzranitelnější v zimě i v létě. Takový systém funguje díky rozdílům v teplotě venku a uvnitř budovy. Vzduch uvnitř by měl být teplejší než venku. Velmi často, zejména když jsou větrací otvory špatně navrženy, vzduch proudí zpět do budovy v létě. Nejčastějším problémem v zimě je příliš silné přirozené větrání.
+Může se stát, že gravitační větrání ve vašem domě bude nutností, což přímo souvisí s legislativou. Povinnost ji plnit je svěřena osobám, které se rozhodly udělat kotelnu, kde jsou instalovány otevřené spalovací komory.
+
+**Větrání domu tohoto typu je podrobeno zkouškám, zejména v létě a v zimě.** Základem účinnosti takového systému je zachování teplotního rozdílu. To znamená, že vzduch uvnitř budovy by měl mít vyšší hodnotu než venku. Velmi často, zvláště u špatně спроектированными kanály, můžete narazit na situace, kdy v létě vzduch se vrací dovnitř a v zimě větrání v domě je příčinou nízké teploty a chladu.
 
 ![](/uploads/vent-207144_960_720.webp)
 
-## Jak fungují nucené ventilační systémy?
+## Větrání v domě - stojí za to vsadit na pokročilé mechanismy?
 
-Pokud jde o mechanické větrání,neexistuje žádný typ. Depending on the mechanism, one can distinguish ventilations:
+Při analýze fungování mechanického větrání si lze všimnout, že ve skutečnosti neexistuje žádný jednotný systém. V závislosti na akci je přidělena instalace:
 
-{:.list}
+{:.list.list-positive}
 
-* se vzduchem vytlačeným ven z budovy,
-* se vzduchem v budově i mimo ni.,
-* s rekuperací tepla.
+* odsávací,
+* přívodní a odsávací ventilace,
+* s obnovením tepla.
+
+**Odsávací větrání domu je jedním z nejjednodušších.** V tomto případě je nucený pohyb vzduchu spojen s jeho odstraněním. To znamená, že příliv čerstvého vzduchu se provádí pomocí difuzorů instalovaných na oknech. Stává se, že takové větrání v domě je oporou gravitačních systémů. Kde je můžete potkat? Alespoň v kuchyňských digestorech, které jsou určeny k odstranění horkého vzduchu z vodní páry.
+
+Přívodní a odsávací ventilace funguje na velmi blízkém principu jako první typ. Rozdíl je, že v tomto případě jak digestoř, tak přívod vzduchu závisí na **mechanických ventilátorech.**
+
+**Nejnovější typ větrání s rekuperací tepla využívá specializované zařízení nazývané rekuperator**. Díky jejich použití je možné oddělit teplo od vzduchu, který je odstraněn z místnosti, a s jeho pomocí ohřívat vzduch vstupující do budovy. Toto řešení je vynikající, zejména v zimních obdobích, kdy může být dům díky provozu ventilačního systému nadměrně chlazen.
+
+## Špatná ventilace domu ohrožuje vaše zdraví
+
+Kromě již zmíněných dvou situací, ve kterých můžete mít podezření, že větrání ve vašem domě bylo nesprávně navrženo nebo nesprávně přizpůsobeno, můžete také čelit dalším situacím. Co by vás ještě mělo trápit?
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Pokud jde o větrání v bytovém domě, bloku nebo činžovním domě - a cítíte vůni jídla, vařené sousedy, nebo co je ještě horší, tabákový kouř, například v koupelně nebo kuchyni, pak určitě to, že něco není tak, jak by mělo být.
+
+Dalším problémem je vzhled zkapalněné vody na oknech nebo na stěnách. Pak můžete předpokládat, že taková místnost není vůbec větrána. Musíme jednat rychle, protože při dlouhodobém vystavení zkapalněného vodní páry v místnosti se může objevit obrovská vlhkost a houba, ze kterého bude těžké se zbavit. To je situace, která přímo ohrožuje zdraví.
+
+{:.distinction.distinction-info.distinction-negative}
+
+Může se také stát, že větrání v domě nefunguje správně nebo vůbec nefunguje a nevšimnete si prvních příznaků tohoto jevu. V tomto případě se však mohou objevit známky zdraví. Pokud se vám náhle bezdůvodně začne bolet hlava, objeví se alergie, zarudnutí očí nebo otravná rýma-zajímejte se o stav vašeho větrání, dokud není pozdě.
+
+## Jak je větrání v domě spojeno s problémem těsnosti budovy v zimě?
+
+Mnoho lidí dělá základní chybu. To se týká větrání budovy v zimě. Kvůli strachu z přílišného ochlazení místností se rozhodne dodatečně utěsnit okna nebo větrací mříže, čímž se uzavře přívod vzduchu dovnitř.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Mezitím moderní, dobře navržené větrání ve vašem domě nevyžaduje dodatečnou ochranu. Kromě toho bude kvůli vytápění místností nutné další větrání. Stačí jednou za několik dní otevřít okna po dobu 5-10 minut. Větrná místnost se tak určitě lépe zahřeje.
+
+## Potřebujete ventilaci v domě k prohlídce?
+
+Mnoho lidí se ptá, zda větrání v domě potřebuje recenze. **Podle zákona by taková činnost měla být prováděna alespoň jednou ročně.** Pak si můžete být jisti, že větrání domu funguje efektivně a neexistuje žádné riziko pro vaše zdraví.
+
+Inspekce by měla být prováděna kominíkem s příslušnými pravomocemi. Je také třeba poznamenat, že doba provádění takové kontroly je velmi důležitá. Ty by se měly provádět v období od pozdního podzimu do časného jara, kdy navíc v domě funguje topení a výsledné výsledky jsou určitě autoritativnější.
+
+{:.distinction.distinction-info.distinction-negative}
+
+Správné větrání v domě je základem a tato otázka by neměla být podhodnocena. Vzhledem k tomu, že člověk tráví většinu svého života doma - stojí za to postarat se, aby se v něm cítil pohodlně a bezpečně.
+
+![](/uploads/wentylacja_w_domu.jpg)
+
+## Ventilace v garáži - co o ní říkají zákony?
+
+Moderní domy se v současnosti velmi často stavějí podle projektů, kde je ve stejném objektu hned garáž. Samotné **větrání v garáži** je navíc v tomto případě zásadní záležitostí.
+
+Kromě toho je větrání garáže normováno pravidly technických podmínek, které musí budovy a jejich umístění splňovat. Vzhledem k zdraví a životu nebezpečné přítomnosti výfukových plynů, které vznikly v důsledku provozu motoru vozidla, je každý majitel garáže povinen zajistit správný průtok vzduchu v místnosti.
+
+## Jak vypadá větrání v garáži - typy, které si můžete vybrat
+
+Výše uvedené gravitační větrání v domě je také nejoblíbenějším a preferovaným typem instalace, pokud jde o garáže. Obliba vděčí především své vysoké funkčnosti a především nízkým nákladům na výkon.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Tento typ větrání v garáži a domácnosti funguje přesně tak, je díky pohyby vzduchu, které jsou způsobeny rozdíly v hustotě a tlaku vzduchu uvnitř, ale i mimo něj.
+
+Vzduch s vyšší teplotou přicházející z garáže má menší hustotu než chladnější venku, takže stoupá nahoru. Celý proces konvekce je ve skutečnosti způsoben tradičními větracími mřížemi, které používají jak ventilaci v domě, tak v garáži.
+
+Při výběru takového větrání v garáži jsou ideální obdélníkové nebo čtvercové větrací mřížky hnědé. Větrání v domě naopak mnohem častěji využívá kulaté větrací mřížky bílé barvy. Zvláště ty jsou velmi všestranné, protože kvůli odstínu se opravdu hodí do každého interiéru - bez ohledu na styl, ve kterém byl vyzdoben.
+
+![](/uploads/wentylacja_w_domu2.jpg)
+
+**Větrání v garáži může být také mechanické.** Toto řešení nejen ovlivňuje přívod dostatečného množství čerstvého vzduchu, ale také jej dále vysušuje. Mechanická instalace není závislá na povětrnostních podmínkách, takže je ideální kdykoli v roce. Předpokladem pro vytvoření takového systému je však ideální těsnost místnosti. Samotná instalace je navíc rozhodně dražší než gravitační větrání v garáži. Měli byste být také připraveni na náklady spojené s jeho používáním.
 
 {:.distinction.distinction-info.distinction-positive}
 
-První typ je ten nejjednodušší. Nucený průtok vzduchu je tlačen mimo budovu. Čerstvý vzduch vstupuje do místnosti skrz otvory instalované v oknech. Velmi často se takové systémy používají jako doplněk k přirozenému větrání. Nejčastější formy tohoto typu ventilace vzduchové kuchyňské kapoty instalované přes kamna, které se zbaví horkého vzduchu a páry.
+Gravitační větrání v domě a garáži nevyžaduje ruční údržbu a údržbu. A výše uvedené větrací mřížky jsou malé náklady.
 
-Druhý typ větrání je velmi podobný tomu prvnímu. Jediný rozdíl spočívá v tom, že vzduch je nucen mechanickými ventilátory jak venku, tak uvnitř budovy.
+## Větrání v garáži - přizpůsobte ji místnosti
 
-Ventilace s rekuperací tepla používá specializovaná zařízení, nazývaná rekuperátory. Vytahují teplo ze vzduchu opouštějící budovu a používají ho k zahřátí čerstvého vzduchu vstupujícího do domu. Takové řešení je ideální zejména v zimě, kdy budovy ztrácejí hodně tepla.
+Samotná konstrukce místnosti může určit, které větrání v garáži bude nejlepší. Jinak tato otázka vypadá v případě, kdy jsou například prostory vytápěny. Zákon jasně stanoví požadavky na montážní systémy a jejich konstrukci.
 
-## Nedostatečný ventilační systém - co to znamená?
+### Vyhřívané prostory
 
-Už jste se dozvěděli o dvou situacích, což znamená, že váš ventilační systém byl špatně navržen. Jedná se o použitý vzduch proudící zpět do budovy v létě a příliš silné větrání v zimě. Tyto dvě otázky jsou však jen špičkou ledovce možných problémů s ventilací. Co jiného by mělo být předmětem zájmu?
+Garáže, kde se uplatňuje vytápění, jsou nejčastěji ty prostory, které se nacházejí v pevném domě. **Správné větrání v garáži tohoto typu je obzvláště důležité, protože odstraňuje vlhkost zevnitř**. Minimálními požadavky v tomto případě je provedení gravitačního systému s odtahovým potrubím, které musí být vyvedeno nad střechu. Výška od mříže k výstupu by měla být větší nebo rovna 3 m.
 
-Pokud žijete v obytné čtvrti s více obyvateli (blok bytů nebo bytový dům), můžete být schopni cítit, co vaši sousedé vaří, nebo hůř - cigaretový kouř. V takovém případě je určitě něco špatně s větráním budovy. Můžete také vidět kapky vody na oknech, což by mohlo znamenat, že místnost není větrána vůbec. Taková situace vyžaduje rychlou akci. Vysoká vlhkost v místnosti může způsobit růst plísní a plísní. Těchto organismů je těžké se zbavit a představují vážnou hrozbu pro blahobyt obyvatel.
+Pro vyhřívané prostory můžete také použít mechanické větrání. Aby to nebylo obtížné, stačí pouze nainstalovat odsávací ventilátor do jednoho z otvorů ve stěně. **Nejpohodlnějším řešením je ventilátor s jističem.** Upozorňujeme, že jeho provoz by měl řídit senzor koncentrace oxidu uhelnatého. To vytváří zbytečné náklady, které by se všichni raději vyhnuli.
 
-Někdy si možná nevšimnete, že vaše ventilace nefunguje nebo vůbec nefunguje. Instead you might notice changes in your health. Náhlé bolesti hlavy bezdůvodně, alergie, zarudnutí očí a vždy tečící nos jsou příznaky, že byste se měli postarat o ventilaci. Udělej to co nejdřív, než bude pozdě.
+### Nevytápěné prostory
 
-![](/uploads/exhaust-fan-546946_960_720.jpg)
+Volba instalace pro nevytápěnou garáž je neméně naléhavou otázkou. V tomto případě se nejčastěji volí přirozené větrání. Celý proces výměny vzduchu probíhá prostřednictvím otvorů umístěných ve vnějších přepážkách umístěných v protilehlých bočních stěnách nebo garážových vrat.
 
-## Budování vzduchotěsnosti a. větrání - nejlepší volba pro zimu
+{:.distinction.distinction-quotation.distinction-negative}
 
-Mnoho majitelů domů dělá zásadní chybu při větrání budovy v zimě. Vzhledem k obavám z nadměrného chlazení uvnitř zablokují okna nebo větrací otvory tak, aby vzduch nemohl vstoupit do budovy. Současné ventilační systémy jsou však navrženy tak, aby to nebylo nutné. Vzhledem k ústřednímu vytápění je navíc třeba pokoje dodatečně větrat. Otevření oken jednou za několik dní po dobu 5-10 minut by mělo stačit. Pokud je místnost ventilována tímto způsobem, bude se zahřívat lépe a rychleji.
+Přirozené větrání v garáži bylo také normováno speciálními požadavky. Pravidla určují požadovanou velikost těchto otvorů, která závisí na počtu stojanů stanovených v garáži.
 
-## Údržba ventilace-je to nutné?
+## Moderní větrání v domě a garáži - sázka na technologie
 
-V souladu s právními předpisy by měla být ventilace kontrolována alespoň jednou za rok. Tím si můžeme být jisti, že zařízení je účinné a nepředstavuje hrozbu pro zdraví cestujících. Ventilace by měla být testována legitimizovaným specialistou. To by mělo být provedeno mezi pozdním podzimem a začátkem jara, kdy ústřední topení funguje. Takto budou výsledky nejspolehlivější.
+Na trhu se objevují stále nové a nové modely ventilátorů, které se vyznačují obrovskou funkčností. Pro zlepšení práce větrání v garáži výrobci nabízejí, například, odtahový ventilátor, který se automaticky zapne při otevření dveří do garáže. **Zařízení také funguje nějakou dobu po jejich uzavření.** Neméně často jsou vybrány produkty vybavené časovačem.
 
-Správné větrání budov je klíčové. Protože většinu našich životů trávíme doma, stojí za to se ujistit, že se člověk cítí pohodlně a bezpečně uvnitř.
+**Efektivní větrání domu nebo garáže není jen systém, který má zlepšit pohodlí v místnosti.** Především je to absolutní nutnost, díky které se nebezpečné a dokonce i život ohrožující látky bezpečně vylučují mimo uzavřené prostory.
