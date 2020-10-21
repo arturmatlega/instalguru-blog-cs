@@ -1,28 +1,38 @@
 ---
 layout: post
-seo_title: Vyhřívané podlahy-který typ podlahového topení je nejlepší?
-seo_description: Podlahové vytápění může být docela výhodný systém. Je neviditelná,
-  tichá a efektivní. Není divu, že vyhřívané podlahy jsou stále populárnější.
+seo_title: 6 Věcí, Které Byste Měli Vědět o Podlahové Vytápění
+seo_description: "Plánujete podlahové vytápění v domě? \U0001F3E0 Chcete zajistit
+  správnou tepelnou pohodu pro vaši rodinu? \U0001F46A Vyberte správné podlahové vytápění."
 main_keywords:
-  - vyhřívané podlahy
-  - podlahové vytápění
-  - podlahové vytápění
-  - podlahové vytápění
-  - elektrické podlahové topení
-  - vyhřívaná podlaha
-  - sálavé podlahové vytápění
-  - podlahové vytápění
+- vyhřívané podlahy
+- podlahové vytápění
+- podlahové vytápění
+- podlahové vytápění
+- elektrické podlahové topení
+- vyhřívaná podlaha
+- sálavé podlahové vytápění
+- podlahové vytápění
 date: 2019-12-30T11:00:00.000+00:00
-update_date: 2019-12-30T11:00:00.000+00:00
-title: Vyhřívané podlahy-který typ podlahového topení je nejlepší?
-small-intro: Topné systémy jsou jedním z nejdůležitějších zařízení v budově.
-intro: Topné systémy jsou jedním z nejdůležitějších zařízení v budově. A room without
-  proper heating is unsuitable for comfortable living. Mnoho majitelů domů se rozhodne
-  instalovat vyhřívané podlahy ve svých domech. Co byste měli vědět o těchto systémech
-  a o tom, který typ podlahového vytápění je pro vás nejlepší?
+update_date: 2020-10-21 10:00:00 +0000
+title: Podlahové vytápění. Elektroinstalace nebo vodovodní potrubí-co si vybrat?
+small-intro: Obrovskou popularitu v posledních letech získává podlahové vytápění.
+intro: Představte si zimní, mrazivý den. Vyjdete z práce a cestou vyzvednete děti
+  ze školky a školy. Vracíte se domů společně ... kde je teplo. Zní to docela dobře,
+  že? Navíc se to dá realizovat. Pokud zvolíte správné vytápění. Topné jednotky jsou
+  některé z nejdůležitějších systémů v každé budově - bez ohledu na jeho účel. Bez
+  nich se vlastně nedá mluvit o pohodlí bytu. Obrovskou popularitu v posledních letech
+  získává podlahové vytápění. Co je třeba vědět o tom a který z podlahových systémů
+  bude nejlepší?
 photo: "/uploads/90bd714aa2c44b2b8f7b94299120a4be.jpg"
 photo_desc: Vyhřívané podlahy mají mnoho výhod.
-faq: []
+faq:
+- question: Jak funguje podlahové vytápění?
+  answer: Práce na podlahovém vytápění závisí především na typu instalace, kterou
+    si vyberete. Vodní podlahové vytápění využívá vodu přenášenou do potrubí, která
+    se ohřívá na vhodnou teplotu a přenáší teplo do místnosti. Tento typ je vhodný
+    pro budovy, kde je kondenzační kotel, plyn, olej nebo tepelné čerpadlo. Elektrické
+    podlahové vytápění je napájeno, jak název napovídá-elektřina je však možné získat
+    z různých zdrojů, například solární energie.
 author_name: Mateusz Knapik
 author_desc: Prodej a zákaznická podpora specialista na Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
@@ -44,58 +54,74 @@ hreflangs:
   link: https://instalguru.cz/blog/vyhrivane-podlahy-ktery-typ-podlahoveho-topeni-je-nejlepsi.html
 
 ---
-## Co bys měl vědět o vyhřívaných podlahách?
+## Podlahové vytápění - jaké jsou jeho výhody?
 
-Vyhřívané podlahy mají mnoho výhod. Nejdůležitějším aspektem je skutečnost, že je prakticky neviditelná - jak název naznačuje, systém je skrytý v podlaze. Z tohoto důvodu lze zajistit jejich pokoj bez jakýchkoliv omezení. Tradiční topné systémy zahrnují vnější ohřívače, které snižují dostupný prostor. Je to obzvlášť problematické v malých interiérech.
+**Podlahové vytápění má mnoho výhod**. Mezi nejdůležitější patří prakticky neviditelná instalace, která, jak název napovídá, je v podlaze. Takže můžete bez problémů uspořádat interiér podle vašich očekávání - bez kompromisů. U tradičních forem vytápění vzniká otázka umístění radiátorů, což souvisí s částečným omezením prostoru. V malých místnostech je to velmi obtížné a někdy je potřeba objednat veškeré vybavení místnosti podle velikosti-což vytváří obrovské náklady. Proto při výběru podlahového vytápění není tento problém.
 
-Kromě estetiky jsou vyhřívané podlahy mimořádně účinné. Bez ohledu na zvolenou metodu podlahové vytápění zaručuje rovnoměrné rozložení teplot na každém místě. Konvenční systémy s vnějšími radiátory způsobují akumulaci tepla v horních částech místnosti. Podlahové topení dělá opak. Nejvyšší teplota zůstává u podlahy.
+Kromě vizuálního aspektu stojí za zmínku, že podlahové vytápění má velmi vysokou účinnost, pokud jde o zajištění tepelného komfortu. Ať už se rozhodnete pro elektrické podlahové vytápění nebo vodní podlahové vytápění - můžete se spolehnout na správné rozložení pokojové teploty.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-To může výrazně snížit účty. Důležitější je, že vyhřívané podlahy jsou považovány za jeden z nejzdravějších topných systémů.
+Tradiční topné systémy jsou charakterizovány skutečností, že teplo je přenášeno do horních částí místnosti. Pokud jde o podlahové vytápění - opak je pravdou. Nejvyšší teplota je dosažena přímo na povrchu podlahy. Díky tomuto rozložení tepla je možné výrazně snížit náklady spojené s jeho údržbou. Kromě toho je systém podlahových krytin také považován za zdravější pro člověka.
 
-Jednou z nejdůležitějších vlastností podlahového vytápění je výkon. V každém případě se liší. Podobně jako u jiných topných zařízení je klíčovým aspektem typ místnosti, ve které budou instalovány vyhřívané podlahy. Přemýšlím, kolik energie je zapotřebí, jeden by měl zvážit velikost plochy, zamýšlené použití, stejně jako tepelná izolace budovy. Další otázkou je typ podlahy - dashboard vyžaduje různé množství energie, než dlaždice na podlaze. Proč? Pokud síla je příliš nízká, systém nebude schopen k vytápění celé místnosti, vzhledem k tomu, že příliš silné topení by se prostor nepříjemné.
+### Vždy podlahové vytápění přináší uspokojivé výsledky?
 
-Existuje mnoho typů vyhřívaných podlah. Nejoblíbenější jsou ohřívání vody a elektrických podlah. Která je nejlepší?
+Podlahové topení je vždy efektivní - za předpokladu, že byl správně vybrán pro prostor, jeho velikost a určení jednou z nejdůležitějších otázek je **jeho kapacita, která v každém případě bude stejný**. Stejně jako v jiných topných zařízeních, jedním z faktorů, který je třeba vzít v úvahu při stanovení výkonu topení, je charakter místnosti, kde je instalován: výše uvedené povrch a označení, stejně jako vnější oteplování.
 
-## Elektrické podlahové topení
+Druhou, velmi důležitou otázkou je typ podlahy. Jiný výkon podlahového vytápění bude použit pro panely, jiný v době, kdy jsou dlaždice instalovány na podlaze. **Proč to záleží? Jak se to přenáší na podlahové vytápění?** V případě instalace příliš nízkého výkonu se místnost nebude správně zahřívat. Nicméně, pokud je výkon příliš vysoký, povrch podlahy může být příliš zahřátý, takže to nebude komfortní situace pro majitele domů.
 
-Elektrické podlahové topení má mnoho výhod. Je snadné nainstalovat do jakéhokoliv typu prostoru v jakékoli budově. To může být použit jako primární systém vytápění, stejně jako bezplatné.
+{:.distinction.distinction-quotation.distinction-negative}
 
-Instalace elektrického podlahového vytápění je velmi levná. Odborníci však tvrdí, že další využívání systému stojí více než vodní zařízení. Souvisí se skutečností, že náklady na elektřinu se neustále zvyšují. Elektrické podlahové topení je nejvíce prospěšné je malé budovy, které jsou tepelně izolované.
+Navíc v tomto případě lze hovořit o plýtvání tepelným potenciálem a vystavovat se zbytečným nákladům.
 
-Existuje však řešení, které může výrazně snížit náklady na elektricky vyhřívané podlahy. Klíčem mohou být obnovitelné zdroje energie, konkrétněji solární energie. Fotovoltaické moduly jsou schopny tento typ podlahového vytápění pohánět. Ačkoliv se jedná o nákladnou investici, která se po několika letech vyplácí, možná to za to úsilí stojí. Mnohé by navíc mohla přesvědčit skutečnost, že takové řešení je ekologicky šetrné.
+## Kolik stojí podlahové vytápění?
+
+V ceně jsou zahrnuty jak **materiály, tak služby**. Je však třeba vzít v úvahu, že je to orientační cena teplé podlahy, které mohou být různé v závislosti na potřebné vybavení, jeho kvalitě a především na výši mzdy specialisty, které jsou určeny často cenami v určitém regionu.
 
 ![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
 
-## Vytápění pod podlahou
+## Elektrické podlahové vytápění - kdy to funguje nejlépe?
 
-Podlahové vytápění na bázi vody je mnohem populárnější metoda než ta elektrická. Jeho největší výhodou je nízká cena instalace a provozu. Mělo by však být plánováno co nejdříve - ve fázi výstavby nebo při navrhování bytu. Důvodem je skutečnost, že podlahové ohřev vody musí být připojen k instalatérskému systému budovy.
+**Elektrické podlahové vytápění má mnoho výhod.** Jedním z nich je možnost montáže v každé budově a místnosti. Může být použita jak jako základní topný systém domu nebo bytu, tak jako doplněk k jiné metodě.
 
-{:.distinction.distinction-quotation.distinction-positive}
+Sám erekce, jedná-li se o elektrické venkovní vytápění je velmi levné, odborníci na vědomí, nicméně, že výše uvedené použití je spojeno s vyššími náklady v porovnání se systémem, jakým je povrchová **voda-topení**. Důvodem je mimo jiné neustálé zvyšování elektřiny, která napájí podlahové vytápění. Nejčastěji se doporučuje instalovat elektrický systém v malých budovách, které jsou správně izolovány. To může být také pomocným řešením pro prostory, jako jsou koupelny nebo kuchyně.
 
-Ohřev pod podlahou se doporučuje u kondenzačních kotlů nebo tepelných čerpadel, což zajistí nejvyšší účinnost. Tento typ podlahového vytápění však může být spojen s jakýmkoli jiným zdrojem, jako je plynový nebo olejový kotel, stejně jako se solárními panely.
+Existuje také řešení problému vysokých provozních nákladů. Jedná se o využití obnovitelných zdrojů energie, a to solární energie.
 
-Velkou výhodou tohoto typu vyhřívaných podlah je skutečnost, že může být také použit pro chlazení. It can function in similar fashion to air conditioning. Odborníci tvrdí, že tento typ chlazení je zdravé, tak to neznamená, že nechá znečištěný vzduch uvnitř. Je to zvláště prospěšné pro alergiky. Regardless, cooling rooms through floor has disadvantages as well. Zaprvé, je to velmi nákladné.
+{:.distinction.distinction-info.distinction-positive}
 
-{:.distinction.distinction-quotation.distinction-positive}
+Můžete se rozhodnout pro napájení tohoto typu vytápění fotovoltaickými panely. Je pravda, že tento typ investice není nejlevnější a obvykle se vrací po několika nebo dokonce několika letech, nicméně je to krok vpřed. Kromě toho je napájení pomocí fotovoltaiky jednou z forem péče o životní prostředí, což také přesvědčuje stále více lidí o této metodě.
 
-Navíc, studený vzduch, který zůstává u podlahy, by mohl být pro některé lidi nepříjemný. Kromě toho, s velkými rozdíly teploty, voda může kondenzovat na podlaze. Mohlo by to zvýšit vlhkost místnosti.
+## Vodní podlahové vytápění - stojí za to investovat do nich?
 
-![](/uploads/84880aa314ac444bb8fce1dd61c8b7b3.jpg)
+Vodní podlahové vytápění je stále instalací, rozhodně populárnější než elektrický systém. **Vybírá se hlavně kvůli nižším provozním nákladům.** Je však třeba poznamenat, že by mělo být naplánováno již ve fázi výstavby domu nebo dokončení bytu, protože je nutné jej připojit k jiným instalatérským systémům umístěným v budově.
 
-## Voda vs. elektrické podlahové topení-co je lepší?
+{:.distinction.distinction-info.distinction-negative}
 
-Obě řešení - voda a elektrické podlahové vytápění mají svá Pro a proti. Než se rozhodnete, který z nich je lepší, měli bychom zvážit několik otázek, jako je:
+Vodní podlahové vytápění se doporučuje zejména při použití kondenzačního kotle nebo tepelného čerpadla-pak je nejúčinnější. Není však nejmenší problém jej připojit k jinému zdroji - plynovému kotli, olejovému kotli nebo solárnímu kolektoru.
 
-{:.list}
+Velkou výhodou tohoto topného systému je také možnost chlazení místností. V tomto případě může vodní podlahové vytápění fungovat stejně jako klimatizace. Podle odborníků je chlazení tohoto typu rozhodně zdravější než standardní chlazení vzduchem, protože do místnosti neproniknou bakterie ani houby. **To je ideální pro alergiky.** Bohužel není bez nedostatků. Chlazení prostor vodním podlahovým topením je nákladné. Navíc studený vzduch, stejně jako teplý, je většinou na podlaze, což může být pro některé lidi nepříjemné. V případě příliš velkých teplotních rozdílů se na povrchu podlahy mohou objevit kondenzáty, které ovlivňují příliš velkou vlhkost v budově.
 
-* kde bude instalován,
-* zda se jedná o hlavní nebo doplňkový systém vytápění,
-* pokud se bude používat výhradně pro vytápění nebo chlazení,
-* kolik lze utratit za systém,
-* jaký typ podlahy je v budově,
-* zda budova má tepelnou izolaci,
-* zda má být systém ekologický.
+### Jak provést vodní podlahové vytápění? Potřebné materiály a příslušenství
 
-Odpověď na tuto otázku pomůže vybrat nejlepší systém, vhodný pro budovu a individuální očekávání.
+Vodní podlahové vytápění by měl vždy provádět odborník. Tímto způsobem si můžete být jisti, že bude fungovat správně po dlouhou dobu. Základem tohoto systému jsou trubky PEX / AL / PEX, které vedou médium-v tomto případě vodu. Jsou charakterizovány skutečností, že se skládají z až 5 vrstev, což zaručuje těsnost a správnou tepelnou vodivost. Jejich výběr nemusí být náhodný. Stojí za to vsadit pouze na vysoce kvalitní výrobky, které se vyznačují mechanickou odolností a tolerancí vůči vysokým teplotám.
+
+Výše uvedené trubky jsou připevněny k zemi speciálními dvojitými háky nebo jedinými háčky. K tomu je také možné použít svorky pro Tucker. Používají se zejména při připojování trubek PEX k základně v koupelnách.
+
+Produkt, který je vybrán při instalaci podlahového vytápění, je také izolační fólie. Odborníci obzvláště často používají materiál, na kterém jsou vyznačeny čáry. To vám umožní položit potrubí nebo potrubí.
+
+Nejdůležitějším prvkem, pokud jde o vodní podlahové vytápění, je však rozdělovač podlahy-hlavní bod, jehož úkolem je rovnoměrné rozložení tepla.
+
+## Elektrické podlahové vytápění vs. Vodní podlahové vytápění - co si vybrat?
+
+Každé řešení - **elektrické i vodní podlahové vytápění-má své výhody a nevýhody**. Než si vyberete jeden ze systémů, stojí za to analyzovat:
+
+* kde se bude používat,
+* bude to hlavní topný systém nebo další,
+* k čemu se použije-vlastní vytápění nebo chlazení,
+* kolik můžete investovat do systému,
+* jaké patro je v budově,
+* je dům správně izolován,
+* měla by být vyhřívaná podlaha ekologická.
+
+Odpověď na tyto otázky vám umožní vybrat nejlepší instalaci-odpovídající Jak parametrům budovy, tak individuálním očekáváním.
