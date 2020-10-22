@@ -1,30 +1,32 @@
 ---
 layout: post
-seo_title: Vybírám si záchodové prkýnko. Nejdůležitější věci
-seo_description: Výběr správného záchodového prkýnka nemusí být tak jednoduchý, jak
-  se zdá. Existují různé parametry, které byste měli věnovat pozornost.
+seo_title: 6 Užitečných Tipů Při Výběru Záchodového Prkýnka
+seo_description: "Jaké funkce a rozměry by měly mít záchodové prkýnka ? \U0001F6BD
+  Jaké parametry jsou nejdůležitější? \U0001F44C Zkontrolujte praktické tipy užitečné
+  při výběru."
 main_keywords:
-  - záchodové prkénko
-  - bidetové sedátko
-  - stoupačky toaletních sedadel
-  - zvednuté toaletní křeslo
-  - potahy toaletních sedadel
-  - velikosti toaletních sedadel
-  - nejlepší toaletní křeslo
-  - pomalé zavírání sedátka
+- záchodové prkénko
+- bidetové sedátko
+- stoupačky toaletních sedadel
+- zvednuté toaletní křeslo
+- potahy toaletních sedadel
+- velikosti toaletních sedadel
+- nejlepší toaletní křeslo
+- pomalé zavírání sedátka
 date: 2020-01-09T11:00:00.000+00:00
-update_date: 2020-01-09T11:00:00.000+00:00
-title: Jak zvolit správný kryt záchodového prkýnka?
-small-intro: Záchodové prkýnko je jedním z nejdůležitějších prvků každého záchodu.
-intro: Záchodové prkýnko je jedním z nejdůležitějších prvků každého záchodu. Tato
-  část spotřebiče zaručuje pohodlné použití a správné hygieny. Výrobci nabízejí kompletní
-  sady obsahující vše, co je třeba. V některých případech se však prvky, jako je záchodové
-  prkýnko, prodávají samostatně. Výběr správné položky může být matoucí, protože mají
-  různé tvary, barvy, velikosti a materiály. V tomto článku se naučíte, jak vybrat
-  nejlepší záchodové prkýnko.
-photo: "/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg"
-photo_desc: Můžete si také koupit záchod i prkýnko na jednom místě, aby se ujistil,
-  že odpovídají perfektně.
+update_date: 2020-01-09 11:00:00 +0000
+title: Jak vybrat správné zachodove prkénka? Na jaké parametry dávat pozor?
+small-intro: Co byste o tom měli vědět?
+intro: 'Jste ve fázi dokončení vaší koupelny? Už máte všechno - zbývá vybrat jen toaletní
+  sedátko? Na rozdíl od vzhledu to není vůbec jednoduchá volba. Díky jeho použití
+  můžete pohodlně a hygienicky používat toaletu. Na trhu jsou kompaktní toaletní potřeby,
+  které se skládají z kompletního vybavení. Někdy však musí být toaletní sedačky zakoupeny
+  samostatně. V současné době stojí za to věnovat pozornost několika důležitým otázkám,
+  mezi které patří: velikost, vzdálenost mezi smyčkami, výrobní materiál nebo barva.
+  Zohlednění některých z uvedených parametrů má vliv především na samotné upevnění
+  sedačky toalety. Co byste o tom měli vědět?'
+photo: "/uploads/ea3a5a42203c4d0abb190fefa6b52172.jpg"
+photo_desc: Nejoblíbenější na trhu jsou záchody v bílé barvě.
 faq:
 - question: Jak měřit záchodové prkýnko?
   answer: Vlastnosti, které je třeba měřit, jsou šířka a délka toaletní mísy, a šířka
@@ -64,55 +66,90 @@ hreflangs:
   link: https://instalguru.cz/blog/jak-zvolit-spravny-kryt-zachodoveho-prkynka.html
 
 ---
-## Velikosti toaletních prkýnek
+## Toaletní sedátko - záleží na jeho velikosti?
 
-Jedním z nejdůležitějších problémů při výběru správného záchodového prkýnka je jeho velikost. Výrobci nabízejí různé typy toalet v různých tvarech a velikostech. Proto je nejdůležitějším aspektem, kterému je třeba věnovat pozornost, délka a šířka sedadla. Šířka závěsů je stejně důležitá-příliš široká nebo příliš úzká nemusí vyhovovat záchod. Celá procedura je jednodušší, když nahradíte staré záchodové prkýnko.
+Velikost toalety je jedním z nejdůležitějších parametrů, které je třeba zvážit ve fázi výběru. **Na trhu existuje mnoho různých modelů záchodových mís**. Z tohoto důvodu jsou toalety charakterizovány různou délkou a šířkou. Vzdálenost mezi montážními smyčkami nemusí být zanedbatelná.
 
-V takovém případě můžete jednoduše vzít staré místo do obchodu a ukázat ho prodejci. Při výběru prkýnka pro nový záchod však musíte pečlivě měřit délku a šířku, stejně jako závěsy v záchodě. Můžete si také koupit záchod i prkýnko na jednom místě, aby se ujistil, že odpovídají perfektně.
+{:.distinction.distinction-question.distinction-positive}  
+**Jak víte, který kryt toalety bude správný?** Případ je určitě jednodušší, když vyměníte staré vybavení za nové. Pak bude stačit demontovat toaletu - spolu s ním půjdete do obchodu a požádejte prodejce o přesně stejný model. Můžete také měřit vzdálenost mezi šrouby, šířku a délku modelu a pak koupit zařízení se stejnými parametry v síti.
 
-## Nejlepší materiál na záchodové prkýnko-který si vybrat?
+Pokud je však toaleta zakoupena pro novou koupelnu, stojí za to vzít v úvahu její délku, šířku nebo vzdálenost mezi upevňovacími prvky. Můžete také zakoupit všechny položky v jednom obchodě, aby se dokonale spojily.
 
-Výrobci nabízejí několik řešení, pokud jde o materiály pro záchodové sedačky. Nejčastěji používaným je polypropylen, někdy nazývaný měkký plastik. Jednou z jeho největších výhod je nízká cena. Toaletní sedátka z polypropylenu jsou lehká a poměrně elastická. Je však také docela pravděpodobné, že budou poškozeny. Takové záchodové prkýnko se snadno poškrábe a rozbije. Polypropylenové prvky mohou také ztratit svůj tvar po příliš intenzivním použití.
+## Toaletní deska - nestandardní modely se liší velikostí od klasických výrobků?
 
-Dalším často používaným materiálem pro záchodové prkýnka je tvrdý plast. Výrobky tohoto typu jsou méně náchylné k poškození a deformaci ve srovnání s výrobky z měkkého plastu. Jednou z jejich největších výhod je vysoká odolnost vůči zabarvení. To je velmi snadné je čistit, což snižuje množství času stráveného na úklid koupelny. Některé toaletní sedačky z tvrdého plastu obsahují stříbrné částice přidané do jejich struktury. Díky tomu jsou imunní vůči bakteriím a houbám. Rozhodně je to jeden z nejlepších produktů.
+Nejoblíbenější na trhu jsou záchody v bílé barvě. Je to klasický model. V tomto rozsahu je největší výběr, pokud jde o velikost nebo další funkce. **Pokud máte zájem o klasické toaletní sedátko - nebudete mít problém se přizpůsobit vašim potřebám**. Jinak však vypadá otázka nestandardních modelů, kde může dojít k určitým omezením, pokud jde o dostupné velikosti.
 
-Pokud funkce není hlavní prioritou a důraz je kladen spíše na vzhled a design, který by se vešel koupelna, dřevěné nebo pryskyřičných produktů by mohlo být lepší volbou. Resinové záchodové sedačky obvykle používají velmi dekorativní vzory. Jejich popularita roste, protože pryskyřice je poměrně odolná vůči fyzickému poškození. Na druhé straně jsou dřevěné záchodové prkýnka na trhu relativně nová. Vypadají velmi stylově a elegantně. Naneštěstí je dřevo mnohem méně odolné vůči nečistotám než plastu. Tento materiál je také šetrný k bakteriím. Pokud dřevěný vzhled je na vaší chuti lepší alternativou by mohlo být vybrat plastová sedadla, která se podobá dřeva.
+V současné době existuje také velký výběr barev a tvarů. **Výrobci nabízejí minimálně desítky barevných variant, díky tomu je možné vybírat modely se zajímavými potisky.** Také nezapomeňte na výrobky ze dřeva a oceli, které jsou samy o sobě ozdobou moderního interiéru. Takové rozměry toalety jsou však omezené - což stojí za zvážení při výběru. Není vhodná pro všechny standardní toalety.
 
-Docela zajímavé řešení, které se hodí moderní výzdobu domova trendy v designu jsou z nerezové oceli wc sedátka. Jsou nejen vysoce odolné vůči poškození, ale také antibakteriální. Jejich popularita roste ve veřejných prostorách, jako jsou hospody a restaurace. Díky své odolnosti mají nerezové záchodové sedačky dobrý poměr ceny a výkonu.
+Podobně vypadá otázka možnosti výběru formy. Většina standardních oválných toalet je vhodná pro většinu umyvadel. Je však třeba poznamenat, že samotné záchody jsou také v různých formách. Proto se stále častěji můžete setkat s kulatými nebo čtvercovými deskami. Toaletní sedadlo Slim je také velmi populární.
 
-![](/uploads/ea3a5a42203c4d0abb190fefa6b52172.jpg)
+Další skupinou výrobků jsou záchodové mísy určené pro malé děti. V tomto případě je připojen speciální kryt toalety, který má speciální víko. To umožňuje dětem normálně používat toaletu.
 
-## Barvy a tvary toaletních prken
+![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
 
-Může se zdát, že výběr barev v záchodových sedačkách je velmi omezený. Nejuniverzálnější barva je samozřejmě bílá, protože se vejde do většiny záchodů. Barevná paleta však není tak omezená, jak se zdá. Výrobci obvykle nabízejí záchodová sedátka v několika desítkách barev. To také umožňuje koupit modely se zajímavými potisky, i když jejich popularita klesla za poslední roky. Jsou zde také již zmíněné výrobky vyrobené ze dřeva a oceli-tyto materiály jsou určeny pro samotné dekorace.
+## Moderní záchodové mísy
 
-Výběr správného tvaru by mohl být podobný proces. Oválné záchodové prkýnka jsou nejpopulárnější, protože se vejdou do většiny záchodových mís. Stojí však za zmínku, že záchody mají různé tvary. Popularita kulatých nebo obdélníkových záchodů roste-spolu s toaletními prkýnky.
+Toaleta a její volba mohou být také považovány v kontextu moderních technologických řešení, které učiní použití koupelny mnohem jednodušší. Jedním z hlavních modelů v tomto rozmezí jsou sedačky s nízkým sedákem, které mají mnoho výhod.
+
+Především chrání umyvadlo před poškozením, které může vzniknout v důsledku příliš silného poklesu. **To je také bezpečnost v případě, že dům má malé děti, které používají toaletu.** Neexistuje žádné riziko, že v případě, že se dostanou do koupelny, náhodně si přitisknou prst nebo ruku. V tomto ohledu - stejně jako u ostatních modelů stojí za to věnovat pozornost rozměrům.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-K dispozici je také další skupina výrobků, určené speciálně pro děti. Mají velmi zajímavé tvary a barvy, které podpoří děti na záchod. Dobrou volbou je model s kreslenými postavičkami. Může být překvapivé, jakého efektu lze díky takovému řešení dosáhnout.
+Dalším zajímavým řešením je toaleta, na které je namontován bidetový jeřáb. Je to ideální model, pokud máte velmi malou plochu a nechcete se vzdát některých vymožeností. Tyto typy toalet jsou však stále zřídka vybírány a jejich cena může překvapit-ne nutně pozitivně. Tyto rozměry záchodové mísy jsou také pevně definovány pro konkrétní typ zařízení. Bude lépe fungovat jako součást koupelny, která bude vybavena od začátku.
 
-## Záchodové sedátko-zvláštní prvky
+## Jak nastavit rozměry tak, aby toaletní sedátko bylo pohodlné?
 
-Při výběru toaletního prkýnka je třeba věnovat pozornost i dalším funkcím, které usnadňují používání koupelny a jsou příjemnější. Jeden ze základních a nejčastěji zvolených funkcí je tzv. soft close. Takový systém má mnoho výhod. A co je nejdůležitější, chrání záchod před poškozením, které může být způsobeno rychle padajícím víkem. Měkké těsné toaletní křeslo je také dobrý nápad pro malé děti, které se učí používat toaletu. To zabraňuje jejich malé prsty a ruce od získání drcené nebo skřípnutí víko.
+Chcete se pohodlně usadit na záchodové sedátko? Přemýšlejte o tom při výběru a vyberte správnou velikost. Na rozdíl od vzhledu není jednoduché tuto položku jednoduše sladit - zejména s ohledem na již zmíněné možnosti, které výrobci nabízejí. Každá toaletní deska má však rozměry, které stojí za to vědět, a jsou užitečné při přizpůsobení dokonalého modelu.
 
-Dalším zajímavým řešením navrženým speciálně pro malé děti je dvoupatrové záchodové prkýnko. Tento typ výrobku obsahuje dvě víčka-jedno normální velikosti a jedno menší. Pokud batole potřebuje na záchod, je otevřeno malé víčko na nočník. Lze ji snadno zvednout v případě, že dospělý používá koupelnu. Takové záchodové prkýnko je však obtížnější vyčistit ve srovnání se standardními výrobky, protože je obtížnější dosáhnout míst, kde se hromadí špína a bakterie.
+### Toaletní sedátko - rozměry, které potřebujete vědět
 
-Poslední, docela zajímavé řešení je bidetové záchodové prkýnko. Obsahuje bidetový kohoutek připevněný k sedadlu. Takový model je ideální pokud máte malý prostor ve vaší koupelně, ale nechcete se vzdát určité vybavení. Nicméně záchodová sedátka tohoto typu jsou vzácnou volbou možná kvůli jejich nákladům, což nemusí být nutně nejnižší.
+Nejdůležitějším bodem je délka toaletní sedačky. V tomto případě se počítá od upevňovacího místa k nejvzdálenějšímu bodu na druhé straně. Měřená šířka by měla být v takzvaném nejširším bodě, který má víko toalety - zhruba v jeho polovině - s přihlédnutím k dosavadní délce. Zbývá ještě jeden parametr - tedy vzdálenost mezi šrouby - velmi často určuje před výrobci také vzdálenost mezi závěsy. Jak měříte vzdálenost mezi šrouby toalety? Charakteristické body jsou zřetelně viditelné na výrobku-je nutné určit vzdálenost mezi nimi.
 
-## Nainstalujte si záchodové prkýnko
+Ale to není všechno, pokud jde o měření. Přesně stejné kroky, jak je popsáno výše, musíte provést pro toaletu. **Je důležité určit vzdálenost mezi šrouby**, délku a šířku, zvláště pokud nemáte starší model pro měření a zvolíte zcela novou toaletu.
 
-Pokud jste si již vybrali perfektní záchodové prkýnko pro sebe, měli byste se pravděpodobně naučit, jak nainstalovat takový prvek. Pokud je váš nový nákup náhradou, měli byste sundat staré záchodové prkýnko. Odšroubování šroubů může být v tomto případě nejtěžší částí, zvláště pokud bylo sedadlo používáno po velmi dlouhou dobu. V případě jakýchkoliv problémů, můžete zkusit použít speciální produkt na šrouby, například WD40. Mějte na paměti, že před zahájením instalace byste měli pečlivě vyčistit povrch.
+{:.distinction.distinction-info.distinction-negative}
 
-Téměř každý typ záchodového prkýnka má v dnešní době k dispozici instrukce. Vše, co musíte udělat, je pečlivě sledovat každý krok.
+Každá toaletní deska může mít zcela odlišné parametry, takže je tak důležité věnovat pozornost jednotlivým rozměrům. Například, standardní sedátko nejčastěji je vzdálenost mezi šrouby 170 mm, model s nízkou výsadbou 110-120 mm nebo 125 mm. Tyto vzdálenosti mohou také záviset na výrobce nebo typu.
 
-Zařízení obvykle vypadá takto::
+## Upevnění toaletní mísy
+
+Pokud už víte, jakou desku pro toaletu si vyberete, měli byste se seznámit se způsobem instalace této položky. V případě jeho výměny za novou budete také potřebovat předběžnou demontáž staré desky. Nejtěžší může být odšroubování šroubů. V případě problémů můžete šrouby nejprve namazat speciálním prostředkem, například WD-40. Také stojí za zmínku, že před montáží je třeba pečlivě vyčistit vybraný povrch.
+
+Ilustrovaná montážní příručka je v současné době dodávána s téměř všemi modely na trhu. Stačí postupovat podle jednotlivých kroků.
+
+Obvykle to vypadá takto:
 
 {:.list.list-positive}
 
-* umístění mříží do tzv. usazovacích prvků a umístění těsnění na ně,
-* vkládání mříží do toaletních otvorů a vložení další sady těsnění nebo speciální podložky na ně,
-* upevňovací křídlové šrouby,
-* nastavení záchodového prkýnka uprostřed záchodu a utažení šroubů.
+* vložení prutů do takzvaných fixací a nanesení těsnění na ně,
+* vložte tyče do otvorů pro toaletu a znovu na ně aplikujte podložky nebo speciální podložky,
+* upevnění šroubových šroubů,
+* přesně umístěte desku do středu a utáhněte šrouby s křídly.
 
-Buďte velmi opatrní při instalaci a ujistěte se, že příliš mnoho síly, zejména při utahování prvků. Mohlo by to poškodit nebo zlomit záchodovou mísu.
+Při montáži je třeba dbát zvýšené opatrnosti a nepoužívat příliš mnoho síly, zejména při utahování jednotlivých dílů. To může způsobit jejich poškození nebo prasknutí toalety.
+
+{:.distinction.distinction-info.distinction-positive}
+
+Jednodušším řešením mohou být i záchodové mísy typu klik-clack, jejichž montáž se zdá být mnohem jednodušší a rychlejší - i pro lidi, kteří s tímto tématem nemají zkušenosti.
+
+## Co kromě velikostí odlišuje záchodové mísy?
+
+Rozměry toalety jsou rozhodující pro jeho výběr. Nezapomeňte však, že to není jediný aspekt, který odlišuje tento typ zařízení. Výrobci také nabízejí několik řešení pro materiály, ze kterých jsou vyrobeny.
+
+Nejčastěji se vybírají modely z polypropylenu, také nazývané měkký plast. Největší výhodou tohoto řešení je především jeho cena. Kromě toho je polypropylen flexibilní a lehký.
+
+{:.distinction.distinction-quotation.distinction-negative}
+
+Bohužel to také vede k výrazně menší odolnosti vůči různým druhům poškození-trhlinám a poškrábání. Při použití a velkém provozu se součásti z měkkého plastu mohou deformovat.
+
+Dalšími produkty, které dobrovolně vybíráme, jsou záchodové mísy z tvrdého plastu, které jsou rozhodně méně náchylné k poškození nebo deformaci. **Jejich obrovskou výhodou je odolnost proti odbarvení**. Můžete se zbavit všech nečistot velmi snadno, což snižuje proces čištění koupelny.
+
+Pro lidi, kteří ocení nejen funkčnost, ale i estetiku a odpovídající аранжирование v interiéru, výborný nápad může být sedátko ze **syntetické pryskyřice nebo ze dřeva**. První rozhodnutí ovlivňuje možnost získání transparentního výrobku s dekorativními prvky. Modely vyrobené ze syntetické pryskyřice se vyznačují vysokou odolností proti poškození a každým rokem se stávají stále populárnějšími.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Novinkou na trhu jsou dřevěné desky, které vypadají velmi efektně. Bohužel dřevo je materiál, který je podstatně méně odolný vůči znečištění než plast. U těchto potravin je růst bakterií nevyhnutelnou záležitostí.
+
+Další nabídkou výrobců, ideálně zapadajících do moderních trendů v oblasti uspořádání, by mohly být nerezové záchodové mísy. Jsou nejen nejodolnější z produktů dostupných na trhu, ale také antibakteriální. Lze si všimnout, že rostoucí počet veřejných zařízení - hospody, restaurace - sází **na moderní výzdobu toalet**, volí právě takové modely. Jejich cena ve srovnání s kvalitou a pevností je velmi atraktivní, což může být také obrovské plus.
+
+Pokud se na začátku rozhodnete, které toaletní sedátko potřebujete, pak je určitě jednodušší zvolit jeho velikost později.
