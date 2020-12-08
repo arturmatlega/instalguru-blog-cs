@@ -29,7 +29,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Specialista na prodej a marketing v obchodě Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/metody-laczenia-rur-gwintowanie-rur-zgrzewanie-czy-skrecanie-co-najlepiej-wybrac.html
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
 noindex: false
 
 ---
