@@ -4,7 +4,7 @@ url: "https://instalguru.cz" # the base hostname & protocol for your site, e.g. 
 lang: "cs"
 photo: "/assets/img/default.jpg"
 scvarificationnumber: "BXouePicariScvOfScx50-AoQir0U2v48IohguIxOeo" # numer identyfikacjyny google search console
-analyticsvarificationnumber: "UA-145248341-10" # numer identyfikacjyny google analyticks
+analyticsvarificationnumber: "G-13CGKKZ9RL" # numer identyfikacjyny google analyticks
 gtagmanagervarificationnumber:
 optimizevarificationnumber:
 facebookpixelnumber: "438112533832846" 
