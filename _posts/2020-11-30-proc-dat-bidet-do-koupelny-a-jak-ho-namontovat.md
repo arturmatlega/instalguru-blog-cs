@@ -92,8 +92,6 @@ Minimální vzdálenost mezi záchodovou mísou a bidetem by tedy měla být kol
 
 Pokud je bidet umístěn u stěny, doporučuje se ho umístit přibližně ve vzdálenosti 30-40 cm od něj. Je také velmi důležité zachovat dostatečný prostor před bidetem. Pro bezplatné použití bidetu stojí za to nechat před ním asi 60 cm volného místa.
 
-![](/uploads/bidet2.jpg)
-
 ## Jak namontovat bidet? Je to těžký úkol?
 
 Instalace bidetu vypadá přesně jako instalace jiných instalatérů v koupelně a na toaletě a navíc jde rychle a efektivně.
