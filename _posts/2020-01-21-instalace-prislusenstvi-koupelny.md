@@ -67,8 +67,6 @@ Druhé řešení volí zejména ochotní lidé, kteří si v koupelně zvolí ok
 
 Montáž umyvadla v tomto případě by měla být zahájena upevněním pouzdra automatického uzávěru v odtokovém otvoru umyvadla. Další akcí je instalace baterie. **Při provádění obou těchto akcí byste měli mít na paměti, že používáte příslušné podložky, které chrání vzniklou instalaci před únikem.** K již nainstalovanému korku je nutné utáhnout vypouštěcí soupravu se sifonem a do bočního otvoru vložit vypouštěcí trubku s těsněním a matici utáhnout. Toto připojení umyvadla může být provedeno nezávisle, a co víc - bez použití specializovaných nástrojů.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## Jak probíhá montáž stěnového umyvadla?
 
 Stěnové umyvadla patří k nejoblíbenějším. Vypadají skvěle v moderních koupelnách zařízených ve skandinávském stylu. Obvykle mají tvar v blízkosti kruhu nebo elipsy. Existuje však obrovský výběr tohoto typu zařízení na trhu, takže si každý může vybrat perfektní produkt podle svých očekávání.
