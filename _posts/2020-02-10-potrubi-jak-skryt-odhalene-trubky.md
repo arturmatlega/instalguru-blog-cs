@@ -62,8 +62,6 @@ Nezapomeňte, že vytvořená konstrukce gk bude vypadat dobře, pokud se postar
 
 Pokud jste zvědaví, jak skrýt trubky v malé koupelně-v tomto případě se hodí sádrokarton. **Je však třeba si uvědomit, že interiéry s vysokou vlhkostí vyžadují použití speciálních desek GC s vodoodpudivými vlastnostmi**. Určitě budou odolnější a méně vystaveny škodlivým faktorům.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Maskování trubek s barvou
 
 Potřebujete rychlý způsob, jak maskovat potrubí? Mnohem levnější a méně invazivní alternativou než samotná stavba trubek je jejich barvení barvou stěn. Nejlepší je to udělat při dokončování nebo opravě místnosti. Ve skutečnosti však tento typ maskování trubek může být proveden kdykoli. Jediné, co byste v tomto případě měli mít na paměti, je volba přesně stejné barvy, jakou byly namalovány Ostatní části interiéru. Díky této metodě se potrubí dokonale vejde do povrchu stěny a bude téměř neviditelné.
@@ -79,8 +77,6 @@ Nejjednodušší způsob, pokud jde o maskování trubek umístěných pod strop
 {:.distinction.distinction-info.distinction-negative}
 
 Pro pokrytí nežádoucích prvků, kteří jdou po povrchu podlahy, ideální je široká pohovka, která se nachází po celé délce stěny. To je způsob, který si může dovolit každý - aniž by musel provádět opravy.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Prefabrikované instalace potrubí
 
