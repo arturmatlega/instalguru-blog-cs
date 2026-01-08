@@ -78,8 +78,6 @@ Může se stát, že gravitační větrání ve vašem domě bude nutností, co�
 
 **Větrání domu tohoto typu je podrobeno zkouškám, zejména v létě a v zimě.** Základem účinnosti takového systému je zachování teplotního rozdílu. To znamená, že vzduch uvnitř budovy by měl mít vyšší hodnotu než venku. Velmi často, zvláště u špatně спроектированными kanály, můžete narazit na situace, kdy v létě vzduch se vrací dovnitř a v zimě větrání v domě je příčinou nízké teploty a chladu.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Větrání v domě - stojí za to vsadit na pokročilé mechanismy?
 
 Při analýze fungování mechanického větrání si lze všimnout, že ve skutečnosti neexistuje žádný jednotný systém. V závislosti na akci je přidělena instalace:
@@ -128,8 +126,6 @@ Inspekce by měla být prováděna kominíkem s příslušnými pravomocemi. Je 
 
 Správné větrání v domě je základem a tato otázka by neměla být podhodnocena. Vzhledem k tomu, že člověk tráví většinu svého života doma - stojí za to postarat se, aby se v něm cítil pohodlně a bezpečně.
 
-![](/uploads/wentylacja_w_domu.jpg)
-
 ## Ventilace v garáži - co o ní říkají zákony?
 
 Moderní domy se v současnosti velmi často stavějí podle projektů, kde je ve stejném objektu hned garáž. Samotné **větrání v garáži** je navíc v tomto případě zásadní záležitostí.
@@ -147,8 +143,6 @@ Tento typ větrání v garáži a domácnosti funguje přesně tak, je díky poh
 Vzduch s vyšší teplotou přicházející z garáže má menší hustotu než chladnější venku, takže stoupá nahoru. Celý proces konvekce je ve skutečnosti způsoben tradičními větracími mřížemi, které používají jak ventilaci v domě, tak v garáži.
 
 Při výběru takového větrání v garáži jsou ideální obdélníkové nebo čtvercové větrací mřížky hnědé. Větrání v domě naopak mnohem častěji využívá kulaté větrací mřížky bílé barvy. Zvláště ty jsou velmi všestranné, protože kvůli odstínu se opravdu hodí do každého interiéru - bez ohledu na styl, ve kterém byl vyzdoben.
-
-![](/uploads/wentylacja_w_domu2.jpg)
 
 **Větrání v garáži může být také mechanické.** Toto řešení nejen ovlivňuje přívod dostatečného množství čerstvého vzduchu, ale také jej dále vysušuje. Mechanická instalace není závislá na povětrnostních podmínkách, takže je ideální kdykoli v roce. Předpokladem pro vytvoření takového systému je však ideální těsnost místnosti. Samotná instalace je navíc rozhodně dražší než gravitační větrání v garáži. Měli byste být také připraveni na náklady spojené s jeho používáním.
 
