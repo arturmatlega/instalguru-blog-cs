@@ -61,8 +61,6 @@ Lineární odtok, nazývaný také lineární odvodnění, je takzvané sprchov�
 
 Sprcha s tímto typem odtok vytváří mnoho příležitostí, pokud jde o design interiéru, protože to zabírá málo místa, a jeho umístění závisí na individuálním vkusu uživatele. Kromě toho si můžete vybrat klasické lineární odvodnění s jednoduchým vzorem nebo moderní lineární odvodnění zdobené individuálními drážkami.
 
-![](/uploads/curbless2.jpg)
-
 ## Je sprchový kout bez palety bezpečným řešením koupelny?
 
 Sprcha bez palet je velmi praktické řešení a především naprosto bezpečné pro koupelnu, takže se nemusíte zamýšlet nad vhodností jeho použití, protože se obáváte záplavy.
@@ -88,8 +86,6 @@ Sprchové kouty bez palet jsou veřejně dostupné v nabídkách mnoha společno
 Cena těchto stěn se liší. Stejně tak je zastoupena cena sprchových dveří.
 
 Další možností je koupit kabinu typu walk in, která byla vybavena pouze jednou nebo dvěma stěnami. Tento typ sprchy závisí na výrobci, výrobním materiálu a modelu. Obecně platí, že s rostoucí cenou se také zvyšuje komfort používání a estetika sprchy.
-
-![](/uploads/curbless3.jpg)
 
 ## Jaké výhody má sprcha bez palety?
 
