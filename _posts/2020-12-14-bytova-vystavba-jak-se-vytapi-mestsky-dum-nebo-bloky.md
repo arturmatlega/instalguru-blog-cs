@@ -85,8 +85,6 @@ Může městský dům nebo obytná jednotka, která již existuje, získat náro
 * Stávající budovy - financování je poskytováno na výměnu starých zdrojů tepla za tepelná čerpadla nebo jiné ekologicky šetrné zdroje energie.
 * Zahájení výstavby - v tomto případě grant je možné získat na instalaci a nákup tepelného čerpadla nebo jiného zdroje, které splňují technické požadavky programu.
 
-![](/uploads/tenement2.jpg)
-
 ## ¿Pueden los bloques y las casas de vecindad utilizar calefacción por suelo radiante?
 
 La construcción de viviendas multifamiliares se centra cada vez más en la calefacción por suelo radiante. En este caso, sin embargo, la cuestión está dentro del ámbito individual de los propietarios de los apartamentos. Tienen dos soluciones para elegir. Es posible utilizar el agua o la electricidad. Cada uno de ellos garantiza un alto confort térmico, aunque trabajan con un principio ligeramente diferente. El sistema de agua es definitivamente más popular.
@@ -104,8 +102,6 @@ La construcción de viviendas multifamiliares se centra cada vez más en la cale
 ## Kondenzační kotle používané bytovou výstavbou
 
 Alternativním řešením, které se používá k vytápění bytových domů, jako jsou bloky nebo řadové domy, jsou kondenzační kotle. Tato zařízení poskytují maximální tepelný komfort s minimální spotřebou energie. Kotle jsou šetrné k životnímu prostředí a jejich instalace ovlivňuje snížení nákladů spojených s používáním topného systému.
-
-![](/uploads/tenement3.jpg)
 
 ### Jak funguje kondenzační kotel?
 
