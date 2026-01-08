@@ -52,8 +52,6 @@ Odborníci klasifikují přepínače podle několika kritérií. Nejčastější
 
 Esteticky můžete také rozlišovat mezi přepínači kvůli typu tlačítek. Výrobci nabízejí již řadu let známé přepínače s mechanickým tlačítkem, nicméně popularitu získávají dotykové spínače. Mají hladkou desku vybavenou senzorem.
 
-![Spínač žebříku - čím vyniká?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Spínač žebříku - čím vyniká?")
-
 ## Schodiště a křížový spínač
 
 Schodišťové spínače jsou zvláštním typem zařízení. S nimi můžete ovládat jeden světelný zdroj ze dvou různých míst. Takové řešení je mimořádně užitečné především na schodech, abyste se nemuseli vracet dolů nebo nahoru, abyste vypnuli světlo.
@@ -81,10 +79,6 @@ Obvykle je zapotřebí více prvků pro připojení libovolného přepínače. T
 
 Jakýkoli spínač - schodišťový nebo běžný, funguje na podobném principu. K zapnutí světla dochází stisknutím tlačítka, tedy zkratováním elektrického obvodu. Stejně tak přepínání tlačítka přeruší obvod, což způsobí, že proud přestane proudit - a světlo zhasne.
 
-Připojení jednoduchého jističe s jedním tlačítkem souvisí s připojením vodičů mezi jističem a žárovkou. **Schéma tohoto připojení je uvedeno níže:**
-
-![Obecný princip fungování přepínačů](/uploads/jak_podlaczyc_wlacznik_schemat1_cz.jpg "Obecný princip fungování přepínačů")
-
 V žádném případě nelze zaměňovat dráty-například fázové s neutrální. Tato situace představuje nebezpečí při výměně žárovky v žárovce-dokonce i při vypnutém světle!
 
 ### Schodišťový spínač - schéma
@@ -93,16 +87,8 @@ Připojení schodiště je trochu složitější, protože se zde používají d
 
 Pokud jde o schodišťový spínač - obvod bude trochu složitější. V tomto případě je fázový vodič přiváděn k jednomu z konektorů a zdroj osvětlení k druhému. Neutrální a ochranné vodiče jsou přiváděny k žárovce nezávisle. Samotné jističe musí být propojeny dvěma dalšími vodiči.
 
-**Níže je schéma schodiště, které ukazuje, jak připojit spínač žebříku:**
-
-![Schodišťový spínač - schéma](/uploads/jak_podlaczyc_wlacznik_schemat2_cz.jpg "Schodišťový spínač - schéma")
-
 ### Jak připojit 3 - bodový schodišťový spínač?
 
 Jak již bylo zmíněno, **schodiště může obsahovat více než dva upevňovací prvky**. K tomu je třeba použít křížový spínač. Schéma schodiště tohoto spojení se příliš neliší-mezi dvěma schodišťovými jističi je nutné připojit třetí jistič. Počet křížových spojů je libovolný a může být přizpůsoben vašim potřebám. To vám umožní zapnout světlo na schodech, zatímco v jiných místnostech.
-
-**Níže je schéma zapojení žebříku pomocí schodišťového konektoru:**
-
-![Jak připojit 3 - bodový schodišťový spínač?](/uploads/jak_podlaczyc_wlacznik_schemat3_cz.jpg "Jak připojit 3 - bodový schodišťový spínač?")
 
 **Schodiště není tak těžké, jak by se mohlo zdát.** S řádným schématem schodišťového spínače můžete tento úkol snadno provést sami.
