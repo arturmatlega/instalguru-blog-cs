@@ -69,8 +69,6 @@ Rozdíl, který vykazují topné jednotky, kde se používají systémy PEX, je 
 
 ### Topné jednotky pomocí zkroucených armatur
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Základem, který každý topný systém používá, jsou **vodiče PEX / AL / PEX**. Jejich anastomóza se však provádí pomocí příslušných armatur. Ve zkroucené armatuře můžeme zvýraznit následující prvky:
 
 1. Závitová matice.
@@ -86,8 +84,6 @@ Ve zkroucených armaturách je matice odšroubována z dielektrického distančn
 Měli byste být opatrní, abyste matici příliš neotočili, protože to může poškodit jak armaturu, tak trubku.
 
 ## Topný systém pomocí lisovaných armatur
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 Velmi populární jsou také topné jednotky, kde se používají lisované armatury. V tomto případě lze rozlišit následující armatury:
 
