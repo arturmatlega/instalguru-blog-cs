@@ -67,8 +67,6 @@ Proto ve většině situací je základní nátěr stěn nezbytnou činností. Z
 
 Pamatuj! Použití půdy je nezbytné, když byla ze zdi poškrábána stará barva nebo byla provedena malá oprava, jako je tmel dutin, který je výsledkem mechanického poškození.
 
-![](/uploads/priming2.jpg)
-
 ## Jak zkontrolovat, zda je nutné provést základní nátěr stěn?
 
 Kontrola, zda je třeba provést základní nátěr stěn, není obtížný úkol - existují však dvě metody, které se liší tím, že jsou nastaveny další parametry.
@@ -84,8 +82,6 @@ Druhou metodou je studium pevnosti stěny a vrstev výrobků, které byly použi
 ## Základní nátěr stěn před tapetou - kdy je vhodné?
 
 Základní nátěr stěny před tapetou nebo po zbourání tapety je vždy nezbytný - ať už je konkrétní budova nová nebo renovovaná. V tomto případě také nezáleží na tom, jaké omítky byly použity v dané místnosti. V takové situaci může být podstatným rozdílem naopak Typ aplikovaného opatření.
-
-![](/uploads/priming3.jpg)
 
 ## Půda pro stěny - jak vybrat správný střed?
 
