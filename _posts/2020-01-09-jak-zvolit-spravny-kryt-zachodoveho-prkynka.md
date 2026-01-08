@@ -85,8 +85,6 @@ Podobně vypadá otázka možnosti výběru formy. Většina standardních ovál
 
 Další skupinou výrobků jsou záchodové mísy určené pro malé děti. V tomto případě je připojen speciální kryt toalety, který má speciální víko. To umožňuje dětem normálně používat toaletu.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## Moderní záchodové mísy
 
 Toaleta a její volba mohou být také považovány v kontextu moderních technologických řešení, které učiní použití koupelny mnohem jednodušší. Jedním z hlavních modelů v tomto rozmezí jsou sedačky s nízkým sedákem, které mají mnoho výhod.
