@@ -78,8 +78,6 @@ Navíc v tomto případě lze hovořit o plýtvání tepelným potenciálem a vy
 
 V ceně jsou zahrnuty jak **materiály, tak služby**. Je však třeba vzít v úvahu, že je to orientační cena teplé podlahy, které mohou být různé v závislosti na potřebné vybavení, jeho kvalitě a především na výši mzdy specialisty, které jsou určeny často cenami v určitém regionu.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Elektrické podlahové vytápění - kdy to funguje nejlépe?
 
 **Elektrické podlahové vytápění má mnoho výhod.** Jedním z nich je možnost montáže v každé budově a místnosti. Může být použita jak jako základní topný systém domu nebo bytu, tak jako doplněk k jiné metodě.
