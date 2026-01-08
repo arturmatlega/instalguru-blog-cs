@@ -76,8 +76,6 @@ Jedná se o nejčastěji používanou metodu, která funguje v době, kdy se uvn
 
 Může se však ukázat, že problém byl velmi dlouho bagatelizován, protože došlo k ucpání potrubí a bude nutné je utěsnit.
 
-![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
-
 ### Podívejte se na domácí způsoby, jak rozmrazit potrubí, je to dobrý způsob, jak ucpat umyvadlo
 
 Pokud je ucpaný dřez spojen s ucpanými trubkami, můžete použít mimo jiné velmi jednoduchou metodu pomocí sody, octa a vroucí vody. Jak pracujete potrubí pomocí této metody?
