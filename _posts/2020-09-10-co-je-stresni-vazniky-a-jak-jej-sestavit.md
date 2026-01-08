@@ -60,8 +60,6 @@ Který z těchto prvků bude ve střešním vazníku, rozhodne samotná konstruk
 
 Pokud jde o dřevěné střešní konstrukce, existuje mnoho řešení na trhu. V**ýběr konkrétního typu střešního potěru je určen ještě ve fázi návrhu budovy**. Při výběru konkrétních typů střech je třeba vzít v úvahu faktory, jako jsou rozměry a tvar domu, finanční možnosti i estetické úvahy. U rodinných domů je nejčastěji používaným typem krokve, krokve a krokve.
 
-![Typy střech-jaké typy střešních krovů jsou nejoblíbenější?](/uploads/wiezba-dachowa-budowa-domu.jpg "Typy střech-jaké typy střešních krovů jsou nejoblíbenější?")
-
 ### Dřevěná střešní konstrukce - krokve
 
 Tato střešní konstrukce může být použita v případě, že průlet stěn budovy není větší než 7 m. **Sklon střechy by neměl překročit 45 stupňů**.  Obvykle se používají krovy-trámové střešní krokve. Takový systém používá krokve a stropní nosníky, které společně tvoří krov spočívající na stěnách budovy. Krokve se podepírají pouze na dvou místech-v místě spojení se stěnou a na bruslích.
