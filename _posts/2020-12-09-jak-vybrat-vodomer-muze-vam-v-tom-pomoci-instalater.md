@@ -84,8 +84,6 @@ Digitální vodoměr je určitě přesnější zařízení, které bylo již ně
 
 Pokud zvolíte vodoměr, pak druhé velmi důležité oddělení, o kterém byste měli vědět, je spojeno s použitím měřiče vody pro teplou nebo studenou vodu. Jedno zařízení v tomto případě nestačí. Ledaže se studená voda ohřívá v inteligentním ohřívači. Pak je namontován jeden pult pro studenou vodu.
 
-![](/uploads/wodomierz2.jpg)
-
 ### Vodoměr pro speciální úkoly
 
 Při výběru vodoměru, který je určen pro dům nebo byt, byste neměli mít vážné problémy s touto záležitostí. Instalatér a jeho znalosti se však mohou hodit, když je zapotřebí speciální vodoměr. Na trhu jsou k dispozici mimo jiné přístroje:
