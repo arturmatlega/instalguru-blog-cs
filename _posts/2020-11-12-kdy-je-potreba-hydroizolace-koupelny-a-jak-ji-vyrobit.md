@@ -70,8 +70,6 @@ Bez ohledu na to, jak dobře je vyroben dlaždice, vždy je tam nějaký únik p
 
 Stále častěji se tak objevují dva typy hydroizolace provedené v jedné místnosti. Základem je ochrana základny před pokládkou glazury. Tehdejší opatření chrání konstrukci budovy před vniknutím vody. Druhou otázkou je hydroizolace na povrchu dlaždice. Díky použití speciálních prostředků je voda udržována na glazuře, odkud může být snadno odstraněna účinným ventilačním systémem.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Hydroizolace koupelny - které oblasti místnosti jsou ovlivněny?
 
 Každá koupelna má dvě zóny: vlhkou a vlhkou. První se týká prakticky celé koupelny. Jedná se o místa, která jsou náchylná k přímému kontaktu s vodou, která se může rozstřikovat všude - při příležitosti každodenních, běžných činností.
@@ -89,8 +87,6 @@ Hydroizolace koupelny může být provedeno třemi typy tmely-každý z nich má
 * **Kapalný film** - je prostředek vyrobený na bázi syntetických pryskyřic, díky čemuž poskytuje vynikající ochranu. Výrobek je velmi snadno použitelný, jednoduše jej promíchejte a poté jej nanášejte na vybraný povrch, například pomocí speciálního válečku nebo štětce. První vrstva léku může být položena jakýmkoli způsobem a druhá by měla být kolmá k němu. Velkou výhodou filmu je jeho všestrannost. Může být použita jak pro betonové povrchy, potěry, cementové omítky, tak pro sádrokartonové desky. Tento druh ochrany se doporučuje těm, kteří ocení čas, film vysychá velmi rychle, což vám umožní okamžitě dokončit koupelnu s obklady.
 * **Tmel** - je skvělou alternativou k kapalnému filmu. Obsahují cementovou maltu a syntetické pryskyřice. Tento typ materiálu má mnohem větší hustotu než výše uvedený film. Nejčastěji se používá k ochraně všech minerálních povrchů, ale na trhu jsou také odrůdy určené k obkladům s dlaždicemi nebo přírodním kamenem. Roztok by měl být aplikován křížem ve dvou vrstvách. Nepoužívejte jej v podlahových vyhřívaných místnostech.
 * **Hydroizolační malty na bázi cementu** - jsou také velmi účinným materiálem, který se používá nejen v koupelnách, ale také na terasách, balkonech nebo k zajištění základů. Tento materiál je extrémně odolný, mrazuvzdorný a flexibilní.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## Hydroizolace koupelny - jak to udělat krok za krokem?
 
