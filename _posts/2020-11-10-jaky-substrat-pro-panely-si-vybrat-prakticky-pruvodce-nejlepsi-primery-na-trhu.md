@@ -86,8 +86,6 @@ Pokud máte zájem o **dobrý základní nátěr, který se postará o správnou
 
 Tento typ materiálu je skvělou volbou, zvláště pokud chcete podlahu vyrovnat. Podložky XPS jsou k dispozici v několika variantách tloušťky - často až do 6 mm. Tak, oni jsou ideální izolátory a fungují velmi dobře v nevytápěných prostorách. Je to také dobrá půda, která může být použita, pokud jde o systém podlahového vytápění. Podložky pro panely vyrobené z extrudovaného polystyrenu jsou odolné proti vlhkosti, dokonale snižují přenosový zvuk a také zajišťují trvanlivost podlahy.
 
-![](/uploads/underlay2.jpg)
-
 ## Nejlepší podklad pro panely - podlahové vytápění
 
 Materiály určené pro místa, kde bylo použito podlahové vytápění, musí splňovat zvláštní požadavky. Jaký podklad pro panely je v tomto případě vhodný? Odborníci doporučují zvážit rohože z polyethylenu s vysokou hustotou. Taková podložka pod panel v jednoduchosti se nazývá HDPE.
@@ -115,8 +113,6 @@ Ačkoli je to v mnoha případech dobrý základ, takové řešení má však n�
 ## Jaký je podklad pro panely, když je podklad nerovný?
 
 Pro nerovný povrch je dobrý základní nátěr obzvláště důležitým problémem. Umístění podlahy na skvrnité rovině může vést k jejímu pohybu, ohýbání a zničení desek. Aby se předešlo těmto důsledkům, je třeba před položením panelů správně vyrovnat základnu.
-
-![](/uploads/underlay3.jpg)
 
 Který podklad pro panely bude v tomto případě fungovat nejlépe? U podlah s relativně malými výškovými rozdíly se doporučuje instalace extrudovaného polystyrenu (XPS). Vyrovnává všechny nerovnosti, takže podlaha bude mít dokonalou rovinu. V případě, že podlaha má trochu více dutin a rozdíly ve výšce jsou velmi patrné, vytvořte betonovou hubici. Obvyklá podložka na panely bohužel nebude stačit.
 
