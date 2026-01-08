@@ -77,8 +77,6 @@ Metody připojení trubek z polypropylenu vytvářejí potřebu použití polyfu
 
 Prvky systému PP-R však mohou být také navzájem propojeny řezáním závitů potrubí. K tomu se používají kování se speciálním mosazným vnějším nebo vnitřním závitem. Je také nutné použít speciální nástroj, který rozhodně usnadňuje tuto akci. Olej na řezání závitů bude užitečný.
 
-![](/uploads/pipes2.jpg)
-
 ## Hlavní body připojení trubek PEX
 
 Pro připojení potrubí v systému ústředního topení a teplé vody se nejčastěji používají zkroucené a lisované armatury. Obě trubky PEX poskytují uspokojivé výsledky a jsou odolné proti faktorům, které je ovlivňují.
@@ -86,8 +84,6 @@ Pro připojení potrubí v systému ústředního topení a teplé vody se nejč
 Pro zkroucení dílů pro připojení armatury k potrubí je nutné pouze utáhnout matici. Tím se upevní upínací kroužek na drátu. Kroužek byl profilován tak, aby během utahování matice neklouzal.
 
 V případě metody připojení trubek pomocí lisovaných armatur se spojení provádí přes pouzdro, které se aplikuje přímo na trubku. Pro tento způsob připojení vodičů je také zapotřebí speciální lisovací stroj. Přístroj se aplikuje na kleštinu a pak se zapne svařovací stroj. Již po několika sekundách je slyšet prasknutí, které signalizuje, že pouzdro je připojeno k potrubí.
-
-![](/uploads/pipes3.jpg)
 
 ## Připojení PE trubek - jaké metody se nejčastěji používají?
 
