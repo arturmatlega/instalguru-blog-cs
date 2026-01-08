@@ -71,8 +71,6 @@ Chcete vědět, jak šetřit vodou a hledat hotová řešení? Představujeme v�
 
 Jak udržet vodu pod tekoucí vodou? Je to vůbec možné? Samozřejmě-stačí jen to, že nebudete mýt nádobí pod tekoucí vodou. V kuchyni můžete nainstalovat mobilní výtok pro směšovač - s jeho pomocí nasměrujete tok přesně tam, kde potřebujete.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 Používáte myčku? To není problém - také v tomto případě je možné zadržet vodu. Jen ji zapni, než se naplní.
@@ -112,8 +110,6 @@ Většina vody se používá k splachování toalety-i když to není nutné. Na
 ### Vyberte si sprchu, ne vanu - je to účinný způsob, jak ušetřit vodu
 
 Jak rychle ušetřit vodu při každodenním koupání? Místo vany zvolte sprchu. V průměru potřebujete asi 200 litrů, abyste naplnili vanu. Během sprchování můžete použít asi 50 Litrů. Zvažte pouze, jaké úspory jsou v domě 3 nebo 4 osoby.
-
-![](/uploads/watersaving3.jpg)
 
 ### Užijte si technologické novinky - aneb jak šetřit vodou ve sprše
 
