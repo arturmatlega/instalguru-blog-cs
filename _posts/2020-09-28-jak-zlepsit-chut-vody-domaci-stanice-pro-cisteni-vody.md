@@ -67,8 +67,6 @@ Mnoho lidí se obává kvality vody z vodovodu. Mezitím, s instalací připojen
 
 **Chemická pachuť, se kterou se můžete setkat v případě vody z vodovodu, je spojena s procesem dezinfekce, během kterého se používá chlor.** To je jeden z nejčastěji zmiňovaných nedostatků mezi lidmi, kteří používají vodovod. To však neznamená, že tekutina získaná z vlastních snímků je bez nedostatků. Zde je zase často cítit chuť železa. Vše závisí na místě a hloubce zdroje.
 
-![Odkud pocházejí problémy s chutí vody?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "Odkud pocházejí problémy s chutí vody?")
-
 ## Voda z vlastního výstřelu - je zdravější než voda z vodovodu?
 
 Mnoho lidí je přesvědčeno, že vlastní přívod vody poskytuje mnohem lepší kvalitu než vodovody. A co vlastně? **Připojením ke sdílené síti si můžete být jisti, že voda je bezpečná, jak bylo dříve vysvětleno.** Pravidelné studie vylučují přítomnost nebezpečných látek pro člověka. U vlastních snímků je nutná nezávislá kontrola stavu kvality vody, která je velmi často podceňována kvůli nutnosti účtovat poplatky za provedený výzkum.
@@ -95,8 +93,6 @@ Vodní filtry dostupné na trhu se od sebe liší různými parametry. Předevš
 
 Nejjednodušší typ je takzvaný **sítko, strunový nebo pěnový vodní filtr. Jsou také často označovány jako sedimentární nebo mechanické filtry**. Díky tomuto produktu budete moci odstranit z vodovodu takové nečistoty, jako jsou zrnka písku nebo malé neviditelné pouhým okem, pro osobu prvky rzi. Účinnost takového příspěvku závisí především na jeho hustotě a na tom, jak velké molekuly bude schopen udržet.
 
-![Typy filtrů používaných k čištění vody - který vodní filtr si vybrat?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Typy filtrů používaných k čištění vody - který vodní filtr si vybrat?")
-
 Velmi oblíbené jsou také gelesizační filtry, které se používají hlavně pro vlastní vodní snímky. **Obvykle, stejně jako mechanické kazety, jsou navrženy tak, aby byly namontovány do skříní odpovídající velikosti a konstrukce**. Úkolem tohoto zařízení je zbavit se škodlivých sloučenin železa. Částečně je také možné odstranit dusík nebo sirovodík.
 
 V mnoha domácnostech také vzniká problém **takzvané tvrdé vody**. To znamená, že ve svém složení jsou velmi velké usazeniny vápníku a hořčíku. Ani to však není problém, protože stačí použít změkčovací filtry, abyste se zbavili sedimentu vypadajícího z kapaliny.
@@ -106,8 +102,6 @@ V mnoha domácnostech také vzniká problém **takzvané tvrdé vody**. To zname
 Sloupce filtru jsou jednou z nejlepších možností pro domácnosti. Tyto typy zařízení jsou charakterizovány především **vysokým výkonem**. Díky nim můžete z kapaliny odstranit všechny druhy sloučenin. Specifické účinky lze dosáhnout v závislosti na filtrační vrstvě.
 
 **Filtrační vrstva není nic jiného než speciální výplň sloupu, která absorbuje všechny škodlivé látky**. V závislosti na jeho typu je čas od času nutné jej umýt nebo provést regeneraci. Velmi důležitým aspektem filtračních sloupů je také nutnost jejich připojení k elektrickému systému a kanalizaci.
-
-![Filtrační sloupy - jak fungují moderní vodní filtry pro domácnost?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Filtrační sloupy - jak fungují moderní vodní filtry pro domácnost?")
 
 ## Stanice pro čištění vody-proč vsadit na systém reverzní osmózy doma?
 
