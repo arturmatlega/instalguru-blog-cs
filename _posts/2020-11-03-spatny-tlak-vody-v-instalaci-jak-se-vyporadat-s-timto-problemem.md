@@ -84,8 +84,6 @@ Ne vždy je příliš nízký tlak výsledkem stejných faktorů. Tento stav vě
 
 Stejně častou příčinou selhání, jako je nahromadění kamene v armatuře, je netěsnost instalace. **Zející potrubí nebo armatury používané k přenosu vody vedou k tomu, že značné množství vody je mimo instalaci a do přívodního bodu se dostane pouze zbývající část.** Jak v takovém případě zvýšit tlak? Je třeba dbát na správné utěsnění poškozených prvků nebo jejich úplnou výměnu.
 
-![](/uploads/water_pressure.jpg)
-
 ### Ideální tlak? Postarejte se o správné příslušenství
 
 Špatný tlak vody ve sprše je pravděpodobně příčinou nesprávně zvolených doplňků, jako je sprchová hlavice nebo dešťová sprcha. **Rozprašovací příslušenství musí být namontováno podle tlaku přítomného v instalaci.** Zařízení s příliš vysokými technickými požadavky nebude plnit svou funkci.
