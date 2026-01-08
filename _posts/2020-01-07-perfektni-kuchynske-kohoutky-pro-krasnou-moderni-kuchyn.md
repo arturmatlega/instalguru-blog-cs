@@ -68,8 +68,6 @@ Moderní kuchyně by měla být především funkční. Tuto skutečnost lze vy�
 
 Na co se zaměřit při výběru kuchyňského vybavení v tomto ohledu? Výrobci zdůrazňují, že nejlepší hubice je ta, která je ideální pro individuální potřeby uživatele. Správně vybraný produkt učiní každodenní činnost mnohem jednodušší a pohodlnější. Mezi modely na trhu vynikají baterie s výsuvnou, ohebnou a otočnou hubicí.
 
-![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
-
 ### Jeřáb s výsuvnou hubicí
 
 Moderní kuchyně již několik sezón sází na zajímavý výběr kuchyňských kohoutků. Jedním z nich je skládací jeřáb pod oknem s výsuvnou hubicí. Jedná se o extrémně funkční kuchyňské vybavení. Tento model najde uplatnění jak u jednokomorových, tak u dvoukomorových umyvadel.
