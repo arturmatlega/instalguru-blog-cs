@@ -67,8 +67,6 @@ Tekutý kohoutek může mít mnoho důvodů. Nejčastější příčinou poruchy
 
 Gumové prvky ovlivňují těsnost potrubí, ale po chvíli se rozpadají a ztrácejí těsnost. Jedná se o výrobky s určitou dobou použitelnosti, zejména při velkém provozu. V takové situaci lze problém s netěsným jeřábem vyřešit sami. Výměna těsnění v kohoutku je jen pár minut práce a stojí několik zlatých. Nicméně stojí za to získat základní znalosti v tomto ohledu, aby tato akce proběhla hladce a bez problémů.
 
-![](/uploads/washer2.jpg)
-
 ## Co je výměna těsnění za novou?
 
 Výměna těsnění v kuchyňské baterii nebo vanu je vždy prováděna stejným způsobem. Je třeba použít malý prvek, který je o-kroužek. Před montáží je však nutné určit tloušťku a velikost. Záleží na těchto parametrech, zda bude nová část dokonale osazena, a proto bude jeřáb správně fungovat.
@@ -105,8 +103,6 @@ Pokud by vás zajímalo, jak vyměnit těsnění v kohoutku-připravili jsme pro
 * Dalším krokem je odšroubovat a demontovat celou baterii. Tato akce může být provedena ručně bez použití jakýchkoli nástrojů.
 * Dalším krokem je vyšroubovat ventil ze zásuvky-k tomu se používá klíč o velikosti 19 nebo rozvodový klíč. To umožňuje plný přístup k celé zásuvce, abyste mohli zkontrolovat stav těsnění kohoutku. Pokud je výrobek silně opotřebovaný nebo poškozený, měli byste jej vyměnit. Chcete-li to provést, musíte vyšroubovat upevňovací šroub, odstranit starý kroužek a nasadit nový. Který model se v tomto případě hodí? Ideální je silikonové těsnění hlavy houby v bílé barvě nebo těsnění pro černou baterii.
 
-![](/uploads/washer3.jpg)
-
 ## Oprava kuchyňské baterie s kohoutkem
 
 Řešení problémů s unikajícím kuchyňským mixérem pomocí mixéru vypadá podobně jako standardní baterie. Rozdíl je hlavně ve stavebnictví, což však skutečně ovlivňuje úsporu času.
@@ -130,8 +126,6 @@ Výměna těsnění v kohoutku umožňuje další čištění prvků, jako je s�
 Problém s netěsným jeřábem může souviset i se samotným nosem. V tomto případě opravy také běží velmi hladce a nepatří k náročným úkolům, které byste sami nezvládli. Odšroubujte montážní šrouby a pomalu vyjměte výtok, abyste nepoškodili umyvadlo nebo umyvadlo. Staré těsnění by pak mělo být odstraněno. Na její místo je třeba vložit nový prvek. Pokud je tento úkol proveden správně-zajistěte hubici jako předtím a utáhněte šroub tak, aby se baterie neklouzala do strany.
 
 Zajímalo by mě, který produkt bude v tomto případě nejlepší? V tomto případě je ideální těsnicí kroužek Nálevkou z gumy, která je standardně vyráběna ve dvou velikostech: 1/2", 16 mm, 12 mm nebo 3/4", 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## Kolik stojí výměna těsnění v kohoutku?
 
