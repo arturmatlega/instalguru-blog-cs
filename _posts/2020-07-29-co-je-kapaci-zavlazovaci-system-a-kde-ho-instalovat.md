@@ -89,8 +89,6 @@ Odkapávací linka je jedinečné řešení, které má mnoho výhod. Důvodem j
 * **Kapkový zavlažovací systém snižuje riziko onemocnění rostlin.** Voda vstupuje přímo do půdy bez kontaktu s nadzemními částmi rostlin. To zabraňuje růstu plísní a hub, které se mohou vyskytnout při tradičním zalévání. Použití odkapávací linky také řeší problém s popáleninami listů.
 * **Takový systém může zvýšit výnosy zeleniny, ovoce a bylin.** Kapkové zavlažování znamená více dobře udržovaných rostlin a nezávislost na počasí, takže neexistují žádné obavy, že by sucho zničilo sklizeň.
 
-![Jaké výhody přináší kapkové zavlažování?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Jaké výhody přináší kapkové zavlažování?")
-
 ## Kde stojí za to používat kapkový zavlažovací systém?
 
 Vzhledem k tomu, že odkapávací linky mohou pokrývat i velmi velké plochy, je takový **systém doporučován a ochotně používán pro zemědělskou půdu**. Je to dobrý způsob zalévání rostlin, jako jsou jahody, borůvky nebo ovocné stromy. Instalace umožňuje úplnou kontrolu nad množstvím vody, která vstupuje do rostliny, takže neexistují žádné obavy z jejího rozlití, což může vést k hnilobě. To je důležitý aspekt, který může ovlivnit kvalitu sklizně.
@@ -104,8 +102,6 @@ Kapkový zavlažovací systém se nedoporučuje pro zalévání trávníků. V t
 ## Má kapkové zavlažování nějaké nevýhody?
 
 Navzdory mnoha výhodám, které kapkové zavlažování přináší, stojí za to vzít v úvahu i nevýhody takového řešení. Jedná se o systém, který se často nemůže pohybovat, takže je nejlépe používán pro vytrvalé rostliny. Odkapávací potrubí, stejně jako každá vodní instalace, jsou také náchylné k znečištění, které může vést k obstrukci systému. **Každá položka by měla být pravidelně kontrolována**. Může být také nepohodlné regulovat intenzitu zavlažování podle typu rostlin, ačkoli to lze snadno vyřešit pomocí rozvaděče a vytvořením několika kapek.
-
-![Má kapkové zavlažování nějaké nevýhody?](/uploads/linia-kroplujaca-nawadnianie.jpg "Má kapkové zavlažování nějaké nevýhody?")
 
 ## Kapkové zavlažování – jaké prvky jsou nezbytné pro vytvoření instalace?
 
@@ -142,8 +138,6 @@ Zajímalo by mě, kolik stojí kapkový zavlažovací systém? Stejně jako u v�
 {:.distinction.distinction-info.distinction-positive}
 
 Čím méně náročná je instalace, tím nižší je cena. Z tohoto důvodu byste měli zvážit, jaká řešení budou fungovat ve vašem konkrétním případě. S malými projekty se určitě můžete vzdát elektronických ovladačů, pokud pohodlí není prioritou. Náklady lze také snížit sázením na výše uvedenou samostatnou montáž.
-
-![Kapkové zavlažování – orientační cena](/uploads/podlewanie-kropelkowe.jpg "Kapkové zavlažování – orientační cena")
 
 ## Co jiného je třeba mít na paměti při výběru kapkového zavlažování?
 
