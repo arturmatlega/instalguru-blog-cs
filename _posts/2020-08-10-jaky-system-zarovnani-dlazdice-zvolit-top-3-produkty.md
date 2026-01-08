@@ -73,8 +73,6 @@ Systém vyrovnání dlaždic je **sada prvků, které usnadňují jejich lepení
 
 **Zarovnání dlaždic pomocí moderních systémů je řešení určené jak pro profesionály, tak pro kutily.** Pomocí této metody je práce nejen výrazně jednodušší, ale především mnohem rychlejší. **Systém vyrovnávání dlaždic odhaduje, že ušetří až 50% času**, který obvykle musí být vynaložen na použití klasických dálkových křížů.
 
-![Jaký je systém vyrovnání dlaždic?](/uploads/system-poziomowania-plytek-szczypce.jpg "Jaký je systém vyrovnání dlaždic?")
-
 ## Jak funguje systém vyrovnání dlaždic?
 
 Standardní systém vyrovnání dlaždic se skládá ze **speciálně tvarovaných svorek a klínů s charakteristickými výčnělky**. Je velmi důležité používat oba tyto prvky, protože pouze společně přinášejí očekávané výsledky.
@@ -95,8 +93,6 @@ Měli byste také zdůraznit, že nezáleží na tom, jaký typ dlaždice použ�
 * grés,
 * žula,
 * kámen.
-
-![Kde lze použít systém vyrovnání dlaždic?](/uploads/system-poziomowania-plytek-top3.jpg "Kde lze použít systém vyrovnání dlaždic?")
 
 ## Stojí za to investovat do systému vyrovnání dlaždic? Výhody řešení
 
@@ -120,13 +116,9 @@ Mírně zvýšené konce svorek na obou stranách jsou umístěny pod sousední 
 
 Velmi často je dalším prvkem této sady také speciální kleště, díky nimž se upevnění systému **a jeho prvků stává ještě rychlejší** a nevyžaduje téměř žádnou sílu.
 
-![Systém vyrovnání dlaždic s kotevními svorkami](/uploads/system_poziomowania_ranking.jpg "Systém vyrovnání dlaždic s kotevními svorkami")
-
 ### Systém vyrovnání dlaždic se standardními svorkami a klíny
 
 Jednou z možností výběru je sada pro pokládku dlaždic, která používá **klasické svorky a klíny**. V tomto případě klip připomíná okno se spodní polohou na obou stranách, které je vloženo mezi položené dlaždice. Toto okno slouží k upevnění klínu v něm. V tomto případě se na rozdíl od předchozího modelu dostává do středu klipu. Charakteristické jsou výčnělky, které umožňují maximálně zatlačit klín a dokonale sladit dlaždice.
-
-![Systém vyrovnání dlaždic se standardními svorkami a klíny](/uploads/system_poziomowania_ranking_2.jpg "Systém vyrovnání dlaždic se standardními svorkami a klíny")
 
 ### Opakovaně použitelný vyrovnávací systém
 
@@ -137,8 +129,6 @@ Tento typ vyrovnávacího systému se také skládá ze dvou prvků. Základem j
 {:.distinction.distinction-info.distinction-negative}
 
 Takové řešení není bez nedostatků. V případě jeho použití je třeba dodatečně použít dlaždice, což trvá mnohem déle a navíc je někdy problematické pro ty, kteří nemají zkušenosti. Kromě toho, jakmile jsou dlaždice zarovnány po dobu několika hodin, je třeba odstranit svorku. Tímto způsobem můžete zkazit výslednou úroveň.
-
-![Opakovaně použitelný vyrovnávací systém](/uploads/system_poziomowania_ranking_3.jpg "Opakovaně použitelný vyrovnávací systém")
 
 ## Systém vyrovnání dlaždic - jednorázový nebo opakovaně použitelný?
 
