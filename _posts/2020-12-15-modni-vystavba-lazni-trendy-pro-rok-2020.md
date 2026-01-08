@@ -75,8 +75,6 @@ V závislosti na tom, které těleso vany je instalováno, možná budete potře
 
 Navíc, pokud máte zájem o stavbu sádrokartonové vany, budete také potřebovat kovové profily C a U, stejně jako výlisky, vrtačku a nůžky. Naproti tomu pro skříň vyrobenou z betonových bloků bude nutné použít tenkovrstvý nebo lepící roztok pro zdivo, kapalný film, pilku, škrabku a základní nástroje pro zdivo.
 
-![](/uploads/tub2.jpg)
-
 ### Vestavěná vana - instalace krok za krokem
 
 Pokud se chcete zapojit do montáže skříně sami - měli byste dodržovat doporučení, která odborníci připravili. Níže uvádíme 8 kroků, které vám usnadní tento úkol.
@@ -111,8 +109,6 @@ Otvor by měl být dostatečně velký, aby mohl volně manévrovat nástroji. T
 ## Výstavba lázní - nejoblíbenější trendy 2020
 
 Zajímalo by mě, jak postavit vanu? Nevíte, jak změnit koupelnu? Moderní trh nabízí mnoho řešení. Za pozornost však stojí nejoblíbenější trendy roku 2020, které udělají prostor včas. Použitím zdánlivě nevýznamného pouzdra můžete dosáhnout zcela jiného stylu. Nezapomeňte, že Lamus již dávno opustil tovární obložení vany, nazývané také univerzální. Je pravda,že se vyznačovala lehkou a rychlou sestavou, ale samotná otázka estetiky zůstala žádoucí. Její místo nahradila jednoznačně lepší reprezentační řešení.
-
-![](/uploads/tub3.jpg)
 
 ### Instalace vany je ideální pro keramiku a armatury
 
