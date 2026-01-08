@@ -68,8 +68,6 @@ Jak však víte, kde je nejlepší umístit ohřívač koupelny? Můžete se ř�
 
 Vzhled koupelnového chladiče je klíčovou otázkou pro mnoho lidí, kterou považují za jednu z prvních při plánování dokončení koupelny. Z tohoto důvodu jsou tradiční modely radiátorů v průběhu let nahrazeny takzvanými koupelnovými radiátory-schody. Ty kromě hlavní funkce, tedy přenosu tepla do interiéru, plní i dekorativní roli. Navíc jsou velmi funkční, protože na nich můžete například po koupání vysušit jemné prádlo nebo ručníky.
 
-![](/uploads/grzejnik2.jpg)
-
 ## Koupelnový ohřívač schodů je dobrou volbou!
 
 Výběr koupelnového schodišťového chladiče je v současné době jednou z nejlepších a nejoblíbenějších možností mezi těmi, kteří se rozhodnou opravit koupelnu. Především je to ovlivněno skutečností, že na trhu jsou k dispozici různé modely schodišťových radiátorů. Stojí za zmínku, že téměř všichni mají stejnou konstrukci.
@@ -111,8 +109,6 @@ Tato otázka se týká několika důležitých prvků. Hlavní věc-výkon chlad
 Chcete vědět, jak nainstalovat ohřívač koupelny? Instalace schodišťového chladiče je jednoduchá činnost. Takže pokud se rozhodnete opravit koupelnu-můžete tento úkol zvládnout sami. Obecně platí, že sada, kterou kupujete, obsahuje všechny potřebné součásti, které potřebujete k jeho upevnění. Musíte pouze dodržovat několik pravidel.
 
 Vzhledem k tomu, že nejčastěji zvoleným modelem je koupelnový ohřívač schodů, představujeme schéma montážních prací souvisejících s tímto zařízením.
-
-![](/uploads/grzejnik3.jpg)
 
 Nejdůležitější je uzavřít přívod vody. Poté lze provést montáž schodišťového chladiče podle následujících bodů:
 
