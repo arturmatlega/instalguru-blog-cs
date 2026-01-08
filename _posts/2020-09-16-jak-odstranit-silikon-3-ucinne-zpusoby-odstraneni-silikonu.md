@@ -58,8 +58,6 @@ Metoda, kterou si vyberete, **závisí na typu povrchu, který tmel pokrývá**.
 
 Zvláště v případě, kdy je silikon odstraněn v koupelně z dlaždic, je třeba dbát na čistotu základny. Zbavte se všech předmětů, které stojí u vany nebo palety, a poté **důkladně opláchněte povrch dlaždice a malty**. K tomu můžete použít speciální mléko nebo běžný prací prostředek, například mycí prostředek. Je důležité se zbavit mýdlových skvrn, pak bude odstranění silikonu jednodušší a efektivnější.
 
-![Co byste měli mít na paměti při výběru odstranění silikonu?](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Co byste měli mít na paměti při výběru odstranění silikonu?")
-
 ## Odstranění silikonu - jsou chemické látky účinné?
 
 Jedním z nejoblíbenějších způsobů, jak účinně **odstranit silikon z jakéhokoli povrchu, je použití speciálních léků dostupných ve stavebních obchodech**. Takové prostředky obsahují silná rozpouštědla, která účinně změkčují silikonové těsnění a umožňují rychlé odstranění.
@@ -82,8 +80,6 @@ Příliš agresivní odstraňovač silikonu může způsobit poškození nebo zm
 
 Nevýhodou řešení, které charakterizuje odstranění silikonu chemickými prostředky, je **určitě malý zápach**. Přípravky tohoto typu obsahují ve složení rozpouštědla, jako je aceton. Po provedené proceduře je nutné místnost odvětrat. Pokud však v bytě bydlí lidé přecitlivělí na takové nepříjemné pachy, nezbývá nic jiného, než silikon odstranit ekologičtějším způsobem.
 
-![Jak odstranit silikon pomocí chemie?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Jak odstranit silikon pomocí chemie?")
-
 ## Ekologické odstranění silikonu. Jak odstranit silikon bez žíravé chemie?
 
 Máte obavy, že **stavební chemie pro odstranění silikonu** může být příliš korozivní? Nebo jen chcete vyzkoušet úspornější metody? Máme pro vás ideální řešení. Odstranění silikonu může být snadno provedeno mírným způsobem - a to vůbec neznamená, že bude méně efektivní.
@@ -100,8 +96,6 @@ Po vyčištění povrchu proveďte řez na jedné straně těsnění. Rozšiřte
 ## Jak odstranit silikon, který se utrhl a zůstal na povrchu?
 
 **Všechny zbytky svaru důkladně namažte tukem**. Počkejte, až silikon absorbuje mastnotu a poté odstraňte zbytky suchou houbou nebo hadrem. Vzhledem k tomu, že takové odstranění silikonu maže povrch, dbejte zejména na jeho čištění před nanesením nového těsnění. K tomu použijte jemný prací prostředek.
-
-![Jak odstranit silikon, který se utrhl a zůstal na povrchu?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Jak odstranit silikon, který se utrhl a zůstal na povrchu?")
 
 ## Používejte teplotu - jak odstranit silikon z oblečení, dřeva, rukou?
 
