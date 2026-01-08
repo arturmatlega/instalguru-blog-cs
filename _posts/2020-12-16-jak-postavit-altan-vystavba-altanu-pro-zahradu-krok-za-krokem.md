@@ -72,8 +72,6 @@ Existuje také určité omezení počtu takových objektů. V tomto ohledu jde o
 
 Otázka omezení a povolení se netýká jen výstavby altánu, ale všech druhů dalších hospodářských budov: vjat, nebo malých garáží.
 
-![](/uploads/gazebo2.jpg)
-
 ## Jak postavit altán? Začněte se základy!
 
 Stabilní základy jsou jedním z nejdůležitějších problémů v počátečních fázích výstavby zahradního altánu. Konstrukce musí odolat proměnlivým povětrnostním podmínkám - mimo jiné silným nárazům větru.
@@ -91,8 +89,6 @@ Nejlepším lékem, podle odborníků, je lék, který má ve svém složení pr
 {:.distinction.distinction-info.distinction-negative}
 
 Přestože jsou laky vynikající ochranou dřeva, nedoporučuje se je používat v zahradních altánech. To má přímý vztah k rostlinám, které velmi často používají konstrukci jako substrát pro další růst. V okamžiku, kdy je povrch příliš kluzký - rostlina se nemůže zachytit, takže nemůže spadnout, což zasahuje do jejího růstu.
-
-![](/uploads/gazebo3.jpg)
 
 ## Výstavba altánu - jaké střešní krytiny si vybrat?
 
