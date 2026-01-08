@@ -76,8 +76,6 @@ Standardní pokládka dlaždic na stěnu nebo podlahu zajišťuje použití prof
 
 Dlaždice - jak Podlahové, tak stěnové - velmi důležitý dekorativní prvek interiéru. Jejich správné umístění dává místnosti elegantní a estetický vzhled, a **proto při jejich výběru stojí za to věnovat pozornost na takové aspekty, jako je tvar a vzor.** Nicméně, v závislosti na těchto parametrech-pokládka dlaždic se může výrazně lišit od sebe. Níže uvádíme nejoblíbenější nápady, jak položit dlaždice. Díky nim váš interiér potěší každého.
 
-![](/uploads/plytki2.jpg)
-
 ### Jak položit čtvercové dlaždice?
 
 Čtvercové dlaždice jsou nejoblíbenějšími modely na trhu. Není divu, že si je vybírá tak velká skupina lidí.
@@ -122,8 +120,6 @@ Mnohem jednodušší způsob je položit dlaždice pomocí moderního vyrovnáva
 
 Samonivelační systém je také vynikající pomoc pro odborníky. Co od něj může profesionál získat? **Pokládka dlaždic bude dokonce dvakrát kratší. Díky tomu bude schopen vykonat druhou stejnou práci, a proto vydělá dvakrát tolik.**
 
-![](/uploads/plytki3.jpg)
-
 ## Jak položit dlaždice? Rychlé pokyny krok za krokem
 
 Při přípravě na operaci, která spočívá v **položení dlaždice** - nejprve je třeba připravit všechny potřebné nástroje a zkontrolovat obsah obkladů s dlaždicemi. Pokud je vše v pořádku, můžete je rozložit na podlahu.
@@ -139,8 +135,6 @@ Aplikace roztoku. Po vysušení lepidla byste se měli zbavit vyrovnávacího sy
 ## Jak položit dlaždice bez malty?
 
 Mnoho lidí sní o dokonale hladké podlaze bez nevzhledných přestávek. **Dokonale vyhlazená podlaha dává místnosti elegantní, ale minimalistický vzhled a vytváří pocit většího prostoru.** Je však možné položit dlaždice tak, aby mezery mezi nimi byly neviditelné? Jak se ukazuje, v dnešní době není nemožné. Naopak, takové pokládání glazury nese určité riziko. Před přijetím konkrétního rozhodnutí zkontrolujte.
-
-![](/uploads/plytki4.jpg)
 
 ### Za co je malta na dlaždice zodpovědná?
 
