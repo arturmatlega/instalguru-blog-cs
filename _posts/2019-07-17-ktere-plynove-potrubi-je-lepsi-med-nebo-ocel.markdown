@@ -70,8 +70,6 @@ Plynová instalace, která používá měděné dráty, poskytuje mnoho příle�
 
 Dalším způsobem je také použití lisovaných armatur. V tomto případě je vhodná obvyklá montáž PEX. Pokud však chcete změnit směr jízdy plynového zařízení-tím odpovídají konstrukci budovy, použijte odpaliště PEX nebo krimpovací lokty. Samotná montáž těchto prvků je však v současné době jedním z nejjednodušších, takže ji může zvládnout každý odborník. To také vede k výrazně nižším nákladům na plynovou instalaci.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Ocelové trubky - plynová instalace je více vystavena škodlivým faktorům?
 
 Ocelové trubky, které plynové zařízení používá, mají průměry větší než protějšky vyrobené z mědi. Je to proto, že jejich stěny jsou silnější. Díky tomu jsou tuhé a není třeba používat další upevňovací prvky ke stěně. **Bohužel, tímto způsobem je plynová instalace v domě také rozhodně těžší.** Ocelové trubky, stejně jako měděné dráty, mají vlastnost nazývanou tepelné roztažení. Takže jsou skvělé pro vysoké teploty.
